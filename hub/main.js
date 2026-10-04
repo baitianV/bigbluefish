@@ -1,4 +1,4 @@
-/* 蓝鲸游戏厅 大厅逻辑：清单加载、卡片网格、游戏模态与 postMessage 通信 */
+/* 鲸鱼娘游戏厅 大厅逻辑：清单加载、卡片网格、游戏模态与 postMessage 通信 */
 (function () {
   'use strict';
 
