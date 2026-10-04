@@ -20,7 +20,7 @@ python -m http.server 8000
 ## 新增一个游戏（3 步）
 
 1. 复制 `games/whale-run/` 为 `games/<你的id>/`（小写字母/数字/连字符）
-2. 任意技术开发，产物为纯静态文件、入口 `index.html`，引入 `/shared/js/bluefish-shell.js` 并按协议上报（ready / score / gameover / exit）
+2. 任意技术开发，产物为纯静态文件、入口 `index.html`，引入 `../../shared/js/bluefish-shell.js`（相对路径）并按协议上报（ready / score / gameover / exit）
 3. 在 `games.json` 登记一行，提 PR（只动自己文件夹 + games.json）
 
 完整契约（协议表、BFShell API、自测清单、常见坑）见 [docs/游戏接入指南.md](docs/游戏接入指南.md)。
