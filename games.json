@@ -1,0 +1,1 @@
+[{"id":"whale-run","title":"鲸鱼快跑（接入示例）","author":"bluefish","type":"runner","entry":"games/whale-run/index.html","thumb":"","aspect":"16:9","description":"方向键移动躲避水雷，活得更久。接入协议的示例游戏，可直接复制此文件夹作为开发起点。","controls":"方向键 / WASD 移动，P 暂停","order":99}]
