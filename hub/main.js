@@ -2,7 +2,7 @@
 (function () {
   'use strict';
 
-  var TYPE_NAMES = { fighting: '格斗', platform: '闯关', td: '塔防', runner: '跑酷', other: '其他' };
+  var TYPE_NAMES = { fighting: '格斗', platform: '闯关', td: '塔防', runner: '跑酷', sim: '模拟经营', other: '其他' };
 
   var grid = document.getElementById('game-grid');
   var errorBox = document.getElementById('hub-error');

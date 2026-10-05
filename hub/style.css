@@ -63,6 +63,7 @@ body {
 .type-platform { background: #aed581; }
 .type-td       { background: #ffe082; }
 .type-runner   { background: #80deea; }
+.type-sim       { background: #a5d6a7; }
 .type-other    { background: #b0bec5; }
 
 .card-body { padding: 12px 14px 16px; }
