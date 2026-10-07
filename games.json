@@ -35,5 +35,17 @@
     "controls": "点击 / 空格推进剧情 · 选项决定好感与结局",
     "order": 5,
     "fullscreen": true
+  },
+  {
+    "id": "whale-fist",
+    "title": "杀鲸霸拳",
+    "author": "bluefish",
+    "type": "fighting",
+    "entry": "games/whale-fist/index.html",
+    "aspect": "16:9",
+    "thumb": "",
+    "description": "出拳，命中，终结。大厅里的硬核动作小游戏。",
+    "controls": "键盘方向键移动+出拳（具体以游戏内说明为准）",
+    "order": 20
   }
 ]
