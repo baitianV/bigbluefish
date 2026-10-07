@@ -1,0 +1,18 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_海边.png -next -duration=1000 -exitDuration=1000;
+bgm:心动.mp3 -volume=45 -enter=2000;
+changeFigure:shenxun_event_festival.png -id=shenxun -right;
+暑假的第一天。海。
+防波堤的尽头，浪一遍一遍地推着白线。
+她提着那袋金鱼——我的「观测样本」，如今住在了她家的窗台上。这件事她坚称是「代管」。
+「有结论了吗。」她问，看着海。
+「什么结论。」
+「长期观测的。中期报告也行。」
+海风把她的发梢吹起来。浅蓝的一缕，在光里几乎透明。
+「你先说。」
+「我先说就输了。」她别过脸，
+「……惯例。」
+夏天只剩一个傍晚了。
+choose:把心意说出口:gate_a.txt|此刻的默契:gate_a_friend.txt;

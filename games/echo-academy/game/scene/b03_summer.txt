@@ -1,0 +1,47 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_夏祭.png -next -duration=1000 -exitDuration=1000;
+bgm:祭典.mp3 -volume=45 -enter=2000;
+changeFigure:peiti_event_yukata.png -id=peiti -left;
+夏祭。
+姬佩缇站在鸟居下，藤紫底银鹤纹的浴衣——不，那是以浴衣为设计感的夏礼服，她的坚持。
+;cg-final-begin
+changeFigure:none -id=peiti;
+changeBg:cg_yukata.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_yukata.jpg -name=夏祭的浴衣;
+;cg-final-end
+「不许夸。」「很漂亮。」「说了不许夸。」
+耳朵红了。
+参道上，一个扎冲天辫的小女孩仰头看她，看了很久。
+「花魁姐姐！」
+「……」
+「花魁姐姐好漂亮！」
+「我、我是学生会长——」
+「花魁会长！」
+小女孩被家长领走之后，她炸了整整一段路的毛。
+「那个词是那么用的吗！是吗！是吗！」
+「冷静，花魁会长。」
+「你也要闭嘴。」
+烟火的河堤，我们到得早。
+她看着表——habit, 手腕抬起来一半，停住。
+然后，把手表，摘了。
+塞进小包里。
+「今天不看它。」她宣布，像下了一道行政命令，
+「本会长特批。」
+第一发烟火升空。
+金色的，炸成一棵倒着生长的树。
+她仰着头，光一层层落在她脸上。
+没有表的会长，看烟火看得比谁都认真。
+「喂。」她忽然说，眼睛还在天上，
+「你说，要是每天都有烟火，会怎样。」
+「会腻吧。」
+「庸俗。」她笑了，「正确得庸俗。」
+「那会长大人希望怎样。」
+她没回答。
+第二发烟火升空的时候，她的手，在两人之间的栏杆上，
+往这边，挪了半寸。
+（烟火下的会长，没有看表）
+setVar:affection_b=affection_b + 2 -global;
+（姬佩缇　好感 +2）
+changeScene:b04_typhoon.txt;

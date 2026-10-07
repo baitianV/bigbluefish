@@ -1,0 +1,7 @@
+jumpLabel:g1 -when=affection_a >= 8;
+changeScene:end_a2.txt;
+label:g1;
+jumpLabel:g2 -when=flag_a4_endgame;
+changeScene:end_a2.txt;
+label:g2;
+changeScene:end_a1.txt;

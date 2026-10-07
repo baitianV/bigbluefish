@@ -1,0 +1,7 @@
+changeFigure:peiti_proud.png -id=peiti -left;
+「……好。」
+答应得太干脆，她挑了一下眉。
+「哦？手脚利索，态度也利索。」
+「明天放学，委员会教室。迟到的话——」
+她笑了笑，没有说完。
+changeScene:s02a_rooftop.txt;

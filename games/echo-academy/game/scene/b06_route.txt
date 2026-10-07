@@ -1,0 +1,21 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+bgm:心动.mp3 -volume=45 -enter=2000;
+changeFigure:peiti.png -id=peiti -left;
+她退烧后的第一个放学后。
+空教室。夕阳把课桌染成蜂蜜色。
+她把一样东西放在桌上，推过来。
+金色的会长臂章。
+「卸任倒计时，」她说，「还有一个月。」
+「给谁看这个。」
+「给你看。」
+她看着窗外，
+「三年了。这个臂章，比我自己还像我的脸。」
+「摘下来的时候，我想——」
+她停住。
+「想在它在的时候，有一个人，见过它下面的样子。」
+窗外的夕阳，一寸一寸沉下去。
+夏天只剩一个傍晚了。
+choose:把心意说出口:gate_b.txt|此刻的默契:gate_b_friend.txt;

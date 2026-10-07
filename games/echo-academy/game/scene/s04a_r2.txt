@@ -1,0 +1,6 @@
+「钥匙，我帮你找。」
+「哈？」她别过脸去，「随、随便你。反正也不是什么重要的表。」
+鲸尾在石阶上，轻轻拍了两下。
+setVar:affection_a=affection_a + 1 -global;
+（深寻　好感 +1）
+changeScene:s04b_classroom.txt;

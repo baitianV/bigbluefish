@@ -1,0 +1,6 @@
+changeFigure:peiti_smirk.png -id=peiti -left;
+「日程，能先看看吗？」
+「哦？谨慎。」她抱起手臂，「委员会就缺这种人。」
+头顶的小蓝云不太赞同地抖了抖。
+「明天放学，委员会教室。——这是命令，也是诚邀。」
+changeScene:s02a_rooftop.txt;

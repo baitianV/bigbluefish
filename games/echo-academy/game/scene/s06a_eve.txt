@@ -1,0 +1,42 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
+bgm:日常.mp3 -volume=45 -enter=2000;
+changeFigure:peiti.png -id=peiti -left;
+changeFigure:feibu.png -id=feibu -center;
+changeFigure:shenxun.png -id=shenxun -right;
+
+文化祭前一天。夜。
+委员会全员，最后一场挂灯工程。
+「左边！再高一点！」
+「会长，那根线不承重。」
+「在故事里，灯总是在最后一刻一起亮起——」
+「现在是现实，小克。」
+梯子上，桌子下，走廊里。
+吵吵闹闹的，像把这半年的日常全都挂了上去。
+十点整。
+姬佩缇按下开关。
+;cg-final-begin
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:cg_lanterns.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_lanterns.jpg -name=灯亮起来了;
+;cg-final-end
+灯。一串，又一串。次第亮起。
+暖黄色的光连成一片，把每个人的脸都照得发亮。
+「……成了。」
+她说得很轻。没有人接话。
+因为，都在看灯。
+第二天，就是文化祭。
+回家之前，我收到了三样东西。
+——一张折成方块的纸条：
+『棋摊。来不来随你。反正我一个人也行。（才不是在等你）』
+——一封盖了学生会公章的正式委托函。措辞公事公办。
+落款处，却有一行手写的小字：『明天，拜托了。』
+——一张手绘的「故事票根」：
+『第四章，主角还没登场。开演时间：文化祭当晚。』
+灯下。三份邀约在掌心里排开。
+夏天，只剩一个晚上了。
+choose:棋摊·深寻:a01_festival.txt|总指挥·姬佩缇:b01_committee.txt|书展·克劳德女士:c01_cowrite.txt;

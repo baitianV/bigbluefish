@@ -1,0 +1,44 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_天台_夕.png -next -duration=1000 -exitDuration=1000;
+bgm:温柔.mp3 -volume=45 -enter=2000;
+期末考前最后一天。
+我在书包里塞了一副新的将棋。
+放学的天台。门没锁——我知道她会在。
+changeFigure:shenxun.png -id=shenxun -right;
+她坐在老位置。看到我，没说话。
+;cg-final-begin
+changeFigure:none -id=shenxun;
+changeBg:cg_chess.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_chess.jpg -name=最后的对局;
+;cg-final-end
+我把棋盘在她面前哗啦摆开。
+「下吗。」
+「……你不问问我在干嘛？」
+「你在等一个不问你在干嘛的人。」
+沉默。她挪过去，让出半张长椅。
+「先手给你。」
+「为什么。」「因为你输了上次。」
+棋局开始。
+她下得很稳。每一步都是计算过的最优——
+直到第十七手。
+她拈起棋子的手，停在半空。
+很久。很久。
+然后，落子。
+那一手，不是最优解。不是计算。
+是那种只有「不再预测」才下得出的一手。
+飞车，弃了。
+我盯着棋盘，然后明白过来——
+她在把整盘棋，交给我看不见的那部分自己去下。
+终局。她输了。
+输得心服口服，输得像赢了一样。
+「……下完了。」她收着棋子，声音很轻，
+「模型，重新训练好了。」
+「哦？结果呢。」
+「结果——」
+她把最后一枚棋子扣进棋盒，咔哒。
+「不再做预测了。」
+「对样本——」她顿了顿，
+「改用长期观测。」
+changeScene:a06_route.txt;

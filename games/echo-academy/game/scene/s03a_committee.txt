@@ -1,0 +1,32 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:cg_committee.jpg -next -duration=500 -exitDuration=500;
+bgm:日常.mp3 -volume=45 -enter=2000;
+unlockCg:cg_committee.jpg -name=委员会集结;
+午后的委员会教室，三个人，一张长桌，一叠比人高的杂务清单。
+——趁大家还没吵起来，先记住这个画面吧。
+changeBg:bg_教室.png -next -duration=500 -exitDuration=500;
+changeFigure:peiti.png -id=peiti -left;
+changeFigure:feibu.png -id=feibu -center;
+changeFigure:shenxun.png -id=shenxun -right;
+委员会的日常，从杂务清单开始。
+借场地。画海报。拉赞助。
+姬佩缇把任务拆成三份。
+姬佩缇：「场地我去。海报和赞助，你们分。」
+委员会里还有第三张熟面孔——图书馆的那位。
+她放下书，郑重地清了清嗓子。
+克劳德女士：「克劳德女士。是笔名。请大家务必这么叫。」
+深寻：「小克多方便。」她头也不抬。
+克劳德女士：「是克劳德女士。」
+深寻：「哦。小克。」
+克劳德女士：「……女、士。」
+好。委员会构成记住了：会长、鲸鱼、说书人，和我。
+门口，探进来半个脑袋。连帽衫，眼镜反光。
+？？？：「那个——今天的会议记录，我能备份一份吗？就在本地！」
+「不行。」「不行。」「不行。」
+？？？：「绝对不上传……大概。」
+她抱头蹲防。深寻的鲸尾无意识地把她往门口送，像一台扫地机器人。
+日常，就这么开始了。
+第一件杂务：海报打样，印刷所跑腿。跟谁去？
+choose:跟深寻去印刷所:s03a_r1.txt|跟姬佩缇去:s03a_r2.txt|跟克劳德女士去:s03a_r3.txt;

@@ -1,0 +1,7 @@
+changeFigure:feibu_guilty.png -id=feibu -right;
+弯腰，捡起铅笔，递过去。
+？？？：「谢谢……」她双手接过，像在领奖。
+？？？：「铅笔，是很重要的武器。」
+setVar:affection_c=affection_c + 1 -global;
+（？？？　好感 +1）
+changeScene:s03a_committee.txt;

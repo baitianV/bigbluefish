@@ -1,0 +1,4 @@
+setVar:gender=female -global;
+bgm:日常.mp3 -volume=45 -enter=2000;
+好。从今天起，你是她。
+changeScene:s00c_name.txt;

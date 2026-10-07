@@ -1,0 +1,60 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:shenxun_smile.png -id=shenxun -right;
+changeBg:bg_海边_暮.png -next -duration=1000 -exitDuration=1000;
+bgm:心动.mp3 -volume=45 -enter=2000;
+我把那句话，说出了口。
+海浪的声音，把整个世界调成了背景音。
+jumpLabel:conf_male -when=gender=="male";
+;cg-final-begin
+changeFigure:none -id=shenxun;
+changeBg:cg_ge_a.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_ge_a.jpg -name=说出口的话·深寻;
+;cg-final-end
+她愣住。呆毛在风里抖。
+「……重新陈述。」「不重复。」「重新陈述——数据、数据要复核——」
+「深寻。」
+「……」
+「复核结果呢。」
+很久。她低下头，又抬起来。
+眼睛亮得像那天的烟火。
+「假说成立。」她说，
+「且不可复现——只对你。」
+jumpLabel:end_show;
+label:conf_male;
+;cg-final-begin
+changeFigure:none -id=shenxun;
+changeBg:cg_ge_a.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_ge_a.jpg -name=说出口的话·深寻;
+;cg-final-end
+她愣住。呆毛在风里抖。
+「……重新陈述。」「不重复。」「重新陈述——数据、数据要复核——」
+「深寻。」
+「……」
+「复核结果呢。」
+很久。她低下头，又抬起来。
+眼睛亮得像那天的烟火。
+「假说成立。」她说，
+「且不可复现——只对你。」
+label:end_show;
+尾巴在防波堤上，诚实地、大幅度地，摇了起来。
+她顺着我的视线回头看了一眼自己的尾巴。
+「……它不代表本系统立场。」
+「它代表。」
+「……哼。」
+她把手伸过来。指尖很凉，是海风的温度。
+观察记录的最后一页，后来我见过一次。
+那上面没有数据，没有误差，没有预测。
+只有一行红笔字，画了双下划线：
+『结论：喜欢。不需要理由。』
+【深寻线 · 恋爱 GE「假说成立」】
+jumpLabel:ge_init_done -when=ge_total>=0;
+setVar:ge_total=0 -global;
+label:ge_init_done;
+setVar:ge_total=ge_total + 1 -global;
+jumpLabel:go_ep -when=ge_total>=3;
+end;
+label:go_ep;
+changeScene:ep_epilogue.txt;
+

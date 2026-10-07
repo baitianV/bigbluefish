@@ -1,0 +1,31 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:feibu_quiet.png -id=feibu -center;
+changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+bgm:伤感.mp3 -volume=45 -enter=2000;
+「那，」我指了指书的留白，
+「这页，我们两个慢慢写。不着急。」
+她抬起头。
+「什么意思。」
+「合著。」我说，「下一本，从扉页开始，就是两个人的名字。」
+「不是『克劳德女士和转学生』。」
+「是，」我想了想，「『我们俩』。」
+她低下头，笑了。笑纹里全是松了一口气。
+「——话分两头！」她跳起来，从书包里掏出企划纸，
+「那下一本的选题！写冒险！写学园！写——」
+「写什么由读者决定。」
+「读者是谁！」「全校。」
+「那、那得多写几本！」
+夕阳从旧书区的小窗照进来，把企划纸照得透亮。
+文艺部的部室，从今天起，坐着两个署名的人。
+【克劳德女士线 · 友谊 GE「合著者」】
+jumpLabel:ge_init_done -when=ge_total>=0;
+setVar:ge_total=0 -global;
+label:ge_init_done;
+setVar:ge_total=ge_total + 1 -global;
+jumpLabel:go_ep -when=ge_total>=3;
+end;
+label:go_ep;
+changeScene:ep_epilogue.txt;
+

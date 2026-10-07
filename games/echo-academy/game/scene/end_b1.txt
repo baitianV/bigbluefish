@@ -1,0 +1,53 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:peiti_shy.png -id=peiti -left;
+changeBg:bg_海边_暮.png -next -duration=1000 -exitDuration=1000;
+bgm:心动.mp3 -volume=45 -enter=2000;
+jumpLabel:conf_male -when=gender=="male";
+;cg-final-begin
+changeFigure:none -id=peiti;
+changeBg:cg_ge_b.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_ge_b.jpg -name=说出口的话·佩缇;
+;cg-final-end
+我把那句话，说出了口。
+海浪一遍一遍，把世界调成背景音。
+她愣了很久。
+久到夕阳完全沉下去，久到第一颗星亮起来。
+「……哈。」
+她笑了。笑着笑着，眼睛红了。
+「长这么大，」她说，
+「第一次，想输给一个人。」
+jumpLabel:end_show;
+label:conf_male;
+;cg-final-begin
+changeFigure:none -id=peiti;
+changeBg:cg_ge_b.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_ge_b.jpg -name=说出口的话·佩缇;
+;cg-final-end
+我把那句话，说出了口。
+海浪一遍一遍，把世界调成背景音。
+她愣了很久。
+久到夕阳完全沉下去，久到第一颗星亮起来。
+「……哈。」
+她笑了。笑着笑着，眼睛红了。
+「长这么大，」她说，
+「第一次，想输给一个人。」
+label:end_show;
+「输给你。」
+她伸手，把臂章别在了我的胸前。
+别歪了。她红着眼眶纠正了两次。
+「这不代表会长职务转移。」她背过身去，肩膀在抖，
+「这代表——本会长的私人时间，从今天起，优先批给你。」
+小蓝云在两个人头顶，转了一个大大的圈。
+它今天，是个晴天娃娃的形状。
+【姬佩缇线 · 恋爱 GE「只对你」】
+jumpLabel:ge_init_done -when=ge_total>=0;
+setVar:ge_total=0 -global;
+label:ge_init_done;
+setVar:ge_total=ge_total + 1 -global;
+jumpLabel:go_ep -when=ge_total>=3;
+end;
+label:go_ep;
+changeScene:ep_epilogue.txt;
+

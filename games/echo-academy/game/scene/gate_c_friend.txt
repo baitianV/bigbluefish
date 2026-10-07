@@ -1,0 +1,4 @@
+jumpLabel:f1 -when=affection_c >= 6;
+changeScene:end_c2.txt;
+label:f1;
+changeScene:end_c3.txt;

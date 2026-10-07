@@ -1,0 +1,40 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_夏祭.png -next -duration=1000 -exitDuration=1000;
+bgm:标题.mp3 -volume=45 -enter=2000;
+changeFigure:feibu_event_stage.png -id=feibu -right;
+夏祭当晚。书展的番外篇——露天朗读台。
+台下坐了比文化祭更多的人。第一届「回声学园故事会」，她们真的办成了。
+;cg-final-begin
+changeFigure:none -id=feibu;
+changeBg:cg_stage.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_stage.jpg -name=露天朗读会;
+;cg-final-end
+克劳德女士站在台侧，深呼吸。
+「最后一页，」她跟我说，「还没写。」
+「诶？」「真的没写。印刷的时候留的白。」
+「为什么。」
+「因为，」她把羽毛笔递过来，
+「最后一页，要现场写。」
+她上台了。
+「——从前从前，也就是这个夏天。」
+开场白一响，台下就静了。
+勇者和异乡人的故事，一路讲到了夏祭的夜。
+「最后一页。」她说，
+「按惯例，应该由作者念。」
+「但这一页的执笔人——」
+她转过身，看向台侧的我。
+「不止一个。」
+聚光灯下，她朝我伸出手。
+羽毛笔，在灯光里，安安静静地悬着。
+台下开始起哄。掌声一浪一浪。
+我走上去，接过笔。
+纸铺在小小的讲台上。
+她看着我，我看着纸。
+然后，她先开了口。声音很轻，只有我们两个人听得见：
+「你写。我念。」
+「写什么。」
+「写真的。」
+（展演之夜，最后一页）
+changeScene:c06_route.txt;

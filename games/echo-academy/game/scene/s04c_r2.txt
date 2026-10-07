@@ -1,0 +1,7 @@
+「读者想听的，是真话。」
+「真话……」
+「嗯。比如，作者也不知道结局。比如，作者也在等下一章。」
+「……」她慢慢把那行『抱歉』划掉，写上：『下一章，再等等我。』
+setVar:affection_c=affection_c + 1 -global;
+（克劳德女士　好感 +1）
+changeScene:s05a_rumor.txt;

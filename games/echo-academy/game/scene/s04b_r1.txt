@@ -1,0 +1,7 @@
+「金平糖。」
+「理由。」
+「小，耐吃，扛得住加班。」
+「……有道理。」她在本子上记了一笔。字迹工整得像印刷。
+setVar:affection_b=affection_b + 1 -global;
+（姬佩缇　好感 +1）
+changeScene:s04c_bookstore.txt;

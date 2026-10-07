@@ -1,0 +1,12 @@
+setVar:affection_a=0 -global;
+bgm:标题.mp3 -volume=45 -enter=2000;
+setVar:affection_b=0 -global;
+setVar:affection_c=0 -global;
+setVar:flag_a4_endgame=false -global;
+setVar:flag_b5_rely=false -global;
+setVar:flag_c4_truth=false -global;
+intro:■回声学园|临海市——|四月，樱花还没落尽。;
+海风从坡道尽头吹上来，把最后一撮樱花吹进了新的学年。
+在这座海边的城市开始第三年高中生活之前——
+先说说，你是谁。
+choose:男生:s00b_male.txt|女生:s00b_female.txt;

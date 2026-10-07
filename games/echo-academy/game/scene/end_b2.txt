@@ -1,0 +1,20 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:peiti_tired.png -id=peiti -left;
+changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+bgm:温柔.mp3 -volume=45 -enter=2000;
+那句话，说出了口。
+她安静地听完。
+「谢谢。」她说。标准得体的会长式微笑。
+「但是，现在，」
+「我还有很多想赢的。」
+「赢了会长、赢了保送、赢了这三年。」
+「等我赢完这些——」
+她笑了笑，笑容延迟了零点五秒。
+「……再看看，还剩什么吧。」
+新学期的会长交接仪式上，她站在台上。
+完美，挺拔，无懈可击。
+只有我知道，那个笑容，始终慢半拍。
+【姬佩缇线 · NE「满血运转」】
+end;

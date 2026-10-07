@@ -1,0 +1,7 @@
+什么也没说。
+云的影子从石阶第一级，慢慢爬到第十七级。
+起身离开的时候，她说：「……今天的风，还行。」
+这是她今天说的第一句真话。
+setVar:affection_a=affection_a + 1 -global;
+（深寻　好感 +1）
+changeScene:s04b_classroom.txt;

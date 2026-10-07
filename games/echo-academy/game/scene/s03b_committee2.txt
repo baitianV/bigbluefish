@@ -1,0 +1,21 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+bgm:日常.mp3 -volume=45 -enter=2000;
+changeFigure:peiti.png -id=peiti -left;
+changeFigure:feibu.png -id=feibu -center;
+changeFigure:shenxun.png -id=shenxun -right;
+海报顺利交货。第二件杂务：拉赞助。
+商店街的盖章之旅，据说要走七家店。
+七家店。五杯茶。三个故事。
+姬佩缇进门三句话谈到折扣。深寻全程站在门口，像看戏的保镖。
+克劳德女士用「您的店名会出现在故事第二章」感动了第三家的老板娘。
+最后一家，老板只提了一个条件。
+「文化祭那天，让学生会长的签名海报，贴我店里。」
+「成交。」姬佩缇答应得毫不犹豫。
+走出店门，深寻小声说：「会长，你的签名值钱吗？」
+「值不值——」她把印章抛起来，又接住，「文化祭之后就知道了。」
+第二件杂务，结束。
+解散之前——回程顺路。跟谁走一段？
+choose:送深寻去车站:s03b_r1.txt|陪姬佩缇锁教室:s03b_r2.txt|陪克劳德女士还书:s03b_r3.txt;

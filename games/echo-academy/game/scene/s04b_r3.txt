@@ -1,0 +1,6 @@
+「都好。只要不是苦的。」
+她看了我两秒。
+「……这句话，」糖纸在她指间转了一圈，「我记下了。」
+setVar:affection_b=affection_b + 1 -global;
+（姬佩缇　好感 +1）
+changeScene:s04c_bookstore.txt;

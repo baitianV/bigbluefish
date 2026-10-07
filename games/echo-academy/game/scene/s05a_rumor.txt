@@ -1,0 +1,26 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+bgm:伤感.mp3 -volume=45 -enter=2000;
+期中考，来了又走。
+成绩单发下来的那天，教室里的空气，有点不一样。
+「听说了吗。转学生和深寻，走得很近。」
+「不是吧，我看是会长那边——」
+「图书馆那位也很……」
+流言这种东西，永远比学习进度跑得快。
+班会课上，姬佩缇站了起来。笑了一声。
+changeFigure:peiti.png -id=peiti -left;
+「流言，我听说了。」
+她把点名册往讲台上一放。
+「人，是我拉进委员会的。有意见——」
+教室安静了两秒。
+「先赢我。」
+哄笑。流言当场阵亡。
+……只有我看到，她放下点名册的时候，指尖在讲台边缘，轻轻敲了两下。
+放学铃响。三个人，往三个方向去了。
+天台的方向，上去一个人。
+委员会教室，亮着灯。
+图书馆的方向，有人抱着书。
+……去追谁？
+choose:天台·深寻:s05b_shenxun.txt|委员会教室·姬佩缇:s05b_peiti.txt|图书馆·克劳德女士:s05b_feibu.txt;

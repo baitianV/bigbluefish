@@ -1,0 +1,32 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_神社.png -next -duration=1000 -exitDuration=1000;
+bgm:温柔.mp3 -volume=45 -enter=2000;
+黄金周。假期第二天的下午。
+我为什么会出现在神社的石阶上——说来话长，总之，是散步。
+石阶中段，坐着一个人。
+changeFigure:shenxun_event_watch.png -id=shenxun -right;
+深寻。没有棋盘。
+;cg-final-begin
+changeFigure:none -id=shenxun;
+changeBg:cg_shrine.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_shrine.jpg -name=停摆的怀表;
+;cg-final-end
+她的掌心摊着一块旧怀表。表盖上刻着看不清的小字。
+表，停着。
+她盯着它。久到我也数不清天上过了几朵云。
+「……观测样本。」
+察觉到我，她把怀表合上。语速快得像在背书。
+「旧机械的停滞现象。没有别的意思。」
+「哦。」
+「真的没有。」
+呆毛垂了三度。她在撒谎。
+「……你坐下。」她往旁边挪了挪，「石阶是公用的。」
+坐下。海风从山下爬上来，穿过鸟居。
+「上发条的话，」她忽然说，「它还能走。」
+「那为什么不上？」
+「发条钥匙——」她把怀表举到眼前，「去年就丢了。」
+说这话的时候，她的眼睛一直停在表盘上，没看我。
+我掏出手机，在备忘录最上面敲下一行字：发条钥匙。旧式的。
+choose:问这块表的故事:s04a_r1.txt|说「我帮你找钥匙」:s04a_r2.txt|什么都不说，陪她坐到黄昏:s04a_r3.txt;

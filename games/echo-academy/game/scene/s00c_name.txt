@@ -1,0 +1,23 @@
+那么——你的名字是？
+bgm:日常.mp3 -volume=45 -enter=2000;
+jumpLabel:name_male -when=gender=="male";
+getUserInput:player_name -title=你的名字是？ -buttonText=就这样 -defaultValue=叶音;
+jumpLabel:name_done;
+label:name_male;
+getUserInput:player_name -title=你的名字是？ -buttonText=就这样 -defaultValue=叶声;
+label:name_done;
+setVar:player_name=player_name -global;
+jumpLabel:demo_female -when=gender=="female";
+「转学生……男生啊。」
+窗外有人起哄似的吹了声口哨，又立刻被同桌按了回去。
+jumpLabel:demo_done;
+label:demo_female;
+「转学生……是女生？」
+后排的窃窃私语轻了下去。有人悄悄把桌子挪开一点，让出一条过道。
+label:demo_done;
+同一场自我介绍，两种空气。
+性别改变的，是视角，是称呼——
+不是这个夏天本身。
+{player_name}。
+记住这个名字。故事，从明天开始。
+changeScene:s01a_day1.txt;

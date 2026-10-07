@@ -1,0 +1,20 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:shenxun_think.png -id=shenxun -right;
+changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+bgm:温柔.mp3 -volume=45 -enter=2000;
+那句话，我说出了口。
+她低着头，很久没有说话。
+「……对不起。」
+最后，她说。
+「现在，还无法验证。」
+「要多久。」
+「不知道。」她抱紧了怀表，「模型还在训练。样本……样本太特殊了。」
+夏天结束的时候，观察记录停在了那一页。
+『待验证。』
+没有划掉，也没有结论。
+它就一直摊在那里——
+像一盘没下完的棋。
+【深寻线 · NE「未验证」】
+end;

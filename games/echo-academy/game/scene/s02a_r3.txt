@@ -1,0 +1,9 @@
+changeFigure:shenxun_think.png -id=shenxun -right;
+「为什么自己跟自己下？」
+深寻：「……效率最优。」
+两秒的沉默。
+深寻：「对手，总不能自己等自己吧。」
+最后半句，轻得几乎听不见。
+setVar:affection_a=affection_a + 1 -global;
+（深寻　好感 +1）
+changeScene:s02b_corridor.txt;

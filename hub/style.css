@@ -256,3 +256,40 @@ body::before {
   overflow: hidden;
 }
 .iframe-box iframe { border: 0; background: #000; display: block; }
+
+/* ===== 全屏接管模式（games.json 里 fullscreen:true 的游戏）=====
+   点击卡片后 iframe 铺满整个视口，隐藏标题栏/分数/暂停，只留浮动退出键 */
+.modal.fs-mode .modal-mask { background: #000; }
+.modal.fs-mode .modal-inner {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  height: 100dvh; /* 手机地址栏动态视口 */
+  max-width: none;
+}
+.modal.fs-mode .modal-titlebar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: auto;
+  z-index: 10;
+  background: none;
+  border: none;
+  padding: 10px;
+}
+.modal.fs-mode .modal-title,
+.modal.fs-mode .modal-hud,
+.modal.fs-mode #btn-pause,
+.modal.fs-mode .best-toast { display: none; }
+.modal.fs-mode .btn-close {
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0 18px;
+  border-radius: 999px;
+  background: rgba(8, 20, 38, .72);
+  color: #fff;
+  font-size: 17px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, .5);
+  backdrop-filter: blur(4px);
+}
+.modal.fs-mode .btn-close:hover { background: rgba(30, 111, 184, .9); }

@@ -1,0 +1,1 @@
+changeScene:s00a_open.txt;

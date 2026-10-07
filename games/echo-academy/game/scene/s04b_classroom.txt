@@ -1,0 +1,23 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+bgm:日常.mp3 -volume=45 -enter=2000;
+假期第三天，姬佩缇的一通电话，把委员会召回了学校。
+「预算案终审。速来。」
+到的时候，教室里只有她一个人。
+changeFigure:peiti_event_candy.png -id=peiti -left;
+桌上摊着三份稿子、一台计算器，和——一小罐糖。
+玻璃罐。糖果五颜六色，数得出来的几颗。
+她在数糖。不是吃，是数。
+「来了？」她把糖罐若无其事地收进抽屉，「坐。第三页，拉面摊的报价虚高。」
+审预算。审到夕阳把教室染成橘子汽水的颜色。
+「……会长。」
+「嗯？」
+「那个糖——」
+「哦，这个？」
+她拉开抽屉，把罐子拿出来，倒在手心两颗。
+「低血糖用的。医生说的。」
+她把其中一颗抛给我，自己剥开另一颗。
+「帮我想想。文化祭那天，委员会的慰问品，发哪种好？」
+choose:金平糖:s04b_r1.txt|柠檬糖，要酸的:s04b_r2.txt|「都好，只要不是苦的」:s04b_r3.txt;

@@ -1,0 +1,8 @@
+changeFigure:feibu_proud.png -id=feibu -right;
+「我什么都没看见。」
+？？？：「真的？！」她眼睛一亮。
+？？？：「那，请继续路过。幻影出没区域，注意脚下。」
+……还挺入戏。
+setVar:affection_c=affection_c + 1 -global;
+（？？？　好感 +1）
+changeScene:s03a_committee.txt;

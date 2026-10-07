@@ -1,0 +1,8 @@
+changeFigure:peiti_tired.png -id=peiti -left;
+「会长，歇一会儿吧。」
+姬佩缇：「哦？就这？本会长的体力，可是全校标杆。」
+话音未落，小蓝云在她头顶变成了一个问号。
+……云，也比本人诚实。
+setVar:affection_b=affection_b + 1 -global;
+（姬佩缇　好感 +1）
+changeScene:s02c_go.txt;

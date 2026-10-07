@@ -1,0 +1,29 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+bgm:温柔.mp3 -volume=45 -enter=2000;
+changeFigure:feibu.png -id=feibu -right;
+旧书区的灯下，克劳德女士抱着一摞书当掩护。
+「……是她自己。」我听见她小声嘀咕。
+「诶——？！」
+被抓包了。她抱着书僵住。
+「那个，这是文学创作！采风！素材！」
+「第四章。」我说。
+「诶？」
+「连载的第四章。转学生今天放学，去了哪里？」
+沉默。书摞慢慢放了下来。
+「……去了。」羽毛笔在她指间转了一圈，「去了图书馆。」
+「然后呢？」
+「然后，作者也不知道该怎么写了。」
+她翻开本子。第四章的标题空着。正文只有一行：
+『转学生，推开了旧书区的门。』
+「因为——」她小声说，「写别人的故事，很简单。写到自己……就会卡住。」
+「那，」我在她对面坐下，「第四章，两个人写。」
+她抬起头。灯下，琥珀色的眼睛亮了一下。
+changeFigure:feibu_quiet.png -id=feibu -right;
+「……真的，可以吗？」
+「主角已经登场了。作者还在等什么？」
+setVar:affection_c=affection_c + 2 -global;
+（克劳德女士　好感 +2）
+changeScene:s06a_eve.txt;

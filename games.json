@@ -1,2 +1,39 @@
-[{"id":"whale-run","title":"鲸鱼快跑（接入示例）","author":"bluefish","type":"runner","entry":"games/whale-run/index.html","thumb":"","aspect":"16:9","description":"方向键移动躲避水雷，活得更久。接入协议的示例游戏，可直接复制此文件夹作为开发起点。","controls":"方向键 / WASD 移动，P 暂停","order":99},
-{"id":"flow-painter","title":"顶流画师·统一之路","author":"山夜","type":"sim","entry":"games/flow-painter/index.html","thumb":"","aspect":"9:16","thumb":"games/flow-painter/art/thumb.jpg","description":"讽刺向竖屏事件卡游戏：扮演画师本人，读热点、四选一、掷🎲随机后果，让自己再次伟大。","controls":"纯点击：从上到下 ABCD 选择 → 是/否技能确认","order":10}]
+[
+  {
+    "id": "whale-run",
+    "title": "鲸鱼快跑（接入示例）",
+    "author": "bluefish",
+    "type": "runner",
+    "entry": "games/whale-run/index.html",
+    "thumb": "",
+    "aspect": "16:9",
+    "description": "方向键移动躲避水雷，活得更久。接入协议的示例游戏，可直接复制此文件夹作为开发起点。",
+    "controls": "方向键 / WASD 移动，P 暂停",
+    "order": 99
+  },
+  {
+    "id": "flow-painter",
+    "title": "顶流画师·统一之路",
+    "author": "山夜",
+    "type": "sim",
+    "entry": "games/flow-painter/index.html",
+    "thumb": "games/flow-painter/art/thumb.jpg",
+    "aspect": "9:16",
+    "description": "讽刺向竖屏事件卡游戏：扮演画师本人，读热点、四选一、掷🎲随机后果，让自己再次伟大。",
+    "controls": "纯点击：从上到下 ABCD 选择 → 是/否技能确认",
+    "order": 10
+  },
+  {
+    "id": "echo-academy",
+    "title": "回声学园（Demo）",
+    "author": "山夜",
+    "type": "gal",
+    "entry": "games/echo-academy/index.html",
+    "aspect": "16:9",
+    "thumb": "games/echo-academy/thumb.jpg",
+    "description": "AI 拟人娘校园恋爱视觉小说 Demo：三位女主、好感度养成、九种结局。深寻、佩缇、克劳德女士——谁的心声你能听见？",
+    "controls": "点击 / 空格推进剧情 · 选项决定好感与结局",
+    "order": 5,
+    "fullscreen": true
+  }
+]

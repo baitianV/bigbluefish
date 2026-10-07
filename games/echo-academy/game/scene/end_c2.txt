@@ -1,0 +1,17 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:feibu_worry.png -id=feibu -center;
+changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+bgm:温柔.mp3 -volume=45 -enter=2000;
+那句话，说出了口。
+她抱着书，很久很久没有抬头。
+「对不起。」
+最后她说。声音像一页被轻轻合上的书。
+「第四十四个读者……还没有，准备好成为主角。」
+连载的最终章，在那个夏天静静完结了。
+扉页多了一行小字，据说她写了很久：
+『献给勇敢的人。』
+最后一页，留白依旧。
+【克劳德女士线 · NE「未完待续」】
+end;

@@ -1,0 +1,34 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:peiti_smirk.png -id=peiti -left;
+changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+bgm:伤感.mp3 -volume=45 -enter=2000;
+「那，」我把臂章推回去，
+「不说了。以后也不说了。」
+「哦？」
+「我申请的职位，不是那个。」
+「……什么职位。」
+「副会长。」
+她愣住。然后大笑出声。笑得一点会长样都没有。
+「你资历不够。」「我熬。」
+「成绩不够。」「我补。」
+「吼人的音量不够——」「这个我天生就行。」
+「……行吧。」
+她把臂章拿起来，郑重其事地，翻了个面。
+背面，她用记号笔写了一行小字，然后别在我胸前：
+『副指挥 → 副会长 → ？』
+「第三格自己填。」她说，「不急。」
+「这个学园，」她伸出手，
+「交给我们两个了。」
+搭档之礼。她的手很暖。
+【姬佩缇线 · 友谊 GE「副会长」】
+jumpLabel:ge_init_done -when=ge_total>=0;
+setVar:ge_total=0 -global;
+label:ge_init_done;
+setVar:ge_total=ge_total + 1 -global;
+jumpLabel:go_ep -when=ge_total>=3;
+end;
+label:go_ep;
+changeScene:ep_epilogue.txt;
+

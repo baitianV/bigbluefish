@@ -1,0 +1,12 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=feibu;
+changeFigure:none -id=peiti;
+changeBg:bg_车站.png -next -duration=1000 -exitDuration=1000;
+changeFigure:shenxun_tsun.png -id=shenxun -right;
+车站的检票机，吞了她两次票。
+「机器今天状态不好。」她说。
+第三次的姿势格外郑重——通过了。
+「看吧。」
+setVar:affection_a=affection_a + 1 -global;
+（深寻　好感 +1）
+changeScene:s04a_shrine.txt;

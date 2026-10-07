@@ -1,0 +1,8 @@
+「这块表……是谁的？」
+「……」
+「外婆的。她说，等表停了，就回来修。」
+深寻看着鸟居的方向。
+「她食言了。所以表就一直停着。」
+setVar:affection_a=affection_a + 1 -global;
+（深寻　好感 +1）
+changeScene:s04b_classroom.txt;

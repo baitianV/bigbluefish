@@ -2,7 +2,7 @@
 (function () {
   'use strict';
 
-  var TYPE_NAMES = { fighting: '格斗', platform: '闯关', td: '塔防', runner: '跑酷', sim: '模拟经营', other: '其他' };
+  var TYPE_NAMES = { fighting: '格斗', platform: '闯关', td: '塔防', runner: '跑酷', sim: '模拟经营', gal: '视觉小说', other: '其他' };
 
   var grid = document.getElementById('game-grid');
   var errorBox = document.getElementById('hub-error');
@@ -128,18 +128,30 @@
     iframe.allow = 'gamepad *; fullscreen *; pointer-lock *';
     iframe.title = def.title || def.id;
     iframeBox.appendChild(iframe);
-    active = { def: def, iframe: iframe, paused: false };
+    var fs = !!def.fullscreen;
+    active = { def: def, iframe: iframe, paused: false, fs: fs };
 
     modalTitle.textContent = def.title || def.id;
     hudScore.textContent = '—';
     btnPause.textContent = '暂停';
+    modal.classList.toggle('fs-mode', fs);
     modal.hidden = false;
-    sizeIframe();
+    if (fs) {
+      // 全屏接管：iframe 铺满视口，仅留退出键；顺手请求原生全屏，不支持的浏览器保持 CSS 铺满
+      iframe.style.width = '100%';
+      iframe.style.height = '100%';
+      try {
+        var p = modal.requestFullscreen && modal.requestFullscreen();
+        if (p && p.catch) p.catch(function () {});
+      } catch (e) { /* 保持 CSS 全屏 */ }
+    } else {
+      sizeIframe();
+    }
   }
 
   // 按游戏 aspect 计算最大等比尺寸，letterbox 居中
   function sizeIframe() {
-    if (!active) return;
+    if (!active || active.fs) return;
     var ar = parseAspect(active.def.aspect);
     var rect = iframeBox.getBoundingClientRect();
     var w = rect.width;
@@ -174,6 +186,11 @@
     active = null;
     iframe.remove();     // 再移除 iframe
     modal.hidden = true;
+    modal.classList.remove('fs-mode');
+    if (document.fullscreenElement && document.exitFullscreen) {
+      var q = document.exitFullscreen();
+      if (q && q.catch) q.catch(function () {});
+    }
     if (toastTimer) { clearTimeout(toastTimer); toastTimer = null; }
     bestToast.hidden = true;
     refreshBestText(def.id);
@@ -182,6 +199,11 @@
 
   document.addEventListener('keydown', function (e) {
     if (e.key === 'Escape' && active) closeModal();
+  });
+
+  // 原生全屏被退出（Esc/F11）时，全屏接管的游戏一并关闭，回到大厅
+  document.addEventListener('fullscreenchange', function () {
+    if (!document.fullscreenElement && active && active.fs) closeModal();
   });
 
   document.addEventListener('visibilitychange', function () {

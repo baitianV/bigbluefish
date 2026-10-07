@@ -1,0 +1,10 @@
+changeFigure:shenxun_smile.png -id=shenxun -right;
+直到终局，没有出声。
+左手赢。也可能是右手输了。
+她收棋子的时候，嘴角有一点点得意。
+深寻：「……你看完了？」
+「嗯。」
+深寻：「明天，还可以来。」
+setVar:affection_a=affection_a + 1 -global;
+（深寻　好感 +1）
+changeScene:s02b_corridor.txt;

@@ -1,0 +1,21 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+bgm:日常.mp3 -volume=45 -enter=2000;
+商店街尽头的旧书店，屋檐滴着假期的雨。
+克劳德女士蹲在店门口的台阶上，本子摊在膝头。
+羽毛笔——写个不停。
+changeFigure:feibu_event_letter.png -id=feibu -right;
+「那个。」我站到屋檐下，「在写什么？」
+「回信。」她头也不抬，「读者来信。」
+「读者，哭了。」
+「诶？」
+「连载的读者。说第四章太难过，看哭了。问我——故事里的人，后来怎么样了。」
+她终于抬起头。眼圈有点红。是雨，也可能不是。
+「我写了七稿回信。都不行。」
+她翻开本子给我看。前头撕掉的地方厚厚一沓。最新一页上只有一行字：
+『亲爱的读者：抱歉。』
+「……然后呢？」
+「然后就没有然后了。」她抱住膝盖，「我知道该写什么。可是写出来，就不是故事了。」
+choose:跟她一起写:s04c_r1.txt|说「读者想听真话」:s04c_r2.txt|把道歉页折成纸飞机:s04c_r3.txt;

@@ -1,0 +1,39 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
+bgm:伤感.mp3 -volume=45 -enter=2000;
+风声。
+台风外围提前到了。文化祭延后重开的场地布置夜，变成了一场抢险。
+窗外横着雨。教室里，指挥部临时恢复。
+changeFigure:peiti_tired.png -id=peiti -left;
+「A区灯架加固！B区帐篷收拢！广播组循环通知！」
+她站在讲台上，声音压过风声。
+像一台满负荷的钟。
+但——
+「B区灯架加固！……A区帐篷、」
+她顿住了。
+两秒。
+「……B区灯架，」
+指令，说反了。
+教室里安静了一瞬。有人偷偷看她。
+「——我来重发，」她提高了音量，硬是接了下去，
+「A区帐篷收拢！B区灯架加固！动作快！」
+又过了半小时。
+;cg-final-begin
+changeFigure:none -id=peiti;
+changeBg:cg_files.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_files.jpg -name=满负荷的钟;
+;cg-final-end
+有人问她第三遍同样的问题，她答了。答案和第一遍不一样。
+有人递来签收单，她签完名，笔尖悬在半空，忘了收。
+小蓝云在她头顶，形状越来越暗，像下雨前的天。
+「会长，休息一下吧。」有部员小声说。
+「哦？就这？」她挑眉，标准弧度，「本会长的体力——」
+话没说完。
+她扶了一下讲台。
+很轻。但那个动作，不是扶，是撑。
+全校标杆，正在硬撑。
+这场面，没人拆得穿。也没人敢。
+除了一个人。
+choose:直接接过对讲机，替她扛下指挥:b04_r1.txt|当众提议「休息十分钟，我来主持」:b04_r2.txt|照她的指令做，什么也不说:b04_r3.txt;

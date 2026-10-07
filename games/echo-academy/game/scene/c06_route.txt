@@ -1,0 +1,20 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_海边_暮.png -next -duration=1000 -exitDuration=1000;
+bgm:心动.mp3 -volume=45 -enter=2000;
+changeFigure:feibu_event_book.png -id=feibu -right;
+朗读会的欢呼留在身后。
+海边的夜风，把一切声音都吹远了。
+她抱着那本合写的书。翻到最后一页。
+聚光灯下我写下的那行字，被她描成了钢笔字：
+『（此处留白，因为故事还没结束。）』
+「狡猾。」她笑着说，「执笔人偷懒。」
+「不是偷懒。」
+「那是什么。」
+浪声，一阵，又一阵。
+她忽然懂了什么，抱书的手紧了紧。
+「……最后一页，」她小声问，
+「要写什么，才算结束？」
+夏天只剩一个晚上了。
+choose:把心意说出口:gate_c.txt|此刻的默契:gate_c_friend.txt;

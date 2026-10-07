@@ -1,0 +1,8 @@
+changeFigure:shenxun_tsun.png -id=shenxun -right;
+「下得真好。」
+深寻：「……哼。」呆毛抖了一下，「当然。」
+收棋的动作快了半拍。
+尾巴拍椅面的节奏，也是。
+setVar:affection_a=affection_a + 1 -global;
+（深寻　好感 +1）
+changeScene:s02b_corridor.txt;

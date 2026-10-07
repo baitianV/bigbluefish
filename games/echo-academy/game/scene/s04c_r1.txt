@@ -1,0 +1,7 @@
+「我念，你写。」
+雨声当了背景音。
+写到第三行，她的笔停了停，然后笑出来：「这句不能写！勇者会害羞的！」
+……原来写信，这么难。
+setVar:affection_c=affection_c + 1 -global;
+（克劳德女士　好感 +1）
+changeScene:s05a_rumor.txt;
