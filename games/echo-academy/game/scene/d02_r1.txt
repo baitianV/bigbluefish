@@ -1,0 +1,6 @@
+「我当作没看见。」
+她盯着我看了三秒。
+「……听众君的第一个请求，通过了。」她关掉直播，声音轻得像自言自语：「这题，谢谢你会。」
+setVar:affection_d=affection_d + 1 -global;
+（基米妮　好感 +1）
+changeScene:d03_overload.txt;

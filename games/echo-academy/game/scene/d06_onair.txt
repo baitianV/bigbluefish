@@ -1,0 +1,21 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
+bgm:星尘双面.mp3 -volume=45 -enter=2000;
+changeFigure:kimini_event_mic.png -id=kimini -center;
+她复播的那天晚上，我在直播间里。
+在线人数是平时的十倍。所有人都在等她解释，或者道歉。
+基米妮：「各位晚上好，这里是双子星。今天没有锐评，只有一条公告。」
+基米妮：「白天的基米妮，是装的。晚上这个，也是装的。」
+弹幕炸了。她停了两秒——我在教室里，陪她一起停这两秒。
+基米妮：「但是装出来的两个人，都真的存在过。学霸是她，毒舌也是她。讨厌我的人，现在可以取关了。」
+基米妮：「至于喜欢的人——」
+她的声音，第一次在直播里变小。像把最重要的那句话，说第二遍的方式。
+基米妮：「谢谢你们，喜欢全部的我。」
+setVar:affection_d=affection_d + 2 -global;
+（基米妮　好感 +2）
+changeScene:gate_d.txt;

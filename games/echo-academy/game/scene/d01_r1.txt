@@ -1,0 +1,5 @@
+我站到了海报摊前，严格按照她的口令：微笑、点头、不发一言。
+「数据采集完毕。对照组的贡献：null。但是——」她顿了顿，「有人陪着站着的摊位，看起来热闹百分之十七。这题我会。」
+setVar:affection_d=affection_d + 1 -global;
+（基米妮　好感 +1）
+changeScene:d02_stream.txt;

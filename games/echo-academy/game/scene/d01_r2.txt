@@ -1,0 +1,5 @@
+「你一个人，忙得过来吗？」
+基米妮：「忙不过来的定义是处理溢出。目前占用率百分之九十八……」她看了眼左右两个摊位，「……百分之两百。谢谢提醒。这题我不会。」
+setVar:affection_d=affection_d + 1 -global;
+（基米妮　好感 +1）
+changeScene:d02_stream.txt;

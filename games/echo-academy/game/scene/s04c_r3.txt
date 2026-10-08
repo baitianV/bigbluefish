@@ -4,4 +4,4 @@
 「……好吧。道歉，确实解决不了第四章的问题。」
 setVar:affection_c=affection_c + 1 -global;
 （克劳德女士　好感 +1）
-changeScene:s05a_rumor.txt;
+changeScene:s04d_transfer2.txt;

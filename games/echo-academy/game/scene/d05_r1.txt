@@ -1,0 +1,6 @@
+「明天，也关机吗？」
+「明天……」她想了想，「开半天。给你留紧急频道。」
+「听众君的权重，最高优先级。」
+setVar:affection_d=affection_d + 1 -global;
+（基米妮　好感 +1）
+changeScene:d06_onair.txt;

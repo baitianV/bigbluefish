@@ -1,0 +1,7 @@
+jumpLabel:gd_love -when=affection_d >= 8 && flag_d2_truth;
+jumpLabel:gd_friend -when=affection_d >= 6;
+changeScene:end_d3.txt;
+label:gd_love;
+changeScene:end_d1.txt;
+label:gd_friend;
+changeScene:end_d2.txt;

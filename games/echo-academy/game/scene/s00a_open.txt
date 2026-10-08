@@ -5,6 +5,12 @@ setVar:affection_c=0 -global;
 setVar:flag_a4_endgame=false -global;
 setVar:flag_b5_rely=false -global;
 setVar:flag_c4_truth=false -global;
+setVar:affection_d=0 -global;
+setVar:affection_e=0 -global;
+setVar:affection_f=0 -global;
+setVar:flag_d2_truth=false -global;
+setVar:flag_e5_break=false -global;
+setVar:flag_f4_finale=false -global;
 intro:■回声学园|临海市——|四月，樱花还没落尽。;
 海风从坡道尽头吹上来，把最后一撮樱花吹进了新的学年。
 在这座海边的城市开始第三年高中生活之前——

@@ -1,0 +1,7 @@
+「两面我都见过。装出来的学霸，装出来的毒舌。」我说，「但装得那么辛苦的人，我第一次见。」
+她的眼泪掉下来了，砸在手机屏幕上。
+「……这题。」她哭着笑了，「这题我终于会了。」
+setVar:flag_d2_truth=true -global;
+setVar:affection_d=affection_d + 2 -global;
+（基米妮　好感 +2）
+changeScene:d05_mute.txt;

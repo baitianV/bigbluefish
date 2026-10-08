@@ -1,0 +1,7 @@
+「我不删档。」我说，「听众没有弃坑的权利。第38期还没更完，你敢停更试试。」
+她看着我，很久很久。
+「……换台警告一次。」她说，「再犯，拉黑处理。」她没有拉黑。
+setVar:flag_d2_truth=true -global;
+setVar:affection_d=affection_d + 2 -global;
+（基米妮　好感 +2）
+changeScene:d05_mute.txt;

@@ -1,0 +1,6 @@
+「下周继续。」我说，「我陪你。直到你觉得好听的东西，比数据多为止。」
+她停下脚步，认真地看着我。
+「预计周期：很长。」她说，「成本核算：值得。」
+setVar:affection_d=affection_d + 2 -global;
+（基米妮　好感 +2）
+changeScene:d06_onair.txt;

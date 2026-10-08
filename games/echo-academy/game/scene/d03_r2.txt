@@ -1,0 +1,5 @@
+我轻轻合上她的平板。屏幕暗掉的前一秒，第七十一页的笔记末尾写着：听众君，下次讲座，前排留座。
+原来不是做到一半。是写给我的。
+setVar:affection_d=affection_d + 1 -global;
+（基米妮　好感 +1）
+changeScene:d04_offline.txt;

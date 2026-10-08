@@ -1,0 +1,7 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+F线·朔音「长龙的尽头」，制作中。
+（完整版首批三线，正在连载推进）
+end;

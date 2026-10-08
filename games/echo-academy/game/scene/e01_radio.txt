@@ -1,0 +1,7 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
+E线·洛珂「天台广播」，制作中。
+（完整版首批三线，正在连载推进）
+end;

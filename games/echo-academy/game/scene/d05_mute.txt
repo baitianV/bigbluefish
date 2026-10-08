@@ -1,0 +1,28 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_商店街.png -next -duration=1000 -exitDuration=1000;
+bgm:雨夜.mp3 -volume=45 -enter=2000;
+changeFigure:kimini.png -id=kimini -right;
+关机日。
+她的手机在我这里保管——从早上八点到现在，一条推送都没有的世界。
+旧货市场。没有攻略，没有路线，没有"最优解"。
+基米妮：「……我现在效率为零。在看一个卖旧钟表的摊位，已经站了四分钟，什么信息都没有获取到。」
+主角我：「感觉呢？」
+基米妮：「感觉？」
+她愣住，像被问到一道超纲题。
+然后她低下头，认真地想了很久。
+基米妮：「……很吵。铃铛声，风声，那个老头收音机里的歌。全都不知道是什么，但是——」
+基米妮：「很好听。这题我会。这题不用查。」
+changeFigure:none -id=kimini;
+changeBg:cg_market.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_market.jpg -name=什么都不知道的一天;
+那天下午，她什么都没有"获取"。
+但回去的路上，她说了十一遍"很好听"。
+setVar:flag_d2_truth=true -global;
+setVar:affection_d=affection_d + 2 -global;
+（基米妮　好感 +2）
+choose:「明天，也关机吗？」:d05_r1.txt|「下周继续。我陪你。」:d05_r2.txt|什么都不说，把手机继续收着:d05_r3.txt;

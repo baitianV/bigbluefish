@@ -4,4 +4,4 @@
 「……」她慢慢把那行『抱歉』划掉，写上：『下一章，再等等我。』
 setVar:affection_c=affection_c + 1 -global;
 （克劳德女士　好感 +1）
-changeScene:s05a_rumor.txt;
+changeScene:s04d_transfer2.txt;

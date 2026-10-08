@@ -1,0 +1,33 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
+bgm:心动.mp3 -volume=45 -enter=2000;
+changeFigure:kimini_event_mic.png -id=kimini -center;
+复播的第三天，她把我约到了天台。
+直播设备摆了一排。镜头对着晚霞，没对着我。
+基米妮：「第一百期特辑。嘉宾：一位不愿透露姓名的听众君。」
+我看向镜头。她按下录制，然后从设备后面走出来，站到我面前。
+changeFigure:kimini_soft.png -id=kimini;
+基米妮：「本期主题只有一个问题。答对有奖。」
+主角我：「什么问题？」
+基米妮：「……两个我，你选哪个。」
+晚霞把她的星星染成了金色。左眼和右眼，两种颜色的期待。
+主角我：「都要。打包。」
+她愣住，然后笑了。笑得像第一百期终于更新完了的样子。
+基米妮：「回答正确。」
+基米妮：「奖品是——」
+她说得很小声。像把最重要的话，说第二遍的方式。
+基米妮：「全部的我，以后都归你管。……这题，你要会一辈子。」
+镜头记录下了这一切。她没有掐掉这段。
+jumpLabel:d1init -when=ge_total >= 0;
+setVar:ge_total=0 -global;
+label:d1init;
+setVar:ge_total=ge_total + 1 -global;
+jumpLabel:dgo_ep -when=ge_total >= 3;
+end;
+label:dgo_ep;
+changeScene:ep_epilogue.txt;

@@ -1,0 +1,5 @@
+我在她笔记的空白处画了一颗星。四角的，和她额头上那颗一样。
+后来她告诉我，那页笔记她没有删。观测记录第七十一页，样本特征：会画星星的听众君。
+setVar:affection_d=affection_d + 1 -global;
+（基米妮　好感 +1）
+changeScene:d04_offline.txt;

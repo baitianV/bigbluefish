@@ -1,0 +1,22 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_走廊.png -next -duration=1000 -exitDuration=1000;
+bgm:日常.mp3 -volume=45 -enter=2000;
+changeFigure:kimini.png -id=kimini -right;
+文化祭的热度还没散。走廊里贴满了社团招新的海报——多到转个身都能粘下一张。
+而在海报最深处的拐角，有一个人同时守着两个摊位。
+基米妮：「文学部，星座联动企划招人中！天文部，观星夜招募同好！」
+左手文学部，右手天文部。她自己站在中间，像两个社团的公约数。
+？？？：「……同学。站在这里十分钟了。你要报名哪个？」
+我看向她——又看向她身后。两个摊位，两份报名表，一个人的笑。"
+基米妮：「换个说法——都不报也没关系，帮我个忙就好。站在这里，当对照组。」
+主角我：「对照组？」
+基米妮：「一个摊位两个人的时候报名率，对比一个摊位一个人的时候。……让我查一下数据。这题我会。」
+她低头翻平板的手速快得像在弹琴。发梢有一点星光似的东西闪了一下。
+setVar:affection_d=affection_d + 1 -global;
+（基米妮　好感 +1）
+choose:老实当对照组:d01_r1.txt|吐槽「你一个人忙得过来吗」:d01_r2.txt|直接把两张表都填了:d01_r3.txt;

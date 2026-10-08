@@ -1,0 +1,6 @@
+「我是你的听众。第38期，一期没落。」
+她愣住了。星星在发梢一粒一粒地重新亮起来。
+「……掉率百分之三十的深夜档。」她别过脸，「你是最不听话的那百分之七十。这题我会。」
+setVar:affection_d=affection_d + 2 -global;
+（基米妮　好感 +2）
+changeScene:d03_overload.txt;

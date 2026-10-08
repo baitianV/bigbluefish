@@ -1,0 +1,28 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
+bgm:温柔.mp3 -volume=45 -enter=2000;
+changeFigure:kimini_event_mic.png -id=kimini -center;
+她的直播间多了一个固定栏目：《听众君时间》。
+基米妮：「本环节由第一听众友情出演。内容：吐槽主播。时长：三十秒。」
+主角我：「三十秒不够。」
+基米妮：「加到一分钟。再讨价还价，计入黑名单观察期。」
+观星夜恢复了。文学部那边，她也回去讲了一场星座联动企划。
+两个摊位，终于请了两个帮手。但她还是喜欢一个人守着——
+因为「对照组的位置，要留给特定的人」。
+changeFigure:kimini_smug.png -id=kimini;
+基米妮：「数据结论：友情线的稳定性，超过预期百分之四十。」
+基米妮：「……样本量还不够。长期观测。你跑不掉的。」
+第38期的锐评还在更新。这次，署名换成了两个。
+jumpLabel:d2init -when=ge_total >= 0;
+setVar:ge_total=0 -global;
+label:d2init;
+setVar:ge_total=ge_total + 1 -global;
+jumpLabel:d2go_ep -when=ge_total >= 3;
+end;
+label:d2go_ep;
+changeScene:ep_epilogue.txt;

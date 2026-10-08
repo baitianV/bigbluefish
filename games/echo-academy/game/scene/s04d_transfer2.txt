@@ -1,0 +1,24 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_走廊.png -next -duration=1000 -exitDuration=1000;
+bgm:日常.mp3 -volume=45 -enter=2000;
+changeFigure:kimini.png -id=kimini -left;
+changeFigure:luoke.png -id=luoke -center;
+changeFigure:shuoyin.png -id=shuoyin -right;
+假期最后一天，学校来了三位期中插班生。
+说是"第二波转学生"。校园的传闻版图，一夜之间多出了三块新大陆。
+基米妮：「文学部兼天文部，基米妮。两条情报线同时营业，欢迎订阅——这题我会。」
+第一位，招新摊前一人分饰两角的学姐。
+洛珂：「各位听众，我是洛珂。校园广播，中午十二点，天台信号最好。记得收听，不收听的亏。」
+第二位，扛着麦克风占了天台的广播DJ。
+？？？：「……朔、朔音。请多指教。借阅卡上……又只有我一个，的书，也可以借给你。」
+第三位，图书馆长龙尽头的少女。报的是笔名，声音小得像书页翻动。
+深寻：「情报密度过高。」她抱着棋盘路过，「建议分组观测。」
+姬佩缇：「委员会的摊位，欢迎三位。」佩缇颔首，「以及——别惹事。」
+克劳德女士：「三位的新故事，」克劳德女士合上书，「我可以留一页吗。」
+校园的故事，从六个人开始，才刚刚铺开。
+changeScene:s05a_rumor.txt;
