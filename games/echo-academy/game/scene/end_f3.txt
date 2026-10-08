@@ -1,0 +1,14 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+bgm:伤感.mp3 -volume=45 -enter=2000;
+那本书的最后一页，始终是空白的。
+她后来又写了几章，写写停停，最后在扉页加了一行小字：
+「献给勇敢的人。以及，对不起。」
+长龙尽头的位置，换了一个低年级的女生。借阅卡上，第一枚章不再是她的名字。
+有些故事，停在了便签通信的那个午后。
+end;

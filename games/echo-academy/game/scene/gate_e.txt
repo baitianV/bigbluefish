@@ -1,0 +1,7 @@
+jumpLabel:ge_love -when=affection_e >= 8 && flag_e5_break;
+jumpLabel:ge_friend -when=affection_e >= 6;
+changeScene:end_e3.txt;
+label:ge_love;
+changeScene:end_e1.txt;
+label:ge_friend;
+changeScene:end_e2.txt;

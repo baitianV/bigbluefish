@@ -1,0 +1,22 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_广播站.png -next -duration=1000 -exitDuration=1000;
+bgm:电波心波.mp3 -volume=45 -enter=2000;
+changeFigure:luoke_grin.png -id=luoke -center;
+《素材君观察日记》连载了两百期。
+洛珂：「各位听众，本栏目获评全校最受欢迎板块。素材君本人对此的评价是——『随他便』。」
+她的最佳损友，每周三准时到岗。风雨无阻，出场费全免。
+洛珂：「下期预告：素材君的数学月考。笑点密度：高。收听建议：备好救心丸。」
+有些搭档，一搭就是一辈子。
+jumpLabel:end_e2g -when=ge_total >= 0;
+setVar:ge_total=0 -global;
+label:end_e2g;
+setVar:ge_total=ge_total + 1 -global;
+jumpLabel:end_e2ggo -when=ge_total >= 3;
+end;
+label:end_e2ggo;
+changeScene:ep_epilogue.txt;

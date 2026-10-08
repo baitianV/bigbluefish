@@ -1,0 +1,14 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
+bgm:伤感.mp3 -volume=45 -enter=2000;
+天台广播还是每周三档。
+段子还是那么好笑，收听率还是全校第一。
+只是热线电话，再也没有响过。
+她在某一期节目的最后说：「点歌环节，永久保留一首慢歌的位置。点歌人——」
+「——这段掐了别播。」
+end;

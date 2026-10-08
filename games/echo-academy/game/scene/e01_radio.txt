@@ -1,7 +1,20 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
 changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
-E线·洛珂「天台广播」，制作中。
-（完整版首批三线，正在连载推进）
-end;
+bgm:日常.mp3 -volume=45 -enter=2000;
+changeFigure:luoke_event_mic.png -id=luoke -center;
+中午十二点，全校的走廊喇叭准时炸响。
+洛珂：「各位听众中午好，这里是天台广播。今日头条：委员会新丁，把文化祭的海报贴反了十八张。十八张。方向感好评。」
+那是我的海报。我的名字。全校的笑声从每一间教室里漏出来。
+我冲上天台。广播间的门没锁。
+主角我：「你会上天入地也躲不掉我。」
+洛珂：「哟，素材本人亲自送上门。」她把脚从操作台上放下来，「各位听众，本期嘉宾，已到直播间。」
+主角我：「把我的糗事从节目单上删掉。」
+洛珂：「删不掉。笑话播出去就是公共财产了——不过嘛。」她敲了敲麦克风，「给你三十秒辟谣时间。用不用？」
+setVar:affection_e=affection_e + 1 -global;
+（洛珂　好感 +1）
+choose:当场用掉三十秒反吐槽:e01_r1.txt|「我还没同意被写进段子」:e01_r2.txt|「你说话就说话，别用扩音器」:e01_r3.txt;

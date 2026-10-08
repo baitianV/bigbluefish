@@ -1,0 +1,5 @@
+「停播处分，理由：直播事故。」她把通知单折成纸飞机，「事故内容：说了真话。各位听众，讽刺不讽刺？」
+我说：「真话我录音了。每一句。」
+setVar:affection_e=affection_e + 2 -global;
+（洛珂　好感 +2）
+changeScene:e05_replay.txt;

@@ -1,0 +1,24 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_走廊.png -next -duration=1000 -exitDuration=1000;
+bgm:温柔.mp3 -volume=45 -enter=2000;
+changeFigure:luoke_event_petition.png -id=luoke -center;
+复播请愿，是我起头的。
+一张纸，印了"天台广播复播联合签名"。第一天，七个名字。第三天，一百四十个。
+深寻签了，笔迹像棋谱。佩缇盖了学生会公章——"程序不合规，但是本会长签了"。克劳德女士写了一句：第一读者附议。
+放学后，我把签名册递给她。
+洛珂：「……搞什么。」
+她翻得很慢。每一页都翻得很慢。
+翻到最后，她的手停住了。笔掉了。捡起来，又掉了。
+changeFigure:none -id=luoke;
+changeBg:cg_petition.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_petition.jpg -name=复播请愿;
+那天她说了三次"笑死"。声音一次比一次哑。
+洛珂：「行。复播。」她把签名册抱进怀里，像抱一把吉他，「第一期——有你。」
+setVar:affection_e=affection_e + 1 -global;
+（洛珂　好感 +1）
+choose:在签名册最后一页签下：第一期听众，申请连坐:e05_r1.txt|「有人写了'谢谢你的真话'，看到没。」:e05_r2.txt|「处分还差二十个签名，全校两千人不肯给你？」——把册子塞进她怀里:e05_r3.txt;

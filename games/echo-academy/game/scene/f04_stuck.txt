@@ -1,0 +1,19 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
+bgm:雨夜.mp3 -volume=45 -enter=2000;
+changeFigure:shuoyin_event_write.png -id=shuoyin -center;
+那部小说的作者，在完结卷发售一个月后发帖：跑路了。外传，不写了。
+帖子下面骂声一片。只有一条回复不一样——
+「那我来写。第一读者，有这个权利。」署名：朔音。
+但她卡住了。第一章，稿纸上只有一行字的标题，空白了整整两周。
+朔音：「……对不起。明明放话出去了。」她盯着稿纸，「每个字都认识，组不成她写的那个世界。」
+朔音：「我读得懂所有人的故事。为什么……写不出一个自己的。」
+台灯把她的影子钉在墙上。窗外的雨下得很安静。像有人在等伞。
+setVar:affection_f=affection_f + 1 -global;
+（朔音　好感 +1）
+choose:「写不出第一章，就写第一章之前的那个下午。」:f04_r1.txt|「卡住的不是故事。是你还没准备好让主角出场。」:f04_r2.txt|什么也不说，陪她坐一晚:f04_r3.txt;

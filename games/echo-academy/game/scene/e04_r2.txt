@@ -1,0 +1,7 @@
+「你替深寻挡的那段，深寻知道吗？」
+「不知道，也别告诉她。」她摆摆手，「素材君，这段掐了别播。」
+「这段，我不掐。」我说。她背过身去，很久没说话。
+setVar:flag_e5_break=true -global;
+setVar:affection_e=affection_e + 2 -global;
+（洛珂　好感 +2）
+changeScene:e05_replay.txt;

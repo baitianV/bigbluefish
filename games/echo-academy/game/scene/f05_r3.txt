@@ -1,0 +1,7 @@
+「名字借你。」我说，「但是结局别写死。」
+「为什么？」
+「留白。」我说，「你教我的。最好的故事，都留着最后一页。」
+setVar:flag_f4_finale=true -global;
+setVar:affection_f=affection_f + 2 -global;
+（朔音　好感 +2）
+changeScene:f06_finale.txt;

@@ -1,0 +1,5 @@
+「你把我写成段子，我还没同意呢。」
+「哈？同意？各位听众，你们听签证吗？」她凑近麦克风，「……行吧。下一期，给你留三十秒反吐槽时间。别浪费。」
+setVar:affection_e=affection_e + 1 -global;
+（洛珂　好感 +1）
+changeScene:e02_song.txt;

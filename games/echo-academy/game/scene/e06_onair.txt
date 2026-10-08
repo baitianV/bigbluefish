@@ -1,0 +1,27 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_夜电台.png -next -duration=1000 -exitDuration=1000;
+bgm:心动.mp3 -volume=45 -enter=2000;
+changeFigure:luoke_rare.png -id=luoke -center;
+复播首期。收听率破了校史纪录。
+她播了段子，播了点歌，播了"素材君观察日记"的特别篇。一切如常。
+直到最后一分钟。她关掉了提词器。屏幕黑下去的那一瞬，整个电台只剩她的呼吸声。
+洛珂：「各位听众，下面这段，不搞笑。」
+洛珂：「停播那两周，有人每天陪我坐到设备关机。有人把我说过的每一句真话都录了下来。有人给我签了一本册子。」
+洛珂：「段子的规矩是把人逗笑。但今天这条规矩作废一次。」
+她凑近麦克风。闭上了眼睛。
+changeFigure:none -id=luoke;
+changeBg:cg_airconfess.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_airconfess.jpg -name=最诚实的一期;
+洛珂：「我喜欢……」
+信号，在那一秒被掐断了。
+全校的喇叭一齐沙沙作响。走廊里，有人跺脚，有人哀嚎。
+只有我知道后半句是什么。因为复播结束后，她在天台等着我，当面把那半句——
+完完整整地，说完了。
+setVar:affection_e=affection_e + 2 -global;
+（洛珂　好感 +2）
+changeScene:gate_e.txt;

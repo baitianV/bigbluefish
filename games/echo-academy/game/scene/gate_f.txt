@@ -1,0 +1,7 @@
+jumpLabel:gf_love -when=affection_f >= 8 && flag_f4_finale;
+jumpLabel:gf_friend -when=affection_f >= 6;
+changeScene:end_f3.txt;
+label:gf_love;
+changeScene:end_f1.txt;
+label:gf_friend;
+changeScene:end_f2.txt;

@@ -1,0 +1,25 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_夏祭.png -next -duration=1000 -exitDuration=1000;
+bgm:心动.mp3 -volume=45 -enter=2000;
+changeFigure:shuoyin_determined.png -id=shuoyin -center;
+文化祭最后一天，露天朗读台。
+她抱着那本合写的书站上台。台下黑压压的人，安静得能听见灯笼里的火苗。
+朔音：「大家好。这个故事，追了别人的三年，卡住了自己的两周。」
+朔音：「后来有个人告诉我——写不出第一章，就写第一章之前的下午。」
+她翻开书，一页一页地读。读得很慢，每个字都很重。
+读到最后一页时，她停住了。
+然后把那一页，转向了台下。
+changeFigure:none -id=shuoyin;
+changeBg:cg_reading.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_reading.jpg -name=留白的一页;
+最后一页，是空白的。
+朔音：「最好的故事，都留着最后一页。」她说，「因为真正的大结局——」
+她在台上，隔着灯光和人群，看向我站的地方。
+setVar:affection_f=affection_f + 2 -global;
+（朔音　好感 +2）
+changeScene:gate_f.txt;

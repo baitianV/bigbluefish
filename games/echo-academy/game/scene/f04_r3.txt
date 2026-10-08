@@ -1,0 +1,6 @@
+我陪她坐了一整晚。稿纸还是白的。
+「……对不起，浪费了你一晚。」
+「没浪费。」我说，「见证一个作家的第一步，很值钱。」她低着头笑了。
+setVar:affection_f=affection_f + 1 -global;
+（朔音　好感 +1）
+changeScene:f05_chapter.txt;

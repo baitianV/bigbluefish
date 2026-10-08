@@ -1,0 +1,5 @@
+「素材库也是要交税的。」我说，「这周我请客，你少编排我。」
+「成交。」她答应得飞快，「……但笑点太好笑了的话，不能怪我。」
+setVar:affection_e=affection_e + 1 -global;
+（洛珂　好感 +1）
+changeScene:e03_night.txt;

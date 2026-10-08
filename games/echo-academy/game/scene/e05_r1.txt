@@ -1,0 +1,6 @@
+签名册传到我手里的时候，最后一页是空的。
+我签上名字，然后写：「第一期听众，申请连坐。」
+她翻到这一页的时候，笔掉了。
+setVar:affection_e=affection_e + 1 -global;
+（洛珂　好感 +1）
+changeScene:e06_onair.txt;

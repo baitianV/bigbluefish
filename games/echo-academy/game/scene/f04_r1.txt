@@ -1,0 +1,5 @@
+「第一章写不出来，就别写第一章。」我说，「写第一章之前的那个下午。」
+她愣了很久，然后翻开新的一页，笔尖落下去了。
+setVar:affection_f=affection_f + 2 -global;
+（朔音　好感 +2）
+changeScene:f05_chapter.txt;

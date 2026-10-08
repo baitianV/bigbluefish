@@ -1,7 +1,18 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
 changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
-F线·朔音「长龙的尽头」，制作中。
-（完整版首批三线，正在连载推进）
-end;
+bgm:温柔.mp3 -volume=45 -enter=2000;
+changeFigure:shuoyin_event_stack.png -id=shuoyin -center;
+图书馆的借书长龙，从柜台排到了哲学区。
+我排了四十分钟，排到队伍尽头——她抱着比下巴还高的一摞书，正往借阅卡上盖章。
+主角我：「每一本书的第一个名字，都是你。」
+朔音：「……嗯。」她把脸往书堆后面藏了藏，「第一读者，是要盖章的。」
+她的借阅卡上是空白的。自己的名字，一个都没盖。
+朔音：「追别人的故事……不用留名字的。第x章里写过：读者是隐形的。」
+setVar:affection_f=affection_f + 1 -global;
+（朔音　好感 +1）
+choose:「那这本借我。我要当你盖的第一个名字。」:f01_r1.txt|「每本书都是你第一个借？你到底读了多少。」:f01_r2.txt|「这么爱读，为什么不自己写？」——随口一问:f01_r3.txt;

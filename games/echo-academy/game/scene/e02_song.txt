@@ -1,0 +1,24 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_广播站.png -next -duration=1000 -exitDuration=1000;
+bgm:日常.mp3 -volume=45 -enter=2000;
+changeFigure:luoke_smirk.png -id=luoke -center;
+从那天起，委员会成了天台广播的"固定素材库"。
+佩缇的预算案、深寻的将棋、克劳德女士的书展——每周三档，雷打不动。
+以及压轴常驻栏目：《素材君观察日记》。
+洛珂：「本周观察：素材君给委员会买的面包，永远是果汁口味。心理学上这叫什么来着——算了，笑点在于他自己都不喝果汁。」
+主角我：「那叫偏好！还有别叫我素材君！」
+洛珂：「行。喂。」
+主角我：「这更过分了吧？！」
+她笑得直拍操作台。耳机挂在她脖子上，晃啊晃。
+点歌环节是唯一安静的三分钟。每周一首，从不重复。
+主角我：「点歌单有人写了吗。」
+洛珂：「一张。」她把纸条扬了扬，「匿名的。字很丑。点了一首慢歌。」
+那张纸条，后来我才知道是谁写的。
+setVar:affection_e=affection_e + 1 -global;
+（洛珂　好感 +1）
+choose:每周准时当嘉宾:e02_r1.txt|「素材库也要交税，这周我请客」:e02_r2.txt|在点歌单上写：给天台DJ点一首慢歌:e02_r3.txt;

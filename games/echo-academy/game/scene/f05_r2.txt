@@ -1,0 +1,7 @@
+「主角是我，那作者呢？」
+「作者是……」她的脸红了，「执笔者。仅此而已。第x章之前，别多想。」
+第x章之后呢？她没有说。
+setVar:flag_f4_finale=true -global;
+setVar:affection_f=affection_f + 1 -global;
+（朔音　好感 +1）
+changeScene:f06_finale.txt;

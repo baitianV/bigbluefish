@@ -1,0 +1,5 @@
+我什么都没问，只是在节目最后说：「明天见。」
+电话那头安静了很久。「……明天见。」她说，「各位听众，明天见。」
+setVar:affection_e=affection_e + 2 -global;
+（洛珂　好感 +2）
+changeScene:e04_silence.txt;

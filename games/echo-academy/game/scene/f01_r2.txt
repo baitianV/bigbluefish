@@ -1,0 +1,5 @@
+「每本书第一个借阅者，都是你？」
+「……嗯。」她点头，「第x章里写过：最早的读者，是故事的第一位朋友。」
+setVar:affection_f=affection_f + 1 -global;
+（朔音　好感 +1）
+changeScene:f02_note.txt;

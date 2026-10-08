@@ -1,0 +1,7 @@
+「处分撤销的条件还差二十个签名。」我说，「全校两千人，二十分之一都不肯给你？」
+「不是不肯。」她低着头，「是我不敢发。麻烦。」
+我把签名册塞进她怀里：「那这次，麻烦你收下。」
+setVar:flag_e5_break=true -global;
+setVar:affection_e=affection_e + 2 -global;
+（洛珂　好感 +2）
+changeScene:e06_onair.txt;

@@ -1,0 +1,6 @@
+「主角写我？」我指着稿纸上的名字。
+「……可以吗。」她的声音很小，「第一读者才有的权限。别人我还不给。」
+setVar:flag_f4_finale=true -global;
+setVar:affection_f=affection_f + 2 -global;
+（朔音　好感 +2）
+changeScene:f06_finale.txt;

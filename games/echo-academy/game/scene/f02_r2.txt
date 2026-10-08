@@ -1,0 +1,6 @@
+「便签上的字，比你说的话多。」我说。
+她抱紧了书。「……对不起，我说得太绕了。」
+「不。」我说，「写得很好看。继续写。」
+setVar:affection_f=affection_f + 1 -global;
+（朔音　好感 +1）
+changeScene:f03_finale.txt;

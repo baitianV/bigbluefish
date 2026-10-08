@@ -1,0 +1,26 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeBg:bg_夜电台.png -next -duration=1000 -exitDuration=1000;
+bgm:心动.mp3 -volume=45 -enter=2000;
+changeFigure:luoke_rare.png -id=luoke -center;
+复播后的第一期节目结束，我在天台找到了她。
+洛珂：「……你来啦。各位听众都走了，就剩你。」
+她背对着我，双手撑在栏杆上。城市的灯在她脚下亮成一片。
+主角我：「被掐断的那半句。补上。」
+她转过身。没有广播腔，没有段子，没有藏起来的虎牙。
+洛珂：「……我喜欢你。」
+说完，她一把抓起耳机扣在头上，转身就走。
+洛珂：「这段掐了！别播！谁都别播——」
+但天台的风，把这句话吹给了整座城市。
+jumpLabel:end_e1g -when=ge_total >= 0;
+setVar:ge_total=0 -global;
+label:end_e1g;
+setVar:ge_total=ge_total + 1 -global;
+jumpLabel:end_e1ggo -when=ge_total >= 3;
+end;
+label:end_e1ggo;
+changeScene:ep_epilogue.txt;

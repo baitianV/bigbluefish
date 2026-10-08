@@ -1,0 +1,5 @@
+我每周准时到。骂归骂，她每次都给我留了位置。
+「固定嘉宾」她说，「没有出场费，但有点歌权。」
+setVar:affection_e=affection_e + 1 -global;
+（洛珂　好感 +1）
+changeScene:e03_night.txt;

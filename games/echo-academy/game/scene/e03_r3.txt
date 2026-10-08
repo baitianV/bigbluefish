@@ -1,0 +1,5 @@
+我点了一首她上次"绝不播"的慢歌。
+她真的播了。播完说：「本期最烂选曲。但是……不砍掉。保留。」
+setVar:affection_e=affection_e + 1 -global;
+（洛珂　好感 +1）
+changeScene:e04_silence.txt;

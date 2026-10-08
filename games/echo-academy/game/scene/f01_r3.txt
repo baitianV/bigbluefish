@@ -1,0 +1,6 @@
+「这么爱看书，为什么不写书？」我随口问。
+她愣住了。像被问到了某本书的最后一页。
+「……因为我还在等。」她说，「等一个值得写的人。」
+setVar:affection_f=affection_f + 1 -global;
+（朔音　好感 +1）
+changeScene:f02_note.txt;
