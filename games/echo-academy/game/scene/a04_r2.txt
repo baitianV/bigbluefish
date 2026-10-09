@@ -1,5 +1,5 @@
 changeFigure:shenxun_shy.png -id=shenxun -right;
-bgm:伤感.mp3 -volume=45 -enter=2000;
+bgm:低气压.mp3 -volume=45 -enter=2000;
 「深寻。」
 「……」
 「你的预测模型，从来没放进过你自己。」

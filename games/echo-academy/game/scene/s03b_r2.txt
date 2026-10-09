@@ -7,6 +7,9 @@ changeFigure:peiti_proud.png -id=peiti -left;
 「会长的钥匙串，比流言可靠。」我说。
 「那当然。」最后一道锁咔哒扣上。
 「钥匙串，从不撒谎。」
+走到校门口，她忽然停下：「今天的任务清单，全部打勾。」钥匙串抛起来，又接住，「包括——」
+「包括什么？」
+「没什么。」钥匙串在她掌心里，咔哒一声攥紧了。
 setVar:affection_b=affection_b + 1 -global;
 （姬佩缇　好感 +1）
 changeScene:s04a_shrine.txt;

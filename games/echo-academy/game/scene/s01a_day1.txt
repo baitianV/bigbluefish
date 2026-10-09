@@ -2,7 +2,7 @@ changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeBg:bg_坡道.png -next -duration=1000 -exitDuration=1000;
-bgm:日常.mp3 -volume=45 -enter=2000;
+bgm:晨读.mp3 -volume=45 -enter=2000;
 四月的坡道，樱花开到了强弩之末。
 海雾还没散，把远处的海和天搅成一色的灰蓝。
 书包比想象中轻——重要的东西，昨天都留在旧城市了。

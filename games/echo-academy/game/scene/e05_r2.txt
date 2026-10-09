@@ -4,4 +4,4 @@ changeFigure:luoke_down.png -id=luoke;
 setVar:flag_e5_break=true -global;
 setVar:affection_e=affection_e + 2 -global;
 （洛珂　好感 +2）
-changeScene:e06_onair.txt;
+changeScene:e05i_soundcheck.txt;

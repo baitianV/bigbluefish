@@ -3,7 +3,7 @@ changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeFigure:peiti_tired.png -id=peiti -left;
 changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
-bgm:伤感.mp3 -volume=45 -enter=2000;
+bgm:未寄出的信.mp3 -volume=45 -enter=2000;
 夏天结了账。只有一句话，两个人都没说破。
 她安静了很久。
 「谢谢，」她说。标准得体的会长式微笑，「谢谢这个夏天。」

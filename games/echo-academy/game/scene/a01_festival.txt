@@ -6,7 +6,7 @@ bgm:日常.mp3 -volume=45 -enter=2000;
 文化祭当天。执行部的楼层被各班级的摊位挤得水泄不通。
 执事咖啡厅的隔壁，摆着一张棋桌。
 桌后坐镇的，是一位系着白色围裙的鲸鱼娘。
-changeFigure:shenxun.png -id=shenxun -right;
+changeFigure:shenxun_event_apron.png -id=shenxun -right;
 「……看什么。」
 深寻头也不抬，指尖的棋子敲在桌面上。
 「摊位主题是抽签决定的。执事咖啡厅，附带棋摊。」

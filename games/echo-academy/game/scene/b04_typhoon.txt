@@ -2,7 +2,7 @@ changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
-bgm:伤感.mp3 -volume=45 -enter=2000;
+bgm:低气压.mp3 -volume=45 -enter=2000;
 风声。
 台风外围提前到了。文化祭延后重开的场地布置夜，变成了一场抢险。
 窗外横着雨。教室里，指挥部临时恢复。

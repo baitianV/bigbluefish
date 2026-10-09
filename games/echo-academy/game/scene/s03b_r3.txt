@@ -7,6 +7,9 @@ changeFigure:feibu_quiet.png -id=feibu -right;
 「每本都要说再见。」她把书一本一本插回架子。
 「下次见。嗯，下次见。」
 最后一本，她拍了拍书脊。
+第七本插回去的时候，她忽然回头：「你跟它们道别了吗？」
+「图书馆的书，记性比人好。」她说得郑重，「今天听过你声音的这几本，会记得久一点。」
+出门前，她把我们借书的期限，悄悄往后改了一个星期。
 setVar:affection_c=affection_c + 1 -global;
 （克劳德女士　好感 +1）
 changeScene:s04a_shrine.txt;

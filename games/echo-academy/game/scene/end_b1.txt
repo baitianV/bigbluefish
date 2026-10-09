@@ -10,8 +10,8 @@ changeFigure:none -id=peiti;
 changeBg:cg_ge_b.jpg -next -duration=500 -exitDuration=500;
 unlockCg:cg_ge_b.jpg -name=说出口的话·佩缇;
 ;cg-final-end
-我把那句话，说出了口。
-海浪一遍一遍，把世界调成背景音。
+那句话，逆着海风，说了出去。
+浪头一个接一个砸在防波堤上，像在替我擂鼓。
 她愣了很久。
 久到夕阳完全沉下去，久到第一颗星亮起来。
 「……哈。」
@@ -25,8 +25,8 @@ changeFigure:none -id=peiti;
 changeBg:cg_ge_b.jpg -next -duration=500 -exitDuration=500;
 unlockCg:cg_ge_b.jpg -name=说出口的话·佩缇;
 ;cg-final-end
-我把那句话，说出了口。
-海浪一遍一遍，把世界调成背景音。
+那句话，逆着海风，说了出去。
+浪头一个接一个砸在防波堤上，像在替我擂鼓。
 她愣了很久。
 久到夕阳完全沉下去，久到第一颗星亮起来。
 「……哈？」

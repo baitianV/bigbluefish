@@ -4,6 +4,9 @@ changeFigure:shenxun_think.png -id=shenxun -right;
 两秒的沉默。
 深寻：「对手，总不能自己等自己吧。」
 最后半句，轻得几乎听不见。
+鲸尾在长椅上，停了。
+「两个人下的话，」她盯着棋盘，「输赢，就要算在别人头上了。」
+呆毛卷成的问号，慢慢松开，卷成了一个句号。
 setVar:affection_a=affection_a + 1 -global;
 （深寻　好感 +1）
 changeScene:s02b_corridor.txt;

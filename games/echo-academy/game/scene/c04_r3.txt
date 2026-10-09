@@ -1,5 +1,5 @@
 「上周三，晴——那天图书馆明明开到七点，你几点走的？」
-bgm:伤感.mp3 -volume=45 -enter=2000;
+bgm:低气压.mp3 -volume=45 -enter=2000;
 「……六点。」
 「书架拐角——你后来搬走了梯子，为什么？」
 「因为、因为挡路……」
@@ -15,6 +15,7 @@ bgm:伤感.mp3 -volume=45 -enter=2000;
 那天晚上，连载的更新停了。
 道歉页，厚了三页。
 （真相，和三页新的道歉）
+setVar:flag_c4_truth=true -global;
 setVar:affection_c=affection_c + 2 -global;
 （克劳德女士　好感 +2）
 changeScene:c05_stage.txt;

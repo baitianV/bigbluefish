@@ -7,4 +7,4 @@
 「有。」她说，「回程那句『很好听』，第十一遍，抵首期。」
 setVar:affection_d=affection_d + 1 -global;
 （基米妮　好感 +1）
-changeScene:d06_onair.txt;
+changeScene:d05i_thread.txt;

@@ -5,13 +5,14 @@ changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
 changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
-bgm:伤感.mp3 -volume=45 -enter=2000;
+bgm:低气压.mp3 -volume=45 -enter=2000;
 changeFigure:luoke_event_silence.png -id=luoke -center;
 事情发生在文化祭后的第三周。
 论坛上的流言烧到了深寻和佩缇头上。词条越挂越高。
 那天中午，天台广播没有播段子。播了一段三分钟的"特别锐评"——
 每一句都指向流言的漏洞，每一个名字都替她们挡了枪。锋利，准确，不留退路。
 包括她自己的。
+外景记者守则第一条，她写的，字比谁都重：别关机。
 我鬼使神差地按下录音，把那三分钟原样存进了手机。一个字都没舍得删。
 洛珂：「处分通知，停播两周。理由：播出不当内容。」
 她把通知单折成纸飞机，从天台丢了下去。耳机摘了，挂在手边。

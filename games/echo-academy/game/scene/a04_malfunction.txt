@@ -2,7 +2,7 @@ changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
-bgm:伤感.mp3 -volume=45 -enter=2000;
+bgm:低气压.mp3 -volume=45 -enter=2000;
 文化祭结束后的第三个星期。
 天台的门，锁了。
 午休的深寻，换到了教学楼顶层的储物间。

@@ -2,10 +2,10 @@ changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
-bgm:日常.mp3 -volume=45 -enter=2000;
+bgm:晨读.mp3 -volume=45 -enter=2000;
 文化祭书展的选题会，在文艺部部室——图书馆旧书区最深处的两张桌子。
 克劳德女士把连载的原稿摊开，占满了一整张桌。
-changeFigure:feibu.png -id=feibu -center;
+changeFigure:feibu_worry.png -id=feibu -center;
 「问题在这里。」她指着一整页空白，
 「第四章。勇者进了学园，故事就在这里卡住了。」
 「为什么卡住。」
@@ -15,13 +15,13 @@ changeFigure:feibu.png -id=feibu -center;
 她的故事里，每个主角都扎根在同一座城。
 「所以。」
 她把一支铅笔推到我面前。笔尾削得很认真。
-「第四章，两个人写。」
-「我写勇者，你写转学生。」
-「一人一段。像，像接龙。」
+「第四章，公开招募合作执笔人。」
+「我写勇者，转学生归你。一人一段，像接龙。」
 她的耳朵又红了：「如果说太麻烦的话——」
 「不麻烦。」我拿起铅笔。
 她愣了一下，然后，笑了。
 那种说书人讲到「于是冒险开始了」的笑。
+changeFigure:feibu_proud.png -id=feibu -center;
 「——话分两头！」她一拍桌子，压着嗓子，
 「勇者与异乡人，在故事的第四章相遇了。」
 那天我们写到闭馆铃响。

@@ -5,7 +5,7 @@ changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
 changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
-bgm:日常.mp3 -volume=45 -enter=2000;
+bgm:借阅卡.mp3 -volume=45 -enter=2000;
 借阅柜台的玻璃面上，贴着一张打过格子的纸。
 『今日闭馆整架，还书请投箱。』
 字是她的。小小的一笔一笔，落纸很重，隔着一层玻璃都按得住人。

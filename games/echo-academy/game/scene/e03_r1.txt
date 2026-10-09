@@ -3,4 +3,4 @@ changeFigure:luoke_event_guitar.png -id=luoke;
 电话那头安静了很久。「……明天见。」她说，「各位听众，明天见。」
 setVar:affection_e=affection_e + 2 -global;
 （洛珂　好感 +2）
-changeScene:e04_silence.txt;
+changeScene:e03i_marathon.txt;

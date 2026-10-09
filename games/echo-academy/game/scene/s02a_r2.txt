@@ -3,6 +3,9 @@ changeFigure:shenxun_tsun.png -id=shenxun -right;
 深寻：「……哼。」呆毛抖了一下，「当然。」
 收棋的动作快了半拍。
 尾巴拍椅面的节奏，也是。
+「哪里好。」她追问得飞快，「布局、中盘，还是终盘？说具体。」
+我指了指中盘那手大飞。她盯着看了两秒，呆毛慢慢翘了起来。
+「……眼光合格。」她把那枚棋子单独收进棋盒的小格，「这一手，我下了四百盘。」
 setVar:affection_a=affection_a + 1 -global;
 （深寻　好感 +1）
 changeScene:s02b_corridor.txt;

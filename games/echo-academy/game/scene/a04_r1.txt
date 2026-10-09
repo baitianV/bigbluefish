@@ -1,5 +1,5 @@
 我把那张表格抽过来，撕了。
-bgm:伤感.mp3 -volume=45 -enter=2000;
+bgm:低气压.mp3 -volume=45 -enter=2000;
 纸屑从窗边飘下去。
 「你干什么！」她跳起来抢，「那是修复方案——」
 「那是一张逃跑计划。」
@@ -12,4 +12,5 @@ bgm:伤感.mp3 -volume=45 -enter=2000;
 很久之后，她说。
 「让我一个人，缓缓。」
 （深寻的「修复」，被中断了）
+setVar:flag_a4_endgame=true -global;
 changeScene:a05_final_game.txt;

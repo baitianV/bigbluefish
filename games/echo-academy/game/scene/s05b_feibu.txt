@@ -2,7 +2,7 @@ changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
-bgm:温柔.mp3 -volume=45 -enter=2000;
+bgm:纸页月光.mp3 -volume=45 -enter=2000;
 changeFigure:feibu.png -id=feibu -right;
 旧书区的灯下，克劳德女士抱着一摞书当掩护。
 「……是她自己。」我听见她小声嘀咕。
@@ -24,6 +24,17 @@ changeFigure:feibu.png -id=feibu -right;
 changeFigure:feibu_quiet.png -id=feibu -right;
 「……真的，可以吗？」
 「主角已经登场了。作者还在等什么？」
+jumpLabel:door_knock -when=flag_door_knock;
+jumpLabel:door_push -when=flag_door_push;
+label:door_done;
 setVar:affection_c=affection_c + 2 -global;
 （克劳德女士　好感 +2）
 changeScene:s06a_eve.txt;
+label:door_knock;
+克劳德女士：「对了。」羽毛笔停了停，「上次在旧书区门口，敲门敲得很轻的那个人——是你吧。」
+「幻影收门费。两声笃笃，换一个结局。」她把本子抱好，耳朵有点红，「今天，算你付过了。」
+jumpLabel:door_done;
+label:door_push;
+克劳德女士：「还有，下不为例。」她把故事书往怀里挪了挪，「上次你就是这样推门进来的，幻影差点、差点当场散稿。」
+「下次进门，记得敲门。」她小声补了一句，「幻影，是需要仪式感的。」
+jumpLabel:door_done;

@@ -2,7 +2,7 @@ changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
-bgm:温柔.mp3 -volume=45 -enter=2000;
+bgm:借阅卡.mp3 -volume=45 -enter=2000;
 旧书区的灯比外面暗一号。书架高得快顶到天花板。
 角落里，有人在很小声地——讲故事？
 changeFigure:feibu.png -id=feibu -right;

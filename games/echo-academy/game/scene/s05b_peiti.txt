@@ -2,7 +2,7 @@ changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
-bgm:温柔.mp3 -volume=45 -enter=2000;
+bgm:心动.mp3 -volume=45 -enter=2000;
 changeFigure:peiti.png -id=peiti -left;
 委员会教室的灯，还亮着。
 姬佩缇坐在会长席上。面前摊着下周的日程表。

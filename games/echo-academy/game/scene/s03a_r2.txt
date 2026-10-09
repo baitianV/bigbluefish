@@ -5,6 +5,8 @@ changeFigure:peiti_proud.png -id=peiti -left;
 一路上，她跟每家店的老板点头致意。全员叫得出名字。
 「会长的基本功。」她头也不回。
 「这条街的赞助，一半是这么点头点来的。」
+会长踩点的路线，在地图上大概画得出一个同心圆：哪家门口有三级台阶、哪家老板娘怕吵，全在她的动线里。
+回程撞见落下的两位。深寻看了一眼，给出鉴定：「效率尚可。」克劳德女士奋笔疾书：「会长巡山，第二章有素材了。」
 setVar:affection_b=affection_b + 1 -global;
 （姬佩缇　好感 +1）
 changeScene:s03b_committee2.txt;

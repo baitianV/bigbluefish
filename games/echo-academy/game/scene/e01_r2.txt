@@ -7,4 +7,4 @@ changeFigure:luoke_smirk.png -id=luoke;
 最后半句是凑着麦克风说的。轻得像只打算让一个人听见。
 setVar:affection_e=affection_e + 1 -global;
 （洛珂　好感 +1）
-changeScene:e02_song.txt;
+changeScene:e01i_poster.txt;

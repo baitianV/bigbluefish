@@ -7,4 +7,4 @@ changeFigure:luoke_event_guitar.png -id=luoke;
 「下次还点的话——」她清了清嗓子，广播腔回来了，「提前一天报备。歌单，要排。」
 setVar:affection_e=affection_e + 1 -global;
 （洛珂　好感 +1）
-changeScene:e04_silence.txt;
+changeScene:e03i_marathon.txt;

@@ -3,6 +3,8 @@ changeFigure:peiti_frustrate.png -id=peiti -left;
 姬佩缇：「哪里！」她当场抽出来检查。
 姬佩缇：「……真歪了。今天的风向不好。」
 室内。哪来的风。
+她把那行字压着尺子重写了一遍，横平竖直，像印出来的。
+「本会长的字从来没歪过。」笔帽按得咔哒一声响，「刚才那行，是桌子的问题。」
 setVar:affection_b=affection_b + 1 -global;
 （姬佩缇　好感 +1）
 changeScene:s02c_go.txt;

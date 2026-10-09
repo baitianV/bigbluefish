@@ -7,6 +7,9 @@ changeFigure:shenxun_tsun.png -id=shenxun -right;
 回去的路上她说：「跑腿这件事，效率最高的环节，是等人。」
 等谁？
 「等你付钱。」
+回教室交样张的时候，佩缇的目光在宣传册和我们两个人之间走了一个来回。
+「跑个腿，」她慢慢地说，「还带定点搭档的。」
+克劳德女士在小本子上写了一行字，还念了出来：「委员会第一天，蛛丝马迹。」
 setVar:affection_a=affection_a + 1 -global;
 （深寻　好感 +1）
 changeScene:s03b_committee2.txt;

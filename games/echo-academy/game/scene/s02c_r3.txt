@@ -2,6 +2,8 @@ changeFigure:feibu_quiet.png -id=feibu -right;
 「门后，只有什么？」
 ？？？：「……只有回家的路。」她想了想。
 ？？？：「勇者走了很远才发现——他要找的东西，出发的时候就在书包里。」
+说完她自己愣了一下，像是这个结局，头一次讲给人听。
+羽毛笔在纸上顿了顿，把刚才那一句，原样抄了下去。
 setVar:affection_c=affection_c + 1 -global;
 （？？？　好感 +1）
 changeScene:s03a_committee.txt;

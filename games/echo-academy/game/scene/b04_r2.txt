@@ -1,5 +1,5 @@
 「休息十分钟。」我举手，「我来主持盘点。」
-bgm:伤感.mp3 -volume=45 -enter=2000;
+bgm:低气压.mp3 -volume=45 -enter=2000;
 「哦？就这？」她挑眉，
 「现在是最——」
 「会长的体力是全校标杆。」我看着她，
@@ -14,6 +14,7 @@ bgm:伤感.mp3 -volume=45 -enter=2000;
 「嗯？」
 「标杆，记住了。」
 （会长的「满血」，被校准了一次）
+setVar:flag_b5_rely=true -global;
 setVar:affection_b=affection_b + 2 -global;
 （姬佩缇　好感 +2）
 changeScene:b05_fever.txt;

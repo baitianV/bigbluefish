@@ -4,4 +4,6 @@ changeFigure:peiti_proud.png -id=peiti -left;
 「哦？手脚利索，态度也利索。」
 「明天放学，委员会教室。迟到的话——」
 她笑了笑，没有说完。
+「前三个，都跑了两周。你，零四号。」
+小蓝云飘过来，在我头顶停了一秒，像在给我建档。
 changeScene:s02a_rooftop.txt;

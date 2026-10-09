@@ -3,7 +3,7 @@ changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeFigure:feibu_event_diary.png -id=feibu -center;
 changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
-bgm:伤感.mp3 -volume=45 -enter=2000;
+bgm:低气压.mp3 -volume=45 -enter=2000;
 书展结束后的那个傍晚。
 部室只剩她一个人。我回来取落下的伞，在书架的拐角停住了——
 电脑屏幕亮着。她背对着，在收拾东西。

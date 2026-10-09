@@ -1,3 +1,4 @@
+setVar:flag_door_push=true -global;
 推门。门轴发出一声不小的抗议。
 念故事的声音，停了半拍——大概，以为是风。
 我侧身溜了进去。

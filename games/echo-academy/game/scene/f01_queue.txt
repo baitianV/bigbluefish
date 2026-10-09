@@ -5,7 +5,7 @@ changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
 changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
-bgm:温柔.mp3 -volume=45 -enter=2000;
+bgm:借阅卡.mp3 -volume=45 -enter=2000;
 changeFigure:shuoyin_event_stack.png -id=shuoyin -center;
 图书馆的借书长龙，从柜台排到了哲学区。
 我排了四十分钟，排到队伍尽头——她抱着比下巴还高的一摞书，正往借阅卡上盖章。

@@ -2,7 +2,7 @@ changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
-bgm:温柔.mp3 -volume=45 -enter=2000;
+bgm:星尘双面.mp3 -volume=45 -enter=2000;
 changeFigure:shenxun_event_board.png -id=shenxun -right;
 天台的门开着。她背对着门。没有棋盘。
 「……流言的事。」

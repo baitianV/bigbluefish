@@ -3,4 +3,6 @@ changeFigure:peiti_proud.png -id=peiti -left;
 「诚邀你，凑个数。」
 「……」
 「明天放学，委员会教室。」她转过身去，「这已经是诚邀了。」
+走出两步，她又停下，回头补了一条：「会内申诉通道，每周三开放。今天不是周三。」
+小蓝云学她的语气抖了一下，被一记眼刀当场按平。
 changeScene:s02a_rooftop.txt;

@@ -1,3 +1,4 @@
+setVar:flag_door_knock=true -global;
 笃笃。两声。
 声音停了。三秒后，又若无其事地继续——她大概，认定自己听错了。
 我轻轻推开门。

@@ -3,6 +3,9 @@ changeFigure:feibu_proud.png -id=feibu -right;
 ？？？：「真的？！」她眼睛一亮。
 ？？？：「那，请继续路过。幻影出没区域，注意脚下。」
 ……还挺入戏。
+她抱着故事书往书架后缩，缩到一半，又探出半个脑袋。
+「那个，路过的调查员。」一支铅笔从书架缝里滚出来，停在我脚边，「武器掉进了非幻影区域。委托回收。」
+「作为交换，透露一条预告——」她的声音压得更低，「勇者会打喷嚏。在一个很重要的地方。」
 setVar:affection_c=affection_c + 1 -global;
 （？？？　好感 +1）
 changeScene:s03a_committee.txt;

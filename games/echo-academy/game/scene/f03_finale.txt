@@ -5,7 +5,7 @@ changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
 changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
-bgm:伤感.mp3 -volume=45 -enter=2000;
+bgm:未寄出的信.mp3 -volume=45 -enter=2000;
 changeFigure:shuoyin_event_cry.png -id=shuoyin -center;
 她追了三年的那部小说，完结了。
 发布那天是周五。我在图书馆最深处的角落找到她——实体椅上，暖铜灯下，抱着最后一卷。

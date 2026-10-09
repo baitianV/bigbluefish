@@ -5,7 +5,7 @@ changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
 changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
-bgm:日常.mp3 -volume=45 -enter=2000;
+bgm:晨读.mp3 -volume=45 -enter=2000;
 changeFigure:kimini.png -id=kimini -right;
 次日，午休。
 教学楼一楼的空教室。文化祭的桌椅还没归库，正好被拼成一张长桌。

@@ -2,6 +2,8 @@
 「理由。」
 「困的时候，比咖啡快。」
 「哈——」她笑出了声，「你很懂加班嘛。」
+「困和累，是两回事。」她把糖罐收回抽屉，「困，糖救得了。累——」
+抽屉关上了。后半句跟着糖罐，一起锁了进去。
 setVar:affection_b=affection_b + 1 -global;
 （姬佩缇　好感 +1）
 changeScene:s04c_bookstore.txt;

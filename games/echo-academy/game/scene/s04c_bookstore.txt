@@ -2,7 +2,7 @@ changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
-bgm:日常.mp3 -volume=45 -enter=2000;
+bgm:借阅卡.mp3 -volume=45 -enter=2000;
 商店街尽头的旧书店，屋檐滴着假期的雨。
 克劳德女士蹲在店门口的台阶上，本子摊在膝头。
 羽毛笔——写个不停。

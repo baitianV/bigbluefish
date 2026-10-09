@@ -3,4 +3,4 @@
 那天回程，我们一句话都没讲。她说，那是她十七年来，最安静也最不慌的一天。
 setVar:affection_d=affection_d + 1 -global;
 （基米妮　好感 +1）
-changeScene:d06_onair.txt;
+changeScene:d05i_thread.txt;
