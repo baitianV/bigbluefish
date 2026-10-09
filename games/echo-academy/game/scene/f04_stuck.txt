@@ -14,6 +14,4 @@ changeFigure:shuoyin_event_write.png -id=shuoyin -center;
 朔音：「……对不起。明明放话出去了。」她盯着稿纸，「每个字都认识，组不成她写的那个世界。」
 朔音：「我读得懂所有人的故事。为什么……写不出一个自己的。」
 台灯把她的影子钉在墙上。窗外的雨下得很安静。像有人在等伞。
-setVar:affection_f=affection_f + 1 -global;
-（朔音　好感 +1）
 choose:「写不出第一章，就写第一章之前的那个下午。」:f04_r1.txt|「卡住的不是故事。是你还没准备好让主角出场。」:f04_r2.txt|什么也不说，陪她坐一晚:f04_r3.txt;

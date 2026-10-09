@@ -20,6 +20,7 @@ jumpLabel:end_e1g -when=ge_total >= 0;
 setVar:ge_total=0 -global;
 label:end_e1g;
 setVar:ge_total=ge_total + 1 -global;
+setVar:flag_ge_e=true -global;
 jumpLabel:end_e1ggo -when=ge_total >= 3;
 end;
 label:end_e1ggo;

@@ -5,6 +5,10 @@ changeFigure:shenxun_smile.png -id=shenxun -right;
 深寻：「……你看完了？」
 「嗯。」
 深寻：「明天，还可以来。」
+她收棋的手停了半拍。鲸尾在长椅上啪、啪拍了两下——比刚才一整局棋都响。
+「今天的观棋样本，」她把棋盘塞进袋子，不看我，「质量合格。记入长期数据库。」
+走到门口，又停下。
+「……明天。别迟到。」
 setVar:affection_a=affection_a + 1 -global;
 （深寻　好感 +1）
 changeScene:s02b_corridor.txt;

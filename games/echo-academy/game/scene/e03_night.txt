@@ -7,7 +7,7 @@ changeFigure:none -id=shuoyin;
 changeBg:bg_夜电台.png -next -duration=1000 -exitDuration=1000;
 bgm:电波心波.mp3 -volume=45 -enter=2000;
 changeFigure:luoke_event_guitar.png -id=luoke -center;
-文化祭前夜，全校都在赶工。凌晨十一点，广播站的灯还亮着。
+文化祭前夜，全校都在赶工。深夜十一点，广播站的灯还亮着。
 洛珂：「特别节目，深夜放送。」她抱着一把旧吉他，「收听率预计：零。无所谓，本来就不是播给全校的。」
 主角我：「那是播给谁的？」
 洛珂：「打进来的人。」
@@ -21,6 +21,4 @@ changeFigure:none -id=luoke;
 changeBg:cg_nightcall.jpg -next -duration=500 -exitDuration=500;
 unlockCg:cg_nightcall.jpg -name=深夜放送;
 但她没掐。这段录音，后来我听了不下一百遍。
-setVar:affection_e=affection_e + 1 -global;
-（洛珂　好感 +1）
 choose:「明天见。」:e03_r1.txt|「睡不着就打进来，反正我也睡不着」:e03_r2.txt|点那首她"绝不播"的慢歌:e03_r3.txt;

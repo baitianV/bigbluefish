@@ -7,19 +7,25 @@ changeFigure:none -id=shuoyin;
 changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
 bgm:星尘双面.mp3 -volume=45 -enter=2000;
 changeFigure:kimini_event_mic.png -id=kimini -center;
-她复播的那天晚上，我在直播间里。
-在线人数是平时的十倍。所有人都在等她解释，或者道歉。
+她复播的那天晚上，直播间的标题只有四个字：设备调试。
+没有预告，没有转发。开播链接，只发给了一个人。
+我推开社团教室的门。她已经戴好了耳机，指了指身边的椅子，又指了指我的手机。
+基米妮：「登进去。复播场，观众限一名。今晚的在线人数，必须是一——数据要真实。」
+明明只有一名观众，开场白还是全套的。
 基米妮：「各位晚上好，这里是双子星。今天没有锐评，只有一条公告。」
 基米妮：「白天的基米妮，是装的。晚上这个，也是装的。」
-弹幕炸了。她停了两秒——我在教室里，陪她一起停这两秒。
+她停了两秒——我在教室里，陪她一起停这两秒。
 基米妮：「但是装出来的两个人，都真的存在过。学霸是她，毒舌也是她。讨厌我的人，现在可以取关了。」
+changeFigure:none -id=kimini;
+changeBg:cg_twins.jpg -next -duration=500 -exitDuration=500;
+unlockCg:cg_twins.jpg -name=双子星·一体两面;
+她瞥了一眼后台。在线：1。取关：0。她在数据后面，轻轻笑了一下。
 基米妮：「至于喜欢的人——」
 她的声音，第一次在直播里变小。像把最重要的那句话，说第二遍的方式。
-基米妮：「谢谢你们，喜欢全部的我。」
+基米妮：「谢谢你，喜欢全部的我。」
 changeFigure:none -id=kimini;
 changeBg:cg_stream.jpg -next -duration=500 -exitDuration=500;
 unlockCg:cg_stream.jpg -name=双子星·第一百期;
-那晚的在线人数，定格在全校第一。
-setVar:affection_d=affection_d + 2 -global;
-（基米妮　好感 +2）
+那一晚，在线人数从头到尾都是一。全校都在等的这场复播，其实只有两个人在场。
+面向全校的复播公告，是第二天中午发的。三行，不带一个语气词。
 changeScene:gate_d.txt;

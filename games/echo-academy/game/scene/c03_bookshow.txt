@@ -38,4 +38,4 @@ changeFigure:feibu_event_stage.png -id=feibu -right;
 （书展之夜，两个人署名的故事）
 setVar:affection_c=affection_c + 2 -global;
 （克劳德女士　好感 +2）
-changeScene:c04_diary.txt;
+changeScene:c03i_letters.txt;

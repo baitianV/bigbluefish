@@ -1,7 +1,7 @@
 jumpLabel:g1 -when=affection_c >= 8;
-changeScene:end_c2.txt;
+changeScene:end_c3.txt;
 label:g1;
 jumpLabel:g2 -when=flag_c4_truth;
-changeScene:end_c2.txt;
+changeScene:end_c3.txt;
 label:g2;
 changeScene:end_c1.txt;

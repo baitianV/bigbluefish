@@ -1,6 +1,10 @@
 「便签上的字，比你说的话多。」我说。
+changeFigure:shuoyin_worry.png -id=shuoyin -right;
 她抱紧了书。「……对不起，我说得太绕了。」
 「不。」我说，「写得很好看。继续写。」
+她把书抱得更紧了一点。然后忽然抽出一张新便签，写了一行小字，贴在还书台内侧——她自己的那一侧。
+上面写的是：「今天的话，比便签多。」
+「……练习。」她的声音很小，但是没有道歉，「从下周起，还书日，当面说三句。慢慢加。」
 setVar:affection_f=affection_f + 1 -global;
 （朔音　好感 +1）
-changeScene:f03_finale.txt;
+changeScene:f02i_closedday.txt;

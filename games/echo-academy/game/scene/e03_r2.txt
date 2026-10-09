@@ -1,4 +1,5 @@
 「睡不着的时候，就打进来。」我说，「反正我也睡不着。」
+changeFigure:luoke_event_guitar.png -id=luoke;
 「……行。」她说，「失眠互助组，组长我，副组长你。宗旨：不许说丧气话。」那晚我们聊到信号塔的灯一盏一盏灭掉。
 setVar:affection_e=affection_e + 2 -global;
 （洛珂　好感 +2）

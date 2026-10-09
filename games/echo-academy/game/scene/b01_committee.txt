@@ -20,7 +20,7 @@ changeFigure:peiti.png -id=peiti -left;
 她说得云淡风轻。
 回到指挥部，她从小包里摸出一个巴掌大的本子，翻到某页，写了点什么。
 「那是什么？」
-「 nothing。」她合上，「工作笔记。」
+「……没什么。」她合上，「工作笔记。」
 她去巡下一区的时候，本子忘了合严。
 我瞥了一眼。
 那一页，是一张表。
@@ -37,4 +37,4 @@ changeFigure:peiti.png -id=peiti -left;
 （会长的小本，和空着的那一格）
 setVar:affection_b=affection_b + 2 -global;
 （姬佩缇　好感 +2）
-changeScene:b02_candy.txt;
+changeScene:b01i_cloud.txt;

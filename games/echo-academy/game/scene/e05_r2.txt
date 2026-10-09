@@ -1,4 +1,5 @@
 签名册越来越厚。有人写"谢谢你的真话"，有人画了她的黑皇冠。
+changeFigure:luoke_down.png -id=luoke;
 她一页一页翻完，翻得很慢。「……笑死。」她说。声音是哑的。
 setVar:flag_e5_break=true -global;
 setVar:affection_e=affection_e + 2 -global;

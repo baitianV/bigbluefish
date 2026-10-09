@@ -1,5 +1,6 @@
 「你说话就说话，别用扩音器。」
 她愣了一下，突然笑了。
+changeFigure:luoke_laugh.png -id=luoke;
 「……得。这是今天最好笑的。收了。」她把麦克风音量调小了一格——就一格。
 setVar:affection_e=affection_e + 2 -global;
 （洛珂　好感 +2）

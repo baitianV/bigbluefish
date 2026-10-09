@@ -1,5 +1,7 @@
-「主角写我？」我指着稿纸上的名字。
-「……可以吗。」她的声音很小，「第一读者才有的权限。别人我还不给。」
+「主角是我。」我盯着她的眼睛，「那作者呢？」
+changeFigure:shuoyin_shy.png -id=shuoyin;
+「作者是……执笔者。」她的耳根红了，「仅此而已。第一章之前，别多想。」
+第一章之后呢。她低下头，用笔帽敲了敲稿纸的边角，没让我把问题问出口。
 setVar:flag_f4_finale=true -global;
 setVar:affection_f=affection_f + 2 -global;
 （朔音　好感 +2）

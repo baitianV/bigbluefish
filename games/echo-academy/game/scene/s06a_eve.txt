@@ -43,4 +43,4 @@ unlockCg:cg_lanterns.jpg -name=灯亮起来了;
 ——一张手绘的「借阅券」：可优先借阅本人的连载。有效期：未定。朔音
 灯下。六份邀约在掌心里排开。
 夏天，只剩一个晚上了。
-choose:棋摊·深寻:a01_festival.txt|总指挥·姬佩缇:b01_committee.txt|书展·克劳德女士:c01_cowrite.txt|招新摊·基米妮:d01_kimini_meet.txt|天台广播·洛珂:e01_radio.txt|连载终点·朔音:f01_queue.txt;
+choose:棋摊·深寻:a00i_ticket.txt|总指挥·姬佩缇:b01_committee.txt|书展·克劳德女士:c00i_blank.txt|招新摊·基米妮:d01_kimini_meet.txt|天台广播·洛珂:e01_radio.txt|连载终点·朔音:f01_queue.txt;

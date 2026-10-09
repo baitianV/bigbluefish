@@ -23,20 +23,101 @@ changeFigure:feibu.png -id=feibu -center;
 「标题呢。」
 「《回声学园》。」
 她说，「真实经历改编。人物稍有美化。」
-「谁被美化了。」×2（异口同声）
+「谁被美化了。」
+「谁被美化了。」
+两个声音，撞在一起。
 「都、都被美化了！」
 夕阳把海面铺成一条金色的路。
-远处，一个熟悉的连帽衫身影，抱着相机跑过来。
-「那个——！」小Z气喘吁吁，「合照！来一张合照！」
+远处，一个熟悉的连帽衫身影，举着手机跑过来。
+「那个——！」她气喘吁吁，「合照！来一张合照！」
 「这个我能备份一份吗？就在本地！」
 「连照片也要备份吗！」「绝对不上传……大概！」
 三、二、一——
 咔嚓。
 海风、笑声、快门声，和一句压在所有人后面的——
 「这张我存三份。本地、本地、还是本地。」
-照片里，鲸尾翘着，臂章别着，羽毛笔举着。
+照片里，鲸尾翘着，小蓝云飘着，羽毛笔举着。
 夏天，被存下来了。
+;════ 后日谈·六人版分岔：D/E/F 线 GE 到达者（flag_ge_d/e/f 由各线 end_*1/end_*2 置位；进入本场景由恋GE计数 ge_total>=3 决定）════
+jumpLabel:ep_d_after -when=!flag_ge_d;
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:kimini_soft.png -id=kimini -center;
+防波堤的另一头，传来一声推流提示音。
+基米妮抱着平板和手机支架跑过来，左眼右眼的星星，被夕阳点亮成金色。
+「抱歉抱歉，第一百零一期，户外加更。设备架设耗时超出预期……不对，等等。」
+「换个说法——不是我迟到了，是本期更新得比排期早。这样算，成立。」
+「本期互动话题：夏天的照片，存本地，还是存心里？」
+她看看镜头，又看看我们，语速越来越快。
+「弹幕说想看真实反应。真实反应是——让我查一下……查不到。这不在我的数据库里。」
+「那就现场观测。样本：一个。结论：下学期，《听众君时间》升级双人行。」
+「固定嘉宾，不换人。这题我会。」
+后半句，她说得比弹幕延迟还小声。
+「……也不用会。因为是必答题。」
+label:ep_d_after;
+jumpLabel:ep_e_after -when=!flag_ge_e;
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:luoke_grin.png -id=luoke -center;
+「各位听众，临时插播一条。」
+洛珂踩着礁石过来，耳机挂在脖子上，虎牙先到。
+「刚才那张合照，构图差评，光圈差评，站位差评。全体差评。」
+「——不过嘛，人都到齐的话，补拍一张也不是不行。」
+她嘴上挑刺，手已经把所有人往中间赶。
+「补拍要求一条：谁都不许躲镜头。说的就是你，素材君。」
+「笑死，躲什么。又不是没上过我的节目。」
+海风把她的电台腔吹散了一点，露出底下没说完的半句。
+「……复播之后才发现，有些信号不用天线。站得够近，就收得到。」
+「这段掐了。别播。」
+她说完自己先笑了。这一次，没人舍得掐。
+label:ep_e_after;
+jumpLabel:ep_f_after -when=!flag_ge_f;
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:shuoyin_smile.png -id=shuoyin -center;
+最后跑来的，是抱着书、差点被海风吹走的朔音。
+「对不起……追的那本书，第147章里写过：读者是隐形的。」
+「……所以我最后一个到，也、也没人看见。对不起，我说得太绕了。」
+她把书翻到最后一页，举起来给我们看。
+「完结的那一期。作者想在这里……补一行字。」
+「——谢谢每一个，把书签放回原位的人。」
+「还有……下一部的登场人物表，想把今天的人都写进去。可以，……吧。」
+没有人说不行。她的借阅卡上，又多了一枚章，挨着她的名字。
+这一次，她没有把书抱紧。
+书是摊开的。像以后一直都会是那样。
+label:ep_f_after;
+jumpLabel:ep_fin6 -when=flag_ge_d && flag_ge_e && flag_ge_f;
 （字幕）
 这个夏天，谢谢你来过回声学园。
 下一个夏天，也请多指教。
+end;
+label:ep_fin6;
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:kimini.png -id=kimini -left;
+changeFigure:luoke.png -id=luoke -center;
+changeFigure:shuoyin.png -id=shuoyin -right;
+「人齐了！」连帽衫的她举着手机一路倒退，找角度找得差点踩进海里。
+「第二张！这次塞六个人！」
+「六个人怎么塞进一张照片啊。」「挤一挤。物理问题，好解决。」
+「会长请站中间——预算内最中间！」
+「都别吵。」防波堤那边传来深寻的声音，「第二决胜局开始。谁闭眼谁输。」
+三、二、一——
+咔嚓。
+第二张照片里，鲸尾翘着，小蓝云飘着，羽毛笔举着。
+星星亮着，虎牙露着，借阅卡上的章，一枚挨着一枚。
+夏天，被存了两份。一份给九月，一份给下个夏天。
+（字幕）
+这个夏天，谢谢你来过回声学园。
+人齐了。下一个夏天，也请多指教。
 end;

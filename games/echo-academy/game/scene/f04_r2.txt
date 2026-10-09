@@ -1,5 +1,6 @@
 「卡住的不是故事。」我说，「是你还没准备好让主角出场。」
+changeFigure:shuoyin_worry.png -id=shuoyin;
 她抱着稿纸，小小地"嗯"了一声。那天晚上，她的台灯亮到很晚。
 setVar:affection_f=affection_f + 1 -global;
 （朔音　好感 +1）
-changeScene:f05_chapter.txt;
+changeScene:f04i_reread.txt;

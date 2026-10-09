@@ -22,7 +22,4 @@ changeBg:cg_market.jpg -next -duration=500 -exitDuration=500;
 unlockCg:cg_market.jpg -name=什么都不知道的一天;
 那天下午，她什么都没有"获取"。
 但回去的路上，她说了十一遍"很好听"。
-setVar:flag_d2_truth=true -global;
-setVar:affection_d=affection_d + 2 -global;
-（基米妮　好感 +2）
 choose:「明天，也关机吗？」:d05_r1.txt|「下周继续。我陪你。」:d05_r2.txt|什么都不说，把手机继续收着:d05_r3.txt;

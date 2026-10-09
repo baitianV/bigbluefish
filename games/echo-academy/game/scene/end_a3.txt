@@ -1,31 +1,20 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeFigure:shenxun_smile.png -id=shenxun -right;
-changeBg:bg_天台_夕.png -next -duration=1000 -exitDuration=1000;
+changeFigure:shenxun_think.png -id=shenxun -right;
+changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
 bgm:伤感.mp3 -volume=45 -enter=2000;
-「那就——」我伸出手，「不说那些复杂的。」
-「继续观测？」
-「长期观测。」
-她看着我伸出的手，看了三秒。
-然后，郑重其事地，握了上来。
-「十年后。」她说。
-「诶？」
-「十年后的今天，这个天台。」她指了指脚下的水泥地，
-「再下一局。到时候——」
-她把怀表摘下来，塞进我手里，转身就走。
-表还在走。滴答，滴答。
-「到时候再还我！」她的声音从楼梯口传上来，
-「利息是——你再输我半目！」
-天台上只剩我，和一块走动的怀表。
-十年，很快的。
-【深寻线 · 友谊 GE「十年棋约」】
-jumpLabel:ge_init_done -when=ge_total>=0;
-setVar:ge_total=0 -global;
-label:ge_init_done;
-setVar:ge_total=ge_total + 1 -global;
-jumpLabel:go_ep -when=ge_total>=3;
+夏天到了尽头。有句话，停在了长考里。
+她低着头，很久没有说话。
+「……对不起。」
+最后，她说。
+「现在，还无法验证。」
+「要多久。」
+「不知道。」她抱紧了怀表，「模型还在训练。样本……样本太特殊了。」
+夏天结束的时候，那个词，谁都没有再提起。
+『待验证。』
+没有下文，也没有结论。
+它就一直悬在那里——
+像一盘没下完的棋。
+【深寻线 · NE「未验证」】
 end;
-label:go_ep;
-changeScene:ep_epilogue.txt;
-

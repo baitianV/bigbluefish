@@ -15,6 +15,4 @@ changeFigure:shuoyin_smile.png -id=shuoyin -right;
 主角我：「你写的字才奇怪。明明那么小一个字，落笔却很重。」
 她愣住了。然后，很轻很轻地笑了一下。
 朔音：「……对不起，我说得太绕了。意思是——被你看出来了。」
-setVar:affection_f=affection_f + 1 -global;
-（朔音　好感 +1）
 choose:每次还书都回一张便签:f02_r1.txt|「便签上的字，比你说的话多。」:f02_r2.txt|在便签下面画一个"待续"的符号:f02_r3.txt;

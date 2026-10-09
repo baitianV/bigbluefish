@@ -6,6 +6,7 @@ bgm:日常.mp3 -volume=45 -enter=2000;
 changeFigure:shenxun_event_festival.png -id=shenxun -right;
 夏祭。神社的参道挂满了灯笼。
 约好的时间，她在鸟居下面等我。
+老据点天台这周临时搬迁，新据点：鸟居底下——官方理由：核查捞金鱼成功率，顺路。
 深蓝的开衫系在腰上——夏天祭典的妥协方案。
 「……准时。」她说，像在给一项数据打勾。
 「你也很准时。」「我来核查场地。顺路。」
@@ -51,4 +52,4 @@ changeFigure:shenxun_event_festival.png -id=shenxun -right;
 （夏祭的深寻，和重新走动的怀表）
 setVar:affection_a=affection_a + 2 -global;
 （深寻　好感 +2）
-changeScene:a04_malfunction.txt;
+changeScene:a03i_archive.txt;

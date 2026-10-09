@@ -8,9 +8,9 @@ changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
 changeFigure:kimini_event_posters.png -id=kimini -center;
 期中考前，她的「全科技巧速成讲座」成了全校现象。
-基米妮：「记忆宫殿的第三种搭法——文学部用得上，天文部也用得上。还有，食堂周三的咖喱会提前十分钟卖完，这也是考点。」
+基米妮：「记忆宫殿的第三种搭法——文学部用得上，天文部也用得上。还有，食堂周三的咖喱会提前卖完，这也是考点。」
 讲座爆满。走廊坐满了人。她讲了两个小时，一个人。
-散场后，我按她给的"占位公式"找到天台——她果然在。
+散场后，我按她讲座里提过的规律找到天台——她果然在。
 changeFigure:kimini_event_sleep.png -id=kimini;
 抱着平板，靠着栅栏，睡着了。
 平板还亮着，停在她做到一半的讲座笔记：第七十一页。
@@ -18,6 +18,4 @@ changeFigure:kimini_event_sleep.png -id=kimini;
 猫耳随着呼吸轻轻动。头顶的呆毛，像天线一样慢慢垂下来。
 我把外套脱下来，盖在她身上，坐在旁边等她醒。
 天台的云很慢。她睡得很沉。
-setVar:affection_d=affection_d + 1 -global;
-（基米妮　好感 +1）
 choose:一直等到她醒:d03_r1.txt|轻轻把平板合上:d03_r2.txt|在她笔记上画一颗星:d03_r3.txt;

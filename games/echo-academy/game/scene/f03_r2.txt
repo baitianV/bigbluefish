@@ -1,6 +1,7 @@
 「追了三年。」她抱着最后一卷，「每周五蹲更新。现在……周五空出来了。」
 「空出来的周五，」我说，「借我好不好。」
+changeFigure:shuoyin_joy.png -id=shuoyin;
 她抬起头，泪眼里第一次有了笑。
 setVar:affection_f=affection_f + 2 -global;
 （朔音　好感 +2）
-changeScene:f04_stuck.txt;
+changeScene:f03i_press.txt;

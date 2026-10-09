@@ -27,6 +27,7 @@ jumpLabel:d1init -when=ge_total >= 0;
 setVar:ge_total=0 -global;
 label:d1init;
 setVar:ge_total=ge_total + 1 -global;
+setVar:flag_ge_d=true -global;
 jumpLabel:dgo_ep -when=ge_total >= 3;
 end;
 label:dgo_ep;

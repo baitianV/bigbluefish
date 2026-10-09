@@ -15,6 +15,4 @@ changeFigure:luoke_event_mic.png -id=luoke -center;
 洛珂：「哟，素材本人亲自送上门。」她把脚从操作台上放下来，「各位听众，本期嘉宾，已到直播间。」
 主角我：「把我的糗事从节目单上删掉。」
 洛珂：「删不掉。笑话播出去就是公共财产了——不过嘛。」她敲了敲麦克风，「给你三十秒辟谣时间。用不用？」
-setVar:affection_e=affection_e + 1 -global;
-（洛珂　好感 +1）
 choose:当场用掉三十秒反吐槽:e01_r1.txt|「我还没同意被写进段子」:e01_r2.txt|「你说话就说话，别用扩音器」:e01_r3.txt;

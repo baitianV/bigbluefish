@@ -1,5 +1,6 @@
 「结局是什么？」我问。
+changeFigure:shuoyin_smile.png -id=shuoyin;
 「勇者回到了出发的下午。」她说，「一切都还没开始的样子。但是所有人都知道，有什么不一样了。」
 setVar:affection_f=affection_f + 1 -global;
 （朔音　好感 +1）
-changeScene:f04_stuck.txt;
+changeScene:f03i_press.txt;

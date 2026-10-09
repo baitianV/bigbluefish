@@ -3,4 +3,4 @@
 「……观测时长，两小时四十分。」她把外套叠好还给我，「采样对象：我。观测结论：……」她没说完。耳朵红了。
 setVar:affection_d=affection_d + 2 -global;
 （基米妮　好感 +2）
-changeScene:d04_offline.txt;
+changeScene:d03i_clubroom.txt;

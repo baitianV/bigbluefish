@@ -2,4 +2,4 @@
 直播间安静了两秒，然后炸出一句极快的：「更正！第三条数据误差两分钟！感谢听众君提供的实地采样——」她突然捂住嘴。她笑了。
 setVar:affection_d=affection_d + 1 -global;
 （基米妮　好感 +1）
-changeScene:d03_overload.txt;
+changeScene:d02i_lunch.txt;

@@ -7,19 +7,18 @@ changeFigure:none -id=shuoyin;
 changeBg:bg_夏祭.png -next -duration=1000 -exitDuration=1000;
 bgm:心动.mp3 -volume=45 -enter=2000;
 changeFigure:shuoyin_determined.png -id=shuoyin -center;
-文化祭最后一天，露天朗读台。
-她抱着那本合写的书站上台。台下黑压压的人，安静得能听见灯笼里的火苗。
-朔音：「大家好。这个故事，追了别人的三年，卡住了自己的两周。」
-朔音：「后来有个人告诉我——写不出第一章，就写第一章之前的下午。」
+文化祭最后一天，露天朗读台。轮到她的名字时，台下过道里，收摊的推车已经开始撤了。
+她抱着那本《第一读者》走上台，先试了试音。喂、喂。和天台广播每期开播前，一模一样。
+朔音：「这个故事，追了别人的三年，卡住了自己的两周。今天，第一章写完了。」
+朔音：「有个下雨的晚上，我对着一页白纸说：我读得懂所有人的故事，为什么写不出一个自己的。」
+朔音：「那天，有人听完了，没有笑。所以今晚的第一章，念给他。」
+台下静下来。收摊的敲打声停了，连拆棚的师傅都扶着棚柱，没催。
 她翻开书，一页一页地读。读得很慢，每个字都很重。
-读到最后一页时，她停住了。
-然后把那一页，转向了台下。
+读到最后一页，她停住了。然后把书举高，让那一页对着灯。
 changeFigure:none -id=shuoyin;
 changeBg:cg_reading.jpg -next -duration=500 -exitDuration=500;
 unlockCg:cg_reading.jpg -name=留白的一页;
 最后一页，是空白的。
 朔音：「最好的故事，都留着最后一页。」她说，「因为真正的大结局——」
-她在台上，隔着灯光和人群，看向我站的地方。
-setVar:affection_f=affection_f + 2 -global;
-（朔音　好感 +2）
+她越过灯光和攒动的人头，看向我站的地方。
 changeScene:gate_f.txt;

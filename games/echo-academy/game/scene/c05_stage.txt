@@ -5,6 +5,7 @@ changeBg:bg_夏祭.png -next -duration=1000 -exitDuration=1000;
 bgm:标题.mp3 -volume=45 -enter=2000;
 changeFigure:feibu_event_stage.png -id=feibu -right;
 夏祭当晚。书展的番外篇——露天朗读台。
+文化祭散场那晚立项的露天故事会，赶在夏祭当天开了台。
 台下坐了比文化祭更多的人。第一届「回声学园故事会」，她们真的办成了。
 ;cg-final-begin
 changeFigure:none -id=feibu;
@@ -36,5 +37,9 @@ unlockCg:cg_stage.jpg -name=露天朗读会;
 「你写。我念。」
 「写什么。」
 「写真的。」
+掌声最响的那一阵，她忽然翻开随身的本子，把折了角的一页凑到我耳边。
+声音很小，混在掌声里，只有我听清了。
+念完，她啪地合上本子，耳朵红透。
+「——作者权限，」她说，「行使完毕。」
 （展演之夜，最后一页）
-changeScene:c06_route.txt;
+changeScene:c05i_apology.txt;

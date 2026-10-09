@@ -1,6 +1,11 @@
 我陪她坐了一整晚。稿纸还是白的。
 「……对不起，浪费了你一晚。」
+changeFigure:shuoyin_shy.png -id=shuoyin;
 「没浪费。」我说，「见证一个作家的第一步，很值钱。」她低着头笑了。
+后半夜，雨小了。她没再碰笔，也没有赶我走。
+天蒙蒙亮的时候，她忽然开口，声音哑哑的：「第一章写出来的那天……今晚，算第一读者的预售场。票，现在订。」
+「订了。」我说，「不许退。」
+她很小声地「嗯」了一下。窗外，雨就停在了那个时候。
 setVar:affection_f=affection_f + 1 -global;
 （朔音　好感 +1）
-changeScene:f05_chapter.txt;
+changeScene:f04i_reread.txt;

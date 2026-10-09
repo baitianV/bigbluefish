@@ -1,6 +1,8 @@
-「名字借你。」我说，「但是结局别写死。」
-「为什么？」
-「留白。」我说，「你教我的。最好的故事，都留着最后一页。」
+「第一章，念给我听。」我说，「第一读者的权限，从试读开始。」
+changeFigure:shuoyin_joy.png -id=shuoyin;
+她清了清嗓子，把稿纸举起来，念得又慢又轻，像怕吵醒纸上的字。
+念完，全文五分钟。她小声问：「……可以吗。」
+「可以。」我说，「就是主角那把伞，还没出场。」
 setVar:flag_f4_finale=true -global;
 setVar:affection_f=affection_f + 2 -global;
 （朔音　好感 +2）

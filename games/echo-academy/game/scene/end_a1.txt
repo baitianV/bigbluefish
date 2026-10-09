@@ -28,12 +28,12 @@ changeFigure:none -id=shenxun;
 changeBg:cg_ge_a.jpg -next -duration=500 -exitDuration=500;
 unlockCg:cg_ge_a.jpg -name=说出口的话·深寻;
 ;cg-final-end
-她愣住。呆毛在风里抖。
+她愣住。呆毛在风里抖，抖成一个问号。
 「……重新陈述。」「不重复。」「重新陈述——数据、数据要复核——」
 「深寻。」
 「……」
 「复核结果呢。」
-很久。她低下头，又抬起来。
+很久。她把脸别开，又一点点转回来。
 眼睛亮得像那天的烟火。
 「假说成立。」她说，
 「且不可复现——只对你。」

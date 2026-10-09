@@ -18,11 +18,5 @@ changeFigure:kimini_smug.png -id=kimini;
 基米妮：「数据结论：友情线的稳定性，超过预期百分之四十。」
 基米妮：「……样本量还不够。长期观测。你跑不掉的。」
 第38期的锐评还在更新。这次，署名换成了两个。
-jumpLabel:d2init -when=ge_total >= 0;
-setVar:ge_total=0 -global;
-label:d2init;
-setVar:ge_total=ge_total + 1 -global;
-jumpLabel:d2go_ep -when=ge_total >= 3;
+setVar:flag_ge_d=true -global;
 end;
-label:d2go_ep;
-changeScene:ep_epilogue.txt;

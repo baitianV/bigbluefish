@@ -35,4 +35,4 @@ changeFigure:shenxun.png -id=shenxun -right;
 「还下吗？」「下。」
 （深寻　好感 +1）
 setVar:affection_a=affection_a + 1 -global;
-changeScene:a03_summer.txt;
+changeScene:a02i_rooftop.txt;

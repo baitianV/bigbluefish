@@ -9,7 +9,8 @@ changeFigure:peiti.png -id=peiti -left;
 「……最后一笔，对上了。」
 她合上账本，长出一口气。
 然后，从抽屉里拿出那个玻璃罐。
-倒出两颗糖。这次不是数，是吃。
+倒出两颗糖。她没有数。
+「今天不数。」她先说了，不看我，「数了，倒像我很在意这一罐似的。」
 她剥开一颗，含进嘴里。
 忽然，闭上了眼睛。
 三秒。
@@ -29,4 +30,4 @@ changeFigure:peiti.png -id=peiti -left;
 柠檬的。酸的那种。
 （姬佩缇　好感 +1）
 setVar:affection_b=affection_b + 1 -global;
-changeScene:b03_summer.txt;
+changeScene:b02i_watch.txt;

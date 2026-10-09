@@ -1,6 +1,12 @@
 签名册传到我手里的时候，最后一页是空的。
 我签上名字，然后写：「第一期听众，申请连坐。」
+changeFigure:luoke_rare.png -id=luoke;
 她翻到这一页的时候，笔掉了。
+「连坐可是要负责任的，」她盯着那行字，声音哑着，「首期听众，跑不掉的那种。」
+「我申请的就是跑不掉。」
+她低头笑了。笑着笑着，抬手把耳机扣回头上，盖住半张脸。
+「各位听众。」只有一个人听得见的音量，「本期收听率，破台史纪录了。」
+setVar:flag_e5_break=true -global;
 setVar:affection_e=affection_e + 1 -global;
 （洛珂　好感 +1）
 changeScene:e06_onair.txt;
