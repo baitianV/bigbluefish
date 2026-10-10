@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_天台.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
-changeFigure:shenxun.png -id=shenxun -right;
+changeFigure:shenxun.webp -id=shenxun -right;
 「明天，天台。」
 昨天她丢下这四个字的时候，人已经快走出教室了。
 「还下吗？」「下。」——两句，一场棋的后续，就这么定了。

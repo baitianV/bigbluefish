@@ -1,5 +1,5 @@
 我每周准时到。骂归骂，她每次都给我留了位置。
-changeFigure:luoke_grin.png -id=luoke;
+changeFigure:luoke_grin.webp -id=luoke;
 「固定嘉宾」她说，「没有出场费，但有点歌权。」
 第五周我发现，操作台上我的位置多了一个坐垫。她说是搬仓库顺手的，谁坐算谁的。
 「先说好，准时不算什么本事。」她扣上一只耳机，「收音机都比你有毅力。」

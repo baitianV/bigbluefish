@@ -1,5 +1,5 @@
 「名字借你。」我说，「但结局别写死。」
-changeFigure:shuoyin_surprise.png -id=shuoyin;
+changeFigure:shuoyin_surprise.webp -id=shuoyin;
 「为什么？名字都借你了……」
 「你刚立的约。」我点了点稿纸上那片空白，「最好的故事，都留着最后一页。」
 她盯了我两秒，忽然笑了，提笔在标题旁添了一行小字：本故事结局，暂缓。

@@ -1,9 +1,9 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
-changeFigure:feibu_event_stage.png -id=feibu -right;
+changeFigure:feibu_event_stage.webp -id=feibu -right;
 文化祭书展。当天。
 我们的合写故事，被印成了薄薄的小册子，摆在展位正中央。
 封面上两个署名：克劳德女士，和转学生。

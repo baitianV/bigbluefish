@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_夜电台.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_夜电台.webp -next -duration=1000 -exitDuration=1000;
 bgm:心动.mp3 -volume=45 -enter=2000;
-changeFigure:luoke_rare.png -id=luoke -center;
+changeFigure:luoke_rare.webp -id=luoke -center;
 复播后的第一期节目结束，我在天台找到了她。
 洛珂：「……你来啦。各位听众都走了，就剩你。」
 她背对着我，双手撑在栏杆上。城市的灯在她脚下亮成一片。

@@ -1,8 +1,8 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeFigure:feibu_worry.png -id=feibu -center;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeFigure:feibu_worry.webp -id=feibu -center;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:未寄出的信.mp3 -volume=45 -enter=2000;
 夏天写到了最后一页。只有一句话，停在了空白里。
 她抱着书，很久很久没有抬头。

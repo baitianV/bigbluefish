@@ -1,12 +1,12 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
 文化祭当天。总指挥部。
 说是指挥部，其实就是教室里的一张讲台，加一部对讲机。
 姬佩缇站在讲台后面，马甲外套换成了便于活动的衬衫袖扣。
-changeFigure:peiti.png -id=peiti -left;
+changeFigure:peiti.webp -id=peiti -left;
 「B区音响，调低两格。C区的烤串，明火申请过了吗。」
 「过审了，会长。」
 「许可编号。」「……我去问。」

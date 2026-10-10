@@ -1,7 +1,7 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_坡道.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_坡道.webp -next -duration=1000 -exitDuration=1000;
 bgm:晨读.mp3 -volume=45 -enter=2000;
 四月的坡道，樱花开到了强弩之末。
 海雾还没散，把远处的海和天搅成一色的灰蓝。
@@ -9,12 +9,12 @@ bgm:晨读.mp3 -volume=45 -enter=2000;
 爬到坡顶，校门就在眼前。
 回声学园。
 ……名字倒是挺好听。
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 开学典礼以一种近乎催眠的节奏结束。
 校长讲话，来宾致辞，新生代表发言——
 从开始到结束，前排一共睡着了七个人。
 散场。回到三年A班的教室。
-changeFigure:peiti.png -id=peiti -left;
+changeFigure:peiti.webp -id=peiti -left;
 「转学生。」
 拦在过道正中间的，是抱着文件夹的学生会长。
 银白色的长发垂到膝盖，头顶一对小小的白角，一双淡紫色的眼睛半睁着，像刚睡醒的猫。

@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_天台.webp -next -duration=1000 -exitDuration=1000;
 bgm:低气压.mp3 -volume=45 -enter=2000;
-changeFigure:luoke_event_silence.png -id=luoke -center;
+changeFigure:luoke_event_silence.webp -id=luoke -center;
 事情发生在文化祭后的第三周。
 论坛上的流言烧到了深寻和佩缇头上。词条越挂越高。
 那天中午，天台广播没有播段子。播了一段三分钟的"特别锐评"——

@@ -1,5 +1,5 @@
 我在便签下面画了一个小小的"待续"符号。
-changeFigure:shuoyin_shy.png -id=shuoyin -right;
+changeFigure:shuoyin_shy.webp -id=shuoyin -right;
 第二天，书里多了一张新的便签：「待续的位置，被你抢先画掉了。……那，接下来一起写吧。」
 setVar:affection_f=affection_f + 2 -global;
 （朔音　好感 +2）

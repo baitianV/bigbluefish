@@ -1,8 +1,8 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeFigure:shenxun_smile.png -id=shenxun -right;
-changeBg:bg_天台_夕.png -next -duration=1000 -exitDuration=1000;
+changeFigure:shenxun_smile.webp -id=shenxun -right;
+changeBg:bg_天台_夕.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
 「那就——」我伸出手，「不说那些复杂的。」
 「继续观测？」

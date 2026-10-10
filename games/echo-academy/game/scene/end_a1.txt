@@ -1,8 +1,8 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeFigure:shenxun_smile.png -id=shenxun -right;
-changeBg:bg_海边_暮.png -next -duration=1000 -exitDuration=1000;
+changeFigure:shenxun_smile.webp -id=shenxun -right;
+changeBg:bg_海边_暮.webp -next -duration=1000 -exitDuration=1000;
 bgm:心动.mp3 -volume=45 -enter=2000;
 我把那句话，说出了口。
 海浪的声音，把整个世界调成了背景音。

@@ -4,7 +4,7 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_天台.webp -next -duration=1000 -exitDuration=1000;
 bgm:未寄出的信.mp3 -volume=45 -enter=2000;
 天台广播还是每周三档。
 段子还是那么好笑，收听率还是全校第一。

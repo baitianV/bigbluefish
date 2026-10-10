@@ -1,4 +1,4 @@
-changeFigure:peiti_smirk.png -id=peiti -left;
+changeFigure:peiti_smirk.webp -id=peiti -left;
 「剩下的，也给我吧。」
 姬佩缇：「……你会后悔的。」
 整座资料山挪了过来。她的手在袖子里，悄悄松了口气。

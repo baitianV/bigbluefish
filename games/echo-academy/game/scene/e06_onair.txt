@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_夜电台.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_夜电台.webp -next -duration=1000 -exitDuration=1000;
 bgm:心动.mp3 -volume=45 -enter=2000;
-changeFigure:luoke_rare.png -id=luoke -center;
+changeFigure:luoke_rare.webp -id=luoke -center;
 复播首期。午间的喇叭一响，连食堂打饭的队都安静了半截。
 开播前，公告栏刚换了张新公示：处分撤销联署满额，停播记录作废。补上最后二十个名字的，是论坛复播帖里的陌生人。
 公示是我贴的。横平竖直，四角对齐，图钉用了八颗。

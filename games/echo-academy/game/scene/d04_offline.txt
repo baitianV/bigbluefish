@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_走廊.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_走廊.webp -next -duration=1000 -exitDuration=1000;
 bgm:低气压.mp3 -volume=45 -enter=2000;
-changeFigure:kimini_event_down.png -id=kimini -center;
+changeFigure:kimini_event_down.webp -id=kimini -center;
 事情是从一张对比图开始的。
 白天的"完美学姐基米妮"和深夜的"毒舌主播双子星"，被人截图并排贴上了论坛。
 标题：《这个女人有两张脸》。

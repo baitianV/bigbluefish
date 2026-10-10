@@ -1,8 +1,8 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
-changeFigure:feibu_quiet.png -id=feibu -right;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
+changeFigure:feibu_quiet.webp -id=feibu -right;
 还的书，摞了七本。
 「每本都要说再见。」她把书一本一本插回架子。
 「下次见。嗯，下次见。」

@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:纸页月光.mp3 -volume=45 -enter=2000;
-changeFigure:shuoyin_worry.png -id=shuoyin -center;
+changeFigure:shuoyin_worry.webp -id=shuoyin -center;
 那天早上的雨下到中午才停。午后放晴，图书馆的窗子全开了，风里有晒过纸页的味道。
 我进门的时候，伞尖还在一路滴水。放了学才知道，雨是停了，伞还没干。
 她在最里面的老位置。没走近我就看见了——满桌的书。
@@ -46,7 +46,7 @@ changeFigure:shuoyin_worry.png -id=shuoyin -center;
 朔音：「第一页之前，还有一页。」她把便签捏在指间，看了很久，「教过我的。怎么轮到自己，就忘了。」
 她把便签放回原来的那一页，手指在书脊上停了一拍。
 隔了很久，久到我以为她要把满桌的书重新码好。她却先笑了，很轻，像一页纸翻过去时那一下。
-changeFigure:shuoyin_determined.png -id=shuoyin;
+changeFigure:shuoyin_determined.webp -id=shuoyin;
 然后她动了。从书包最底下抽出那沓稿纸，抽出最上面一张，在桌上压平。想了想，又压了第二次。
 第一行，标题。她写得比哪一张便签都慢，也比哪一张都重。笔尖划过纸面，一下一下，像在盖章。
 写完两个字，她停笔，看了一遍，又补上去两个。没有涂改。

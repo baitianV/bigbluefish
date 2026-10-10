@@ -1,9 +1,9 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_海边_暮.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_海边_暮.webp -next -duration=1000 -exitDuration=1000;
 bgm:心动.mp3 -volume=45 -enter=2000;
-changeFigure:feibu_event_book.png -id=feibu -right;
+changeFigure:feibu_event_book.webp -id=feibu -right;
 朗读会的欢呼留在身后。
 海边的夜风，把一切声音都吹远了。
 她抱着那本合写的书。翻到最后一页。

@@ -1,5 +1,5 @@
 我在她哭的角落坐下，什么都没说，递了一张纸巾。
-changeFigure:shuoyin_tears.png -id=shuoyin;
+changeFigure:shuoyin_tears.webp -id=shuoyin;
 她接过去，哭得更凶了。哭完说：「完结不是结束……但是我哭得好大声。对不起。」
 「不用道歉。」我说，「为好故事哭的人，不丢人。」
 她把那张纸巾叠成小小的一方，收进了书签的位置。

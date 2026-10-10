@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_商店街.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_商店街.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
-changeFigure:peiti.png -id=peiti -left;
+changeFigure:peiti.webp -id=peiti -left;
 文化祭次日。
 出门前她发了通知。通知抄送了我，抄送栏里写着：无需回复。
 会场里的彩纸屑还没扫干净，商店街的屋檐下，已经挂出了夏祭的红灯笼。
@@ -44,7 +44,7 @@ changeFigure:peiti.png -id=peiti -left;
 姬佩缇：「市场反馈良好。」
 她面不改色，把两袋柠檬糖放进筐里。
 主角我：「顺便，午饭。」
-changeFigure:peiti_smirk.png -id=peiti;
+changeFigure:peiti_smirk.webp -id=peiti;
 姬佩缇：「理由。」
 主角我：「低血糖人员的主食结构问题。」
 姬佩缇：「……」
@@ -55,7 +55,7 @@ changeFigure:peiti_smirk.png -id=peiti;
 姬佩缇：「通过。」她把补给筐拎稳，「下不为例。」
 老板娘：「会长照顾生意，送包纸巾。」
 姬佩缇：「入账。」
-changeFigure:peiti.png -id=peiti;
+changeFigure:peiti.webp -id=peiti;
 走出两条街，她从筐里分了一个肉包过来。
 姬佩缇：「补给，均摊。」
 面皮还烫着。我咬了一口，没揭穿这算哪门子的均摊。
@@ -110,7 +110,7 @@ changeFigure:peiti.png -id=peiti;
 姬佩缇：「冲抵。抵你抄送栏里那行『无需回复』。」
 走到车站前，她的脚步慢了半拍。老铺子还在，招牌褪了色。
 她看了一眼，没停。
-changeFigure:peiti_proud.png -id=peiti;
+changeFigure:peiti_proud.webp -id=peiti;
 姬佩缇：「这两袋，本会长特批，走委员会的账。」
 主角我：「刚才不是说，超支没有科目。」
 姬佩缇：「所以说，是特批。」

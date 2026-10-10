@@ -1,4 +1,4 @@
-changeBg:bg_走廊.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_走廊.webp -next -duration=1000 -exitDuration=1000;
 又一天，午休。
 食堂的喧闹被甩在两道门之外。我抱着面包，不知不觉晃到了图书馆门口。
 委员会还没正式开工。但那两位——下棋的、搬资料的——总觉得，还会在哪里再遇到。

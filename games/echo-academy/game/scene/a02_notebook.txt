@@ -1,12 +1,12 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
 文化祭收摊。我在教室帮忙搬最后一批箱子。
 一张笔记本从她的书包侧袋滑出来，啪嗒掉在地上。
 捡起来的时候，摊开的那页，我看见了。
-changeFigure:shenxun.png -id=shenxun -right;
+changeFigure:shenxun.webp -id=shenxun -right;
 「观察记录」，封面上这么写。
 第一页。日期是开学第二周。
 「转学生，选择陪看棋局。预测正确率：暂无基线。」

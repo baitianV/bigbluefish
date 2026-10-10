@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:纸页月光.mp3 -volume=45 -enter=2000;
-changeFigure:shuoyin_joy.png -id=shuoyin -center;
+changeFigure:shuoyin_joy.webp -id=shuoyin -center;
 《第一读者》连载到了第四十期。校刊转载，论坛置顶。
 每周五更新。她是作者，我是——用她的话说——「常驻主角兼第一读者兼催稿人」。
 朔音：「下一章……主角会去海边。作者采风，第一读者要陪。」

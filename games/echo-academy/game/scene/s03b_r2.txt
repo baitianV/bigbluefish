@@ -1,8 +1,8 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=feibu;
 changeFigure:none -id=peiti;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
-changeFigure:peiti_proud.png -id=peiti -left;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
+changeFigure:peiti_proud.webp -id=peiti -left;
 锁教室，一共三道锁。她一把一把，认认真真。
 「会长的钥匙串，比流言可靠。」我说。
 「那当然。」最后一道锁咔哒扣上。

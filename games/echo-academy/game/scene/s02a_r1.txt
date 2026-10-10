@@ -1,4 +1,4 @@
-changeFigure:shenxun_smile.png -id=shenxun -right;
+changeFigure:shenxun_smile.webp -id=shenxun -right;
 直到终局，没有出声。
 左手赢。也可能是右手输了。
 「终局判定：左手，胜二分之一子。」收子之前，她把战报念得像天气预报，「右手，回去加练。」

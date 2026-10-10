@@ -1,4 +1,4 @@
-changeFigure:feibu_proud.png -id=feibu -right;
+changeFigure:feibu_proud.webp -id=feibu -right;
 「我什么都没看见。」
 ？？？：「真的？！」她眼睛一亮。
 ？？？：「那，请继续路过。幻影出没区域，注意脚下。」

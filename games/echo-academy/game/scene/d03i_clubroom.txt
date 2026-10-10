@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_天文部室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_天文部室.webp -next -duration=1000 -exitDuration=1000;
 bgm:星尘双面.mp3 -volume=45 -enter=2000;
-changeFigure:kimini_think.png -id=kimini -right;
+changeFigure:kimini_think.webp -id=kimini -right;
 观星夜前两天，放学后。天文部部室。
 期中一结束，讲座的人潮就退了，走廊恢复了普通音量。
 部室门上贴着一张新写的值班表。姓名栏只有一个名字，从周一排到周日。
@@ -49,19 +49,19 @@ changeFigure:kimini_think.png -id=kimini -right;
 她顿了顿。
 基米妮：「第二次才看进去。望远镜这东西，对谁都宽容。」
 桌上的平板忽然叮了一声。弹幕提醒音。
-changeFigure:kimini_smug.png -id=kimini;
+changeFigure:kimini_smug.webp -id=kimini;
 变化是一瞬间的事。腰挺直，语速上来，连下巴的角度都换了一个。
 基米妮：「——感谢『北极星不北极』的预约！深夜档照常，不见不散！回放马上剪，剪完置顶！」
 门口传来敲门声。一个抱着作业本的学妹探进头来。
 部员学妹：「学姐！哇，在教人用赤道仪？等等，别动——」
 手机举起来了。镜头对过来了。
-changeFigure:kimini.png -id=kimini;
+changeFigure:kimini.webp -id=kimini;
 我亲眼看着她的脸在半秒之内完成换装：眼睛弯起来，嘴角提到位，肩膀打开十五度。
 基米妮：「嗯，部内培训。学妹观星夜要来吗？天文台见。」
 部员学妹：「要要要！学姐教望远镜的样子，我拍下来发招新墙！」
 快门响了三声。学妹喊着「学姐记得发我原图」，心满意足地跑了。
 前后不到十秒。我目击了两次切换。
-changeFigure:kimini_soft.png -id=kimini;
+changeFigure:kimini_soft.webp -id=kimini;
 门关上，部室安静下来，静得能听见配重杆轻轻晃。
 平板又叮了一声。
 基米妮：「……有人把上周的回放，搬去校园论坛了。」

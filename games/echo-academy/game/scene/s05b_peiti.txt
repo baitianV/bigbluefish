@@ -1,9 +1,9 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:心动.mp3 -volume=45 -enter=2000;
-changeFigure:peiti.png -id=peiti -left;
+changeFigure:peiti.webp -id=peiti -left;
 委员会教室的灯，还亮着。
 姬佩缇坐在会长席上。面前摊着下周的日程表。
 笔尖悬在纸上，很久，没有落下去。
@@ -15,7 +15,7 @@ changeFigure:peiti.png -id=peiti -left;
 「嗯。」
 「三分钟解决战斗。学生会长，名不虚传——」
 「你有完没完。」
-changeFigure:peiti_tired.png -id=peiti -left;
+changeFigure:peiti_tired.webp -id=peiti -left;
 笔，放下了。
 她靠进椅背，长长地、长长地呼了一口气。
 ……这一口气，大概从班会一直憋到现在。
@@ -27,7 +27,7 @@ changeFigure:peiti_tired.png -id=peiti -left;
 「……哦？」
 她盯着我看了三秒。忽然笑了。不是班会上的那一种。
 「哦——？就这？想当副手，你的资历还早了十年。」
-changeFigure:peiti_smirk.png -id=peiti -left;
+changeFigure:peiti_smirk.webp -id=peiti -left;
 话虽这么说——她把笔，递了过来。
 setVar:affection_b=affection_b + 2 -global;
 （姬佩缇　好感 +2）

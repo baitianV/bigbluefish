@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_印刷所.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_印刷所.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
-changeFigure:shuoyin.png -id=shuoyin -right;
+changeFigure:shuoyin.webp -id=shuoyin -right;
 完结后的第一个周日。上午还阴着，中午出了太阳，商店街被晒得亮晃晃的。
 一半的店拉着卷帘门。印刷所的玻璃门却开着，里面传出裁纸刀压过纸垛的声音，一下，一下，很匀。
 我朝里看。一个熟悉的背影正踮着脚，在字架最高一层够东西。
@@ -60,7 +60,7 @@ changeFigure:shuoyin.png -id=shuoyin -right;
 朔音：「那张『雨下得很安静』……其实写了三遍，才敢夹进去。」
 然后，她把那本样书又往我面前推了推，指着那页空白。
 朔音：「借阅卡上盖的是开始。这一页，是结束。」
-changeFigure:shuoyin_shy.png -id=shuoyin;
+changeFigure:shuoyin_shy.webp -id=shuoyin;
 说完，她的耳朵红了。把样书抽回去，插进纸摞中间，四角对齐，像把一句太大的话藏进纸堆里。
 朔音：「……对不起，我说得太绕了。」
 主角我：「没有。这句一点都不绕。」

@@ -1,4 +1,4 @@
-changeFigure:peiti_proud.png -id=peiti -left;
+changeFigure:peiti_proud.webp -id=peiti -left;
 「那个……就不能换个说法吗？比如『诚邀』？」
 「诚邀你，凑个数。」
 「……」

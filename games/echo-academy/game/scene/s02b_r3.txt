@@ -1,4 +1,4 @@
-changeFigure:peiti_frustrate.png -id=peiti -left;
+changeFigure:peiti_frustrate.webp -id=peiti -left;
 「预算案第三行，字歪了。」
 姬佩缇：「哪里！」她当场抽出来检查。
 姬佩缇：「……真歪了。今天的风向不好。」

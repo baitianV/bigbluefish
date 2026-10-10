@@ -1,4 +1,4 @@
-changeFigure:shenxun_shy.png -id=shenxun -right;
+changeFigure:shenxun_shy.webp -id=shenxun -right;
 bgm:低气压.mp3 -volume=45 -enter=2000;
 「深寻。」
 「……」

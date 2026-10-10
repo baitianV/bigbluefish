@@ -1,22 +1,22 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_海边.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_海边.webp -next -duration=1000 -exitDuration=1000;
 bgm:标题.mp3 -volume=45 -enter=2000;
 ——夏天的终点。
 开学典礼之后的那个下午。
 海。
 三年的最后一年，就这样开始了后半程。
-changeFigure:shenxun.png -id=shenxun -right;
+changeFigure:shenxun.webp -id=shenxun -right;
 深寻把棋盘架在防波堤上，左手跟右手下到了第三局。
 「都别吵。」她说，「决胜局。」
 围观的人谁都没说话。她的鲸尾倒是拍得很响。
-changeFigure:peiti.png -id=peiti -left;
+changeFigure:peiti.webp -id=peiti -left;
 姬佩缇抱着一摞新学期的文件，被我们拖来的。
 「本会长只停留三十分钟。」
 这句话她说过三次了。一个小时过去了。
 她肩上的小蓝云，正在给深寻的鲸尾打分。
-changeFigure:feibu.png -id=feibu -center;
+changeFigure:feibu.webp -id=feibu -center;
 克劳德女士坐在礁石上，往一个新本子上写着什么。
 「在写什么？」
 「秘密。」她把本子抱紧，「——话分两头！夏天的故事，九月开始连载。」
@@ -43,7 +43,7 @@ jumpLabel:ep_d_after -when=!flag_ge_d;
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeFigure:kimini_soft.png -id=kimini -center;
+changeFigure:kimini_soft.webp -id=kimini -center;
 防波堤的另一头，传来一声推流提示音。
 基米妮抱着平板和手机支架跑过来，左眼右眼的星星，被夕阳点亮成金色。
 「抱歉抱歉，第一百零一期，户外加更。设备架设耗时超出预期……不对，等等。」
@@ -61,7 +61,7 @@ changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
-changeFigure:luoke_grin.png -id=luoke -center;
+changeFigure:luoke_grin.webp -id=luoke -center;
 「各位听众，临时插播一条。」
 洛珂踩着礁石过来，耳机挂在脖子上，虎牙先到。
 「刚才那张合照，构图差评，光圈差评，站位差评。全体差评。」
@@ -80,7 +80,7 @@ changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
-changeFigure:shuoyin_smile.png -id=shuoyin -center;
+changeFigure:shuoyin_smile.webp -id=shuoyin -center;
 最后跑来的，是抱着书、差点被海风吹走的朔音。
 「对不起……追的那本书，第147章里写过：读者是隐形的。」
 「……所以我最后一个到，也、也没人看见。对不起，我说得太绕了。」
@@ -104,9 +104,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeFigure:kimini.png -id=kimini -left;
-changeFigure:luoke.png -id=luoke -center;
-changeFigure:shuoyin.png -id=shuoyin -right;
+changeFigure:kimini.webp -id=kimini -left;
+changeFigure:luoke.webp -id=luoke -center;
+changeFigure:shuoyin.webp -id=shuoyin -right;
 「人齐了！」连帽衫的她举着手机一路倒退，找角度找得差点踩进海里。
 「第二张！这次塞六个人！」
 「六个人怎么塞进一张照片啊。」「挤一挤。物理问题，好解决。」

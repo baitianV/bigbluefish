@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室夜.webp -next -duration=1000 -exitDuration=1000;
 bgm:星尘双面.mp3 -volume=45 -enter=2000;
-changeFigure:kimini_event_mic.png -id=kimini -center;
+changeFigure:kimini_event_mic.webp -id=kimini -center;
 她复播的那天晚上，直播间的标题只有四个字：设备调试。
 没有预告，没有转发。开播链接，只发给了一个人。
 我推开社团教室的门。她已经戴好了耳机，指了指身边的椅子，又指了指我的手机。

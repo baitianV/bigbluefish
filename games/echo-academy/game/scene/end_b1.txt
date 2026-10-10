@@ -1,8 +1,8 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeFigure:peiti_shy.png -id=peiti -left;
-changeBg:bg_海边_暮.png -next -duration=1000 -exitDuration=1000;
+changeFigure:peiti_shy.webp -id=peiti -left;
+changeBg:bg_海边_暮.webp -next -duration=1000 -exitDuration=1000;
 bgm:心动.mp3 -volume=45 -enter=2000;
 jumpLabel:conf_male -when=gender=="male";
 ;cg-final-begin

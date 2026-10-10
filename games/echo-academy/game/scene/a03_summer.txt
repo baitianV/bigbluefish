@@ -1,9 +1,9 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_夏祭.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_夏祭.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
-changeFigure:shenxun_event_festival.png -id=shenxun -right;
+changeFigure:shenxun_event_festival.webp -id=shenxun -right;
 夏祭。神社的参道挂满了灯笼。
 约好的时间，她在鸟居下面等我。
 老据点天台这周临时搬迁，新据点：鸟居底下——官方理由：核查捞金鱼成功率，顺路。

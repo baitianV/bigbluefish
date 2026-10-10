@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_夏祭.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_夏祭.webp -next -duration=1000 -exitDuration=1000;
 bgm:心动.mp3 -volume=45 -enter=2000;
-changeFigure:shuoyin_determined.png -id=shuoyin -center;
+changeFigure:shuoyin_determined.webp -id=shuoyin -center;
 文化祭最后一天，露天朗读台。轮到她的名字时，台下过道里，收摊的推车已经开始撤了。
 她抱着那本《第一读者》走上台，先试了试音。喂、喂。和天台广播每期开播前，一模一样。
 朔音：「这个故事，追了别人的三年，卡住了自己的两周。今天，第一章写完了。」

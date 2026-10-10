@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_商店街.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_商店街.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
-changeFigure:kimini.png -id=kimini -right;
+changeFigure:kimini.webp -id=kimini -right;
 关机日。
 她的手机在我这里保管——从早上八点到现在，一条推送都没有的世界。
 旧货市场。没有攻略，没有路线，没有"最优解"。

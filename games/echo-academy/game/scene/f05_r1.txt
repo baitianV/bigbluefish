@@ -1,5 +1,5 @@
 「主角是我。」我盯着她的眼睛，「那作者呢？」
-changeFigure:shuoyin_shy.png -id=shuoyin;
+changeFigure:shuoyin_shy.webp -id=shuoyin;
 「作者是……执笔者。」她的耳根红了，「仅此而已。第一章之前，别多想。」
 第一章之后呢。她低下头，用笔帽敲了敲稿纸的边角，没让我把问题问出口。
 setVar:flag_f4_finale=true -global;

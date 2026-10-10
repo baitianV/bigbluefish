@@ -4,7 +4,7 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:借阅卡.mp3 -volume=45 -enter=2000;
 借阅柜台的玻璃面上，贴着一张打过格子的纸。
 『今日闭馆整架，还书请投箱。』
@@ -67,7 +67,7 @@ bgm:借阅卡.mp3 -volume=45 -enter=2000;
 我把它单独抽出来，捏在手里。别的便签都是回信。这一张，是作业。
 我把它和「本周五」放在一起，捏着。
 我把便签照原样摞好，曲别针别回去。手刚从箱子里收回来，书架深处传来车轮声，很轻，越来越近。
-changeFigure:shuoyin_smile.png -id=shuoyin -right;
+changeFigure:shuoyin_smile.webp -id=shuoyin -right;
 她从书架后面推着还书车出来。车上的书一层一层码得像砌墙。看见我坐在柜台前的地上，手里捏着那叠便签，车轮声停了。
 馆里很静。谁都没有先开口——这一周，我们本来就是靠纸说话的。
 朔音：「今天……不用盖章。」

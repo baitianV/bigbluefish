@@ -1,12 +1,12 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
 假期第三天，姬佩缇的一通电话，把委员会召回了学校。
 「预算案终审。速来。」
 到的时候，教室里只有她一个人。
-changeFigure:peiti_event_candy.png -id=peiti -left;
+changeFigure:peiti_event_candy.webp -id=peiti -left;
 桌上摊着三份稿子、一台计算器，和——一小罐糖。
 玻璃罐。糖果五颜六色，数得出来的几颗。
 她在数糖。不是吃，是数。

@@ -1,5 +1,5 @@
 「所以你现在，还是每天准时坐在广播站？」
-changeFigure:luoke_serious.png -id=luoke;
+changeFigure:luoke_serious.webp -id=luoke;
 「设备开着，话筒关着。」她说，「习惯了。不说点什么，一天就不算完。」
 「那正好。」我说，「我也习惯了。每天放学，去当那个不说话的听众。」
 她转过头来。挂在手边的耳机晃了一下。

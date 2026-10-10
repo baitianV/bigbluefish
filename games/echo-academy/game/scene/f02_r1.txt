@@ -1,5 +1,5 @@
 我开始在还书时回帖。写得很短，就一两句。
-changeFigure:shuoyin_joy.png -id=shuoyin -right;
+changeFigure:shuoyin_joy.webp -id=shuoyin -right;
 后来她告诉我，她把每一张都夹进了同一个本子里。扉页写着：通信集，第一卷——还在写。
 setVar:affection_f=affection_f + 2 -global;
 （朔音　好感 +2）

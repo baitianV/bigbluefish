@@ -1,4 +1,4 @@
-changeFigure:peiti_tired.png -id=peiti -left;
+changeFigure:peiti_tired.webp -id=peiti -left;
 「会长，歇一会儿吧。」
 姬佩缇：「哦？就这？本会长的体力，可是全校标杆。」
 话音未落，小蓝云在她头顶变成了一个问号。

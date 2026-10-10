@@ -1,7 +1,7 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:低气压.mp3 -volume=45 -enter=2000;
 期中考，来了又走。
 成绩单发下来的那天，教室里的空气，有点不一样。
@@ -10,7 +10,7 @@ bgm:低气压.mp3 -volume=45 -enter=2000;
 「图书馆那位也很……」
 流言这种东西，永远比学习进度跑得快。
 班会课上，姬佩缇站了起来。笑了一声。
-changeFigure:peiti.png -id=peiti -left;
+changeFigure:peiti.webp -id=peiti -left;
 「流言，我听说了。」
 她把点名册往讲台上一放。
 「人，是我拉进委员会的。有意见——」

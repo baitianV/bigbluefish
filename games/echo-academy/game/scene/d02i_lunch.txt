@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:晨读.mp3 -volume=45 -enter=2000;
-changeFigure:kimini.png -id=kimini -right;
+changeFigure:kimini.webp -id=kimini -right;
 次日，午休。
 教学楼一楼的空教室。文化祭的桌椅还没归库，正好被拼成一张长桌。
 我进门的时候，她背对着门，正往平板支架上夹一个手机夹。动作很熟，像在自己工位上组装什么。
@@ -30,7 +30,7 @@ changeFigure:kimini.png -id=kimini -right;
 主角我：「问你个问题。三十秒内能答完的。」
 基米妮：「讲。」
 主角我：「今天的云，像什么？」
-changeFigure:kimini_shock.png -id=kimini;
+changeFigure:kimini_shock.webp -id=kimini;
 她的勺子停在半空。
 基米妮：「……云。像什么。哪朵？」
 基米妮：「不对，等等。这个问题的考察范围是什么？语文？气象学？还是修辞学？」
@@ -54,7 +54,7 @@ changeFigure:kimini_shock.png -id=kimini;
 她伸手关掉右边的营养表。再关掉中间的大纲。最后，连倒计时也停了。
 屏幕暗下去，教室一下子变得很轻。
 基米妮：「七分钟方案，暂停。现在执行……执行一个没有名字的方案。」
-changeFigure:kimini_soft.png -id=kimini;
+changeFigure:kimini_soft.webp -id=kimini;
 她重新拿起勺子，慢吞吞吃了一口咖喱。不听回放，不划大纲，不计数。
 我们谁都没说话。窗外那团云挪过半个操场，大概用了三分钟。
 基米妮：「实验记录一。吊扇转速，目测每秒三圈。实验记录二——」
@@ -73,7 +73,7 @@ changeFigure:kimini_soft.png -id=kimini;
 收拾餐盘的时候，她忽然开口。声音比刚才小了很多。
 基米妮：「……深夜档。没什么人看的时段。」
 基米妮：「你真的会听吗？」
-changeFigure:kimini_happy.png -id=kimini;
+changeFigure:kimini_happy.webp -id=kimini;
 主角我：「昨晚就是。往后也是。」
 她端着餐盘愣了一秒。发梢的星星，一粒一粒亮起来。
 基米妮：「……往后也是。」

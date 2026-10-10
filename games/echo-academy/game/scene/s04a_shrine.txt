@@ -1,12 +1,12 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_神社.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_神社.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
 黄金周。假期第二天的下午。
 我为什么会出现在神社的石阶上——说来话长，总之，是散步。
 石阶中段，坐着一个人。
-changeFigure:shenxun_event_watch.png -id=shenxun -right;
+changeFigure:shenxun_event_watch.webp -id=shenxun -right;
 深寻。没有棋盘。
 ;cg-final-begin
 changeFigure:none -id=shenxun;

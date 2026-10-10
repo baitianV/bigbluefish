@@ -1,9 +1,9 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_天台.webp -next -duration=1000 -exitDuration=1000;
 bgm:星尘双面.mp3 -volume=45 -enter=2000;
-changeFigure:shenxun_event_board.png -id=shenxun -right;
+changeFigure:shenxun_event_board.webp -id=shenxun -right;
 天台的门开着。她背对着门。没有棋盘。
 「……流言的事。」
 她先开的口。
@@ -15,13 +15,13 @@ changeFigure:shenxun_event_board.png -id=shenxun -right;
 「干嘛。」
 「我不想让你换第四个地方。」
 沉默。海风把她的发梢吹起来，又放下。
-changeFigure:shenxun_shy.png -id=shenxun -right;
+changeFigure:shenxun_shy.webp -id=shenxun -right;
 「……凭什么。」声音很小。
 「就凭——天台的棋局还在，观棋不语的那个人，也还坐在这儿。」
 呆毛，慢慢地、慢慢地，立了回来。
 「……哼。」
 她从书包里摸出棋盘，哗啦一声摆开。
-changeFigure:shenxun_smile.png -id=shenxun -right;
+changeFigure:shenxun_smile.webp -id=shenxun -right;
 「坐下。今天，让你先走。」
 setVar:affection_a=affection_a + 2 -global;
 （深寻　好感 +2）

@@ -1,8 +1,8 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=feibu;
 changeFigure:none -id=peiti;
-changeBg:bg_车站.png -next -duration=1000 -exitDuration=1000;
-changeFigure:shenxun_tsun.png -id=shenxun -right;
+changeBg:bg_车站.webp -next -duration=1000 -exitDuration=1000;
+changeFigure:shenxun_tsun.webp -id=shenxun -right;
 车站的检票机，吞了她两次票。
 「机器今天状态不好。」她说。
 第三次的姿势格外郑重——通过了。

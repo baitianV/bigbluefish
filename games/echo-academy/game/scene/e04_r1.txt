@@ -1,4 +1,4 @@
-changeFigure:luoke_smirk.png -id=luoke;
+changeFigure:luoke_smirk.webp -id=luoke;
 「要看处分通知？」她朝纸飞机飞下去的方向抬了抬下巴，「晚了，它已经替我飞了。理由那栏我背得熟：播出不当内容——播出的内容，是真话。各位听众，讽刺不讽刺？」
 我说：「真话我录音了。每一句。」
 setVar:affection_e=affection_e + 2 -global;

@@ -1,12 +1,12 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室夜.webp -next -duration=1000 -exitDuration=1000;
 bgm:低气压.mp3 -volume=45 -enter=2000;
 风声。
 台风外围提前到了。文化祭延后重开的场地布置夜，变成了一场抢险。
 窗外横着雨。教室里，指挥部临时恢复。
-changeFigure:peiti_tired.png -id=peiti -left;
+changeFigure:peiti_tired.webp -id=peiti -left;
 「A区灯架加固！B区帐篷收拢！广播组循环通知！」
 她站在讲台上，声音压过风声。
 像一台满负荷的钟。

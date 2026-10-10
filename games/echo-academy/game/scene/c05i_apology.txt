@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_坡道.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_坡道.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
-changeFigure:feibu.png -id=feibu -center;
+changeFigure:feibu.webp -id=feibu -center;
 台下的人潮散尽，是半小时之后的事。安可的喊声，又多留了他们十分钟。
 我们顺着参道往海边走。收摊的灯还亮着一半，烤糖的甜味混在夜风里，走一步淡一步。
 路过鸟居时，她回头望了一眼朗读台的方向。灯笼还亮着，台子已经开始拆了。
@@ -32,7 +32,7 @@ changeFigure:feibu.png -id=feibu -center;
 她把怀里的册子翻开，翻到中间的某一页。
 然后，从书页里，抽出一只信封。
 没有封口。边角磨得起了毛，一看就被人摸过很多年。
-changeFigure:feibu_quiet.png -id=feibu;
+changeFigure:feibu_quiet.webp -id=feibu;
 克劳德女士：「每场演出，说书人都要写一页东西。」她把信封递到灯下，「谢幕环节，还剩这一项。」
 主角我：「里面是什么。」
 她没有直接回答，先把信封口朝下，轻轻一抖。

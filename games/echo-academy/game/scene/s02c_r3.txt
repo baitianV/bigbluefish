@@ -1,4 +1,4 @@
-changeFigure:feibu_quiet.png -id=feibu -right;
+changeFigure:feibu_quiet.webp -id=feibu -right;
 「门后，只有什么？」
 ？？？：「……只有回家的路。」她想了想。
 ？？？：「勇者走了很远才发现——他要找的东西，出发的时候就在书包里。」

@@ -1,12 +1,12 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
 台风夜收工的第二天。
 我在会长室门口，敲了三次门，没人应。
 推开门。
-changeFigure:peiti_tired.png -id=peiti -left;
+changeFigure:peiti_tired.webp -id=peiti -left;
 她趴在桌上，睡着了。
 额前的碎发汗湿成一绺一绺。桌上摊着没批完的表格。
 手边，那个玻璃罐。空的。

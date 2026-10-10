@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
-changeFigure:peiti_event_files.png -id=peiti -left;
+changeFigure:peiti_event_files.webp -id=peiti -left;
 夏祭过后的第三天，气象台挂出了台风警报。
 预报说，后天登陆。
 走廊里贴出通知：文化祭重开，延期至台风过境后。
@@ -73,7 +73,7 @@ changeFigure:peiti_event_files.png -id=peiti -left;
 一条一条过。手册翻页的声音，比窗外的风声稳。
 一阵风撞在窗框上。哐。
 小蓝云激灵一下，从她肩头缩进了领口，只露出一小截云边，颜色灰了一度。
-changeFigure:peiti.png -id=peiti;
+changeFigure:peiti.webp -id=peiti;
 她的训话没有停。
 姬佩缇：「C区指示牌全部放平。横幅，卷轴收。」
 手却抬起来，探进领口，把那团云拢在了掌心里。
@@ -93,7 +93,7 @@ changeFigure:peiti.png -id=peiti;
 演习过半，她合上手册，从讲台底下抽出一份清单，连同一台备用对讲机，一起推到我面前。
 清单一式两联。第二联的抬头，写好了我的名字。
 帐篷的收拢顺序在手册第几页，她连页码都报了。
-changeFigure:peiti_smirk.png -id=peiti;
+changeFigure:peiti_smirk.webp -id=peiti;
 姬佩缇：「B区。帐篷四顶，灯架六组，沙袋二十四只。明晚，B区，归你。」
 主角我：「……为什么是我。」
 姬佩缇：「因为你不用问为什么。」
@@ -136,7 +136,7 @@ changeFigure:peiti_smirk.png -id=peiti;
 部员们散了。有人走之前想帮她搬手册，被她挡了。
 姬佩缇：「拿好自己的清单。各清各的。」
 教室里只剩白板上的区号，和阴天里发灰的光。
-changeFigure:peiti_event_files.png -id=peiti;
+changeFigure:peiti_event_files.webp -id=peiti;
 她站在讲台边收手册，收到一半，停了停。
 姬佩缇：「预报说后天。」
 主角我：「嗯。」

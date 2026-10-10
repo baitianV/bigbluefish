@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_天台_夕.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_天台_夕.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
-changeFigure:shenxun.png -id=shenxun -right;
+changeFigure:shenxun.webp -id=shenxun -right;
 夏祭过后的黄昏。天台的风里，还剩一点祭典的硝烟和糖的味道。
 门没锁。通往天台的楼梯，最近被两个人的脚步磨得很熟。
 老位置上，长椅中间摊着那本观察记录。
@@ -103,7 +103,7 @@ changeFigure:shenxun.png -id=shenxun -right;
 这句我在哪里听过。棋摊的桌角，一张便签。
 深寻：「查阅权限——」
 深寻：「只对你。」
-changeFigure:shenxun_smile.png -id=shenxun;
+changeFigure:shenxun_smile.webp -id=shenxun;
 说完，她自己先绷不住了。嘴角往下压了两次，没压住。
 主角我：「你笑了。」
 深寻：「……看什么。」

@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_广播站.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_广播站.webp -next -duration=1000 -exitDuration=1000;
 bgm:祭典.mp3 -volume=45 -enter=2000;
-changeFigure:luoke_event_mic.png -id=luoke -center;
+changeFigure:luoke_event_mic.webp -id=luoke -center;
 文化祭当天，天台广播的开播时间提前到了早上八点。
 我是被一条短信薅起来的。全文如下：「外景记者，六点半到岗。守则见面教。——DJ」
 主角我：「谁答应当你外景记者了。」
@@ -38,7 +38,7 @@ changeFigure:luoke_event_mic.png -id=luoke -center;
 我把录音笔还给她。她没接，朝我这边一推。
 洛珂：「记者自留。设备跟人走——这也是守则。」
 录音笔在我手里，比想象中轻。一整天的祭典、猫、小调和十个小时的稿子，都在这个小盒子里存了一份。
-changeFigure:luoke_rare.png -id=luoke -center;
+changeFigure:luoke_rare.webp -id=luoke -center;
 洛珂：「喂。今天收听率，破台史了。」嗓子哑着，音量放到最低，像只说给控制室听，「……副台长，辛苦。」
 主角我：「副台长是谁。」
 洛珂：「待定。」她伸手把灯关了，「明天，也待定。」

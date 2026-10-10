@@ -1,4 +1,4 @@
-changeFigure:feibu_guilty.png -id=feibu -right;
+changeFigure:feibu_guilty.webp -id=feibu -right;
 弯腰，捡起铅笔，递过去。
 ？？？：「谢谢……」她双手接过，像在领奖。
 ？？？：「铅笔，是很重要的武器。」

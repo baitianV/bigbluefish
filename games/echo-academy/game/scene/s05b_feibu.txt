@@ -1,9 +1,9 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:纸页月光.mp3 -volume=45 -enter=2000;
-changeFigure:feibu.png -id=feibu -right;
+changeFigure:feibu.webp -id=feibu -right;
 旧书区的灯下，克劳德女士抱着一摞书当掩护。
 「……是她自己。」我听见她小声嘀咕。
 「诶——？！」
@@ -21,7 +21,7 @@ changeFigure:feibu.png -id=feibu -right;
 「因为——」她小声说，「写别人的故事，很简单。写到自己……就会卡住。」
 「那，」我在她对面坐下，「第四章，两个人写。」
 她抬起头。灯下，琥珀色的眼睛亮了一下。
-changeFigure:feibu_quiet.png -id=feibu -right;
+changeFigure:feibu_quiet.webp -id=feibu -right;
 「……真的，可以吗？」
 「主角已经登场了。作者还在等什么？」
 jumpLabel:door_knock -when=flag_door_knock;

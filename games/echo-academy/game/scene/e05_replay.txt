@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_广播站.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_广播站.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
-changeFigure:luoke_event_petition.png -id=luoke -center;
+changeFigure:luoke_event_petition.webp -id=luoke -center;
 复播请愿，是我起头的。
 一张纸，印了"天台广播复播联合签名"。第一天，七个名字。第三天，一百四十个。
 册子末页还附了一栏"处分撤销联署"。按学生会的章程，这一栏凑满数，停播处分才正式作废——清点到那天，还差二十个。

@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_走廊.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_走廊.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
-changeFigure:kimini.png -id=kimini -right;
+changeFigure:kimini.webp -id=kimini -right;
 文化祭的热度还没散。走廊里贴满了社团招新的海报——多到转个身都能粘下一张。
 而在海报最深处的拐角，有一个人同时守着两个摊位。
 基米妮：「文学部，星座联动企划招人中！天文部，观星夜招募同好！」

@@ -1,8 +1,8 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeFigure:peiti_smirk.png -id=peiti -left;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeFigure:peiti_smirk.webp -id=peiti -left;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
 「那，」我把臂章推回去，
 「不说了。以后也不说了。」

@@ -1,5 +1,5 @@
 「便签上的字，比你说的话多。」我说。
-changeFigure:shuoyin_worry.png -id=shuoyin -right;
+changeFigure:shuoyin_worry.webp -id=shuoyin -right;
 她抱紧了书。「……对不起，我说得太绕了。」
 「不。」我说，「写得很好看。继续写。」
 她把书抱得更紧了一点。然后忽然抽出一张新便签，写了一行小字，贴在还书台内侧——她自己的那一侧。

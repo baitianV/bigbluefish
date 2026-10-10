@@ -1,7 +1,7 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
-changeBg:bg_印刷所.png -next -duration=1000 -exitDuration=1000;
-changeFigure:feibu_proud.png -id=feibu -right;
+changeBg:bg_印刷所.webp -next -duration=1000 -exitDuration=1000;
+changeFigure:feibu_proud.webp -id=feibu -right;
 她给印刷所老板讲了三分钟「一张海报的一生」。
 对方多送了两百张铜版纸。
 「故事的力量！」她比了个胜利的手势，羽毛笔在耳边晃了晃。

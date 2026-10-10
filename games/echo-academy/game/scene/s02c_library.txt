@@ -1,17 +1,17 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:借阅卡.mp3 -volume=45 -enter=2000;
 旧书区的灯比外面暗一号。书架高得快顶到天花板。
 角落里，有人在很小声地——讲故事？
-changeFigure:feibu.png -id=feibu -right;
+changeFigure:feibu.webp -id=feibu -right;
 ？？？：「于是勇者推开了最后一扇门——」
 橙色的长卷发从书架后面露出一截。羽毛笔在纸上沙沙地走。
 她在一本旧书的空白页上，续写结局。声音压得很低，像念给自己听。
 ？？？：「门后没有恶龙，没有宝藏。只有——」
 脚下的地板，发出了一声呻吟。
-changeFigure:feibu_event_book.png -id=feibu -right;
+changeFigure:feibu_event_book.webp -id=feibu -right;
 她猛地回头。故事书啪地合上，铅笔滚到地上。
 ？？？：「你、你什么都没看见！」
 她举起双手，像投降，又像想把那本书挡住。

@@ -1,12 +1,12 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_天台_夕.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_天台_夕.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
 期末考前最后一天。
 我在书包里塞了一副新的将棋。
 放学的天台。门没锁——我知道她会在。
-changeFigure:shenxun.png -id=shenxun -right;
+changeFigure:shenxun.webp -id=shenxun -right;
 她坐在老位置。看到我，没说话。
 ;cg-final-begin
 changeFigure:none -id=shenxun;

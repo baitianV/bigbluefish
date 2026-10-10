@@ -1,11 +1,11 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
-changeFigure:peiti.png -id=peiti -left;
-changeFigure:feibu.png -id=feibu -center;
-changeFigure:shenxun.png -id=shenxun -right;
+changeFigure:peiti.webp -id=peiti -left;
+changeFigure:feibu.webp -id=feibu -center;
+changeFigure:shenxun.webp -id=shenxun -right;
 海报顺利交货。第二件杂务：拉赞助。
 商店街的盖章之旅，据说要走七家店。
 七家店。五杯茶。三个故事。

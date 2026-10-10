@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_广播站.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_广播站.webp -next -duration=1000 -exitDuration=1000;
 bgm:电波心波.mp3 -volume=45 -enter=2000;
-changeFigure:luoke_grin.png -id=luoke -center;
+changeFigure:luoke_grin.webp -id=luoke -center;
 《素材君观察日记》连载了两百期。
 洛珂：「各位听众，本栏目获评全校最受欢迎板块。素材君本人对此的评价是——『随他便』。」
 她的最佳损友，每周三准时到岗。风雨无阻，出场费全免。

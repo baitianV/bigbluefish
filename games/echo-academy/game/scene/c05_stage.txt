@@ -1,9 +1,9 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_夏祭.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_夏祭.webp -next -duration=1000 -exitDuration=1000;
 bgm:纸页月光.mp3 -volume=45 -enter=2000;
-changeFigure:feibu_event_stage.png -id=feibu -right;
+changeFigure:feibu_event_stage.webp -id=feibu -right;
 夏祭当晚。书展的番外篇——露天朗读台。
 文化祭散场那晚立项的露天故事会，赶在夏祭当天开了台。
 台下坐了比文化祭更多的人。第一届「回声学园故事会」，她们真的办成了。

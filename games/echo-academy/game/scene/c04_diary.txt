@@ -1,8 +1,8 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeFigure:feibu_event_diary.png -id=feibu -center;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeFigure:feibu_event_diary.webp -id=feibu -center;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:低气压.mp3 -volume=45 -enter=2000;
 书展结束后的那个傍晚。
 部室只剩她一个人。我回来取落下的伞，在书架的拐角停住了——
@@ -36,7 +36,7 @@ ID：风纪委员长。
 「风纪委员长。」
 「到。」
 「辛苦了。」
-changeFigure:feibu_tears.png -id=feibu -center;
+changeFigure:feibu_tears.webp -id=feibu -center;
 她的眼泪，毫无预兆地掉了下来。
 ——就在这时，她的书包里，一个本子滑了出来。
 摊开的那页，抬头四个字：纯属虚构。

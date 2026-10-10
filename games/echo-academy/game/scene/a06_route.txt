@@ -1,9 +1,9 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_海边.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_海边.webp -next -duration=1000 -exitDuration=1000;
 bgm:心动.mp3 -volume=45 -enter=2000;
-changeFigure:shenxun_event_festival.png -id=shenxun -right;
+changeFigure:shenxun_event_festival.webp -id=shenxun -right;
 暑假的第一天。海。
 防波堤的尽头，浪一遍一遍地推着白线。
 她提着那袋金鱼——我的「观测样本」，如今住在了她家的窗台上。这件事她坚称是「代管」。

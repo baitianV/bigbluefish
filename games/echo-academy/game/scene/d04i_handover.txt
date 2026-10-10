@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
-changeFigure:kimini_tired.png -id=kimini -right;
+changeFigure:kimini_tired.webp -id=kimini -right;
 停职观察，第三天。
 放学后的教室。值日生扫完地走了，粉笔灰在斜进来的光里慢慢沉。
 这三天，学校照常上课，她照常坐在老位子。变化只有两处：头发没有扎起来，以及，没有人再围着她的问题。
@@ -45,7 +45,7 @@ changeFigure:kimini_tired.png -id=kimini -right;
 主角我：「然后呢。」
 基米妮：「然后，填不下去了。」
 左栏第十九条后面是空白。右栏也是。两栏都很干净，干净得像两间没打算住人的房间。
-changeFigure:kimini_sad.png -id=kimini;
+changeFigure:kimini_sad.webp -id=kimini;
 基米妮：「念给你听。复播，好处第三条，『观众需要一个讲理的地方』。坏处第三条，『讲理的地方，前天变成了刑场』。」
 基米妮：「退网，好处第一条，『再没有人能拿截图砸我』。坏处第一条，『再没有人听我讲理』。」
 主角我：「……确实是平局。」
@@ -92,7 +92,7 @@ changeFigure:kimini_sad.png -id=kimini;
 基米妮：「明早八点，旧货市场门口。关机日的实验流程，我写好了。」
 基米妮：「你只需要带两样东西。你，和不知道。」
 她又补了一遍，八点。声音小了一半，像是怕我反悔。
-changeFigure:kimini_soft.png -id=kimini;
+changeFigure:kimini_soft.webp -id=kimini;
 我把手机、平板和签好字的保管单装进书包最里层。走出教室的时候，她走在我右边半步，两只手插在口袋里。
 最后，她在校门口停住，长按电源键。屏幕暗下去的那一秒，她多看了一眼。
 基米妮：「……手好轻。」

@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室夜.webp -next -duration=1000 -exitDuration=1000;
 bgm:雨夜.mp3 -volume=45 -enter=2000;
-changeFigure:shuoyin_event_write.png -id=shuoyin -center;
+changeFigure:shuoyin_event_write.webp -id=shuoyin -center;
 那部小说的作者，在完结卷发售一个月后发帖：跑路了。外传，不写了。
 帖子下面骂声一片。只有一条回复不一样——
 「那我来写。第一读者，有这个权利。」署名：朔音。

@@ -1,11 +1,11 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
 文化祭收盘，晚上八点。
 委员会留下来清账。教室里只剩算盘声——她在用真的算盘。
-changeFigure:peiti.png -id=peiti -left;
+changeFigure:peiti.webp -id=peiti -left;
 「……最后一笔，对上了。」
 她合上账本，长出一口气。
 然后，从抽屉里拿出那个玻璃罐。

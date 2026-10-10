@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室夜.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
-changeFigure:shenxun.png -id=shenxun -right;
+changeFigure:shenxun.webp -id=shenxun -right;
 人散了。最后一箱委员会的器材，轮到我搬回教室。
 推开门——今晚刚挂好的灯串还亮着，一串一串，把满地木地板照成暖色。
 深寻没走。两张课桌拼成一张长桌，她正把一只只棋罐往桌上排。
@@ -67,7 +67,7 @@ changeFigure:shenxun.png -id=shenxun -right;
 一口气，三句。平时，这些话她一个字一个字往外省。
 主角我：「说白了，就是想让我早点来。」
 深寻：「闭嘴。」
-changeFigure:shenxun_tsun.png -id=shenxun;
+changeFigure:shenxun_tsun.webp -id=shenxun;
 她转开视线，去检查一条明天才会存在的队伍动线。尾巴在椅子后面，啪嗒，拍了一下椅腿。
 深寻：「……哼。」
 视线收回来的时候，已经调回平日的弧度。

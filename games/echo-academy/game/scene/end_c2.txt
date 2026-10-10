@@ -1,8 +1,8 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeFigure:feibu_quiet.png -id=feibu -center;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeFigure:feibu_quiet.webp -id=feibu -center;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
 「那，」我指了指书的留白，
 「这页，我们两个慢慢写。不着急。」

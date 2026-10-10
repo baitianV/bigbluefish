@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_夜电台.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_夜电台.webp -next -duration=1000 -exitDuration=1000;
 bgm:电波心波.mp3 -volume=45 -enter=2000;
-changeFigure:luoke_event_guitar.png -id=luoke -center;
+changeFigure:luoke_event_guitar.webp -id=luoke -center;
 文化祭前夜，全校都在赶工。深夜十一点，广播站的灯还亮着。
 洛珂：「特别节目，深夜放送。」她抱着一把旧吉他，「收听率预计：零。无所谓，本来就不是播给全校的。」
 主角我：「那是播给谁的？」

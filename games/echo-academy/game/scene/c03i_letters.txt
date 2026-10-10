@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
-changeFigure:feibu_event_letter.png -id=feibu -center;
+changeFigure:feibu_event_letter.webp -id=feibu -center;
 书展散场，人潮退回各自的展位。我们把摊子收了，抱着一堆东西，回到旧书区最深处的部室。
 她走在前面，一路都在小声哼着什么。听调子，是朗读环节那句开场白。
 桌上立着一本薄薄的册子。我们的合写，自己留下的那一本。印出来的样书，全卖空了。
@@ -37,7 +37,7 @@ changeFigure:feibu_event_letter.png -id=feibu -center;
 主角我：「那还等什么。」
 她深吸一口气，按住申请表的两个角，像按住一本翻开的大书。
 克劳德女士：「——话分两头！从前从前，也就是这个夏天，」说书腔一起，肩膀就松了，「有一个说书人，需要一个更大的台。」
-changeFigure:feibu_proud.png -id=feibu;
+changeFigure:feibu_proud.webp -id=feibu;
 没有举手表决，没有流程。说书人宣布立项，用的从来都是开场白。
 克劳德女士：「第一届——」她提笔，笔尖悬在纸面上，「回声学园故事会。」
 主角我：「名字都起好了。」
@@ -59,7 +59,7 @@ changeFigure:feibu_proud.png -id=feibu;
 划掉，重写。第二次，年份写成了去年。
 主角我：「去年八月，第一届还没出生。」
 她僵住。然后以肉眼可见的速度红透耳朵，一把抓起那张纸，折了三折，塞进本子夹层。
-changeFigure:feibu_guilty.png -id=feibu;
+changeFigure:feibu_guilty.webp -id=feibu;
 克劳德女士：「这、这是草稿！」她按住夹层，「纪念版！说书人的草稿，都、都值得纪念！」
 纪念版在夹层里放好了，和那封读者来信叠在一起。
 她重新抽出一张纸，闭眼，深呼吸，像上台前那样。然后从头再誊。这一次，日期一笔成形。
@@ -72,6 +72,6 @@ changeFigure:feibu_guilty.png -id=feibu;
 克劳德女士：「下一章，」她把申请表抚平，琥珀色的眼睛亮起来，「未完待续——在更大的台。」
 说完她开始收拾：申请表对折，夹进文件夹；信收好；空盒子压扁，压得方方正正。
 最后，她把桌上那本合写的册子摆回书架，和旧书们站在一起。书脊朝外。
-changeFigure:feibu.png -id=feibu;
+changeFigure:feibu.webp -id=feibu;
 部室的灯下，一位新作者和一封新的企划书，都齐了。
 changeScene:c04_diary.txt;

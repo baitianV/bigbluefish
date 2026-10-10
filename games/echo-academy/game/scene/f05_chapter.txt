@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室夜.webp -next -duration=1000 -exitDuration=1000;
 bgm:纸页月光.mp3 -volume=45 -enter=2000;
-changeFigure:shuoyin_determined.png -id=shuoyin -center;
+changeFigure:shuoyin_determined.webp -id=shuoyin -center;
 期中考后的那个晚上，她把一张稿纸推到我面前。
 标题：《第一读者》。第一章。
 第一行写的是：主角是个会把书签放回原位的人。

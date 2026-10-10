@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_天台.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
-changeFigure:luoke_event_mic.png -id=luoke -center;
+changeFigure:luoke_event_mic.webp -id=luoke -center;
 中午十二点，全校的走廊喇叭准时炸响。
 洛珂：「各位听众中午好，这里是天台广播。今日头条：委员会新丁，把文化祭的海报贴反了十八张。十八张。方向感好评。」
 那是我的海报。我的名字。全校的笑声从每一间教室里漏出来。

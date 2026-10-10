@@ -1,5 +1,5 @@
 我在点歌单上写：给天台上那个嘴硬的DJ，点一首慢歌。
-changeFigure:luoke_serious.png -id=luoke;
+changeFigure:luoke_serious.webp -id=luoke;
 她播完那首歌，全程没吐槽。只说了一句：「点歌人选曲品味，好评。」
 setVar:affection_e=affection_e + 2 -global;
 （洛珂　好感 +2）

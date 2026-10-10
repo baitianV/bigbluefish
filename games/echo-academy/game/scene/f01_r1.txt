@@ -1,6 +1,6 @@
 我排在长龙最后，排到她面前时，借书卡上是空白的。
 「你……不借吗？」她问。
-changeFigure:shuoyin_shy.png -id=shuoyin;
+changeFigure:shuoyin_shy.webp -id=shuoyin;
 「借。」我说，「借你排过的每一个位置。」她低下头，在借阅卡上盖了今天的第一枚章。
 setVar:affection_f=affection_f + 2 -global;
 （朔音　好感 +2）

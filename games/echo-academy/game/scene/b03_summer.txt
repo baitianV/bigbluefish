@@ -1,9 +1,9 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_夏祭.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_夏祭.webp -next -duration=1000 -exitDuration=1000;
 bgm:祭典.mp3 -volume=45 -enter=2000;
-changeFigure:peiti_event_yukata.png -id=peiti -left;
+changeFigure:peiti_event_yukata.webp -id=peiti -left;
 夏祭。
 姬佩缇站在鸟居下，藤紫底银鹤纹的浴衣——不，那是以浴衣为设计感的夏礼服，她的坚持。
 ;cg-final-begin

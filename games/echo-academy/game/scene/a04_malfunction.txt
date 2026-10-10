@@ -1,7 +1,7 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_天台.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_天台.webp -next -duration=1000 -exitDuration=1000;
 bgm:低气压.mp3 -volume=45 -enter=2000;
 文化祭结束后的第三个星期。
 天台的门，锁了。
@@ -9,7 +9,7 @@ bgm:低气压.mp3 -volume=45 -enter=2000;
 据目击者称——她贴了一张告示在门上。
 我找到她的时候，她正坐在储物间的窗边。
 膝盖上摊着笔记本。不是观察记录，是一张新的表格。
-changeFigure:shenxun_think.png -id=shenxun -right;
+changeFigure:shenxun_think.webp -id=shenxun -right;
 「……你来了。」
 她没有抬头。这不对。她应该炸毛，应该别扭，应该说「谁准你上来的」。
 「最近，」她开口，声音平得像天气预报，

@@ -1,6 +1,6 @@
 签名册传到我手里的时候，最后一页是空的。
 我签上名字，然后写：「第一期听众，申请连坐。」
-changeFigure:luoke_rare.png -id=luoke;
+changeFigure:luoke_rare.webp -id=luoke;
 她翻到这一页的时候，笔掉了。
 「连坐可是要负责任的，」她盯着那行字，声音哑着，「首期听众，跑不掉的那种。」
 「我申请的就是跑不掉。」

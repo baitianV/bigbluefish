@@ -1,12 +1,12 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:借阅卡.mp3 -volume=45 -enter=2000;
 合写的日子过了两周。
 这天我去还铅笔盒，她不在。
 桌上的书包开着，一沓纸露出来——道歉页。
-changeFigure:feibu.png -id=feibu -center;
+changeFigure:feibu.webp -id=feibu -center;
 我知道不该看。但最上面那页的字，自己跳进眼睛里：
 『致转学生：
 对不起。第五章的雨，是我编的。
@@ -16,7 +16,7 @@ changeFigure:feibu.png -id=feibu -center;
 对不起。』
 一声很轻的抽气。
 她站在书架的阴影里，不知道站了多久。
-changeFigure:feibu_event_letter.png -id=feibu -center;
+changeFigure:feibu_event_letter.webp -id=feibu -center;
 「……你看了。」
 「对不起。」这次是我说。
 「不，」她慢慢走过来，把那页纸抽走，抱在怀里，

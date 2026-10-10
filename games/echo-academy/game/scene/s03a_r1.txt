@@ -1,7 +1,7 @@
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_印刷所.png -next -duration=1000 -exitDuration=1000;
-changeFigure:shenxun_tsun.png -id=shenxun -right;
+changeBg:bg_印刷所.webp -next -duration=1000 -exitDuration=1000;
+changeFigure:shenxun_tsun.webp -id=shenxun -right;
 印刷所老板问「学生证呢」。
 她把学生证拍在台面上的样子，像在执法。
 回去的路上她说：「跑腿这件事，效率最高的环节，是等人。」

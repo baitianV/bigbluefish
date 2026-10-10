@@ -4,15 +4,15 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室夜.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
-changeFigure:kimini.png -id=kimini -right;
+changeFigure:kimini.webp -id=kimini -right;
 深夜。委员会收尾，我最后一个锁门。
 走廊尽头的窗透着手机屏幕的冷光。我顺手点开了同学群里疯传的直播——
 「锐评回声学园·第38期：论文化祭摊位排布的十七种不合理」。
 声音很轻，语速很快，句句扎心，句句好笑。
 然后，那个停顿的方式。那个"……对吧？不对，让我重算"——
-changeFigure:kimini_shock.png -id=kimini;
+changeFigure:kimini_shock.webp -id=kimini;
 我抬头。直播里的声音，和走廊里传来的自言自语，重叠了。
 基米妮：「……十分钟前就有人刷'主播是不是回声学园的'。处理方式：装死。」
 她从暗处走出来，手机还举在耳边。直播没关。

@@ -4,15 +4,15 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_教室夜.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_教室夜.webp -next -duration=1000 -exitDuration=1000;
 bgm:纸页月光.mp3 -volume=45 -enter=2000;
-changeFigure:kimini_tired.png -id=kimini -right;
+changeFigure:kimini_tired.webp -id=kimini -right;
 复播前夜。社团教室。
 她的手机保管期，到昨天为止。保管单收回那天，她在「归还状态」一栏写的是：电量百分之六十二，余额完好。
 桌上摊着平板。屏幕上是一条帖子。《这个女人有两张脸》。三百楼。她一楼没跳。
 主角我：「三百楼。你全看了？」
 基米妮：「从一楼到三百楼，按时间正序，逐字读完。这题我会。把我推进坑里的帖子，我没有资格跳读。」
-changeFigure:kimini_think.png -id=kimini;
+changeFigure:kimini_think.webp -id=kimini;
 平板旁边压着一张手写的表格。三百行楼号，被她用三种颜色的笔标完了。
 基米妮：「分类统计完毕。引用我的语录反过来锐评我的，两百一十六楼。纯看热闹、坐等更新的，五十四楼。剩下的三十楼——」
 她的指尖停在那三十行上。三种颜色的笔，只有这三十行用的是红色。
@@ -24,7 +24,7 @@ changeFigure:kimini_think.png -id=kimini;
 主角我：「为什么。写都写了。」
 基米妮：「因为『答辩』这个形式，本身就是认输。在三百个人的楼层里，我说什么都是错的。这不是逻辑问题——是场地问题。」
 她把平板推到一边，从书包里拿出直播用的声卡，接耳机，插线，试音。动作很稳，像在调一台赤道仪。
-changeFigure:kimini_soft.png -id=kimini;
+changeFigure:kimini_soft.webp -id=kimini;
 基米妮：「他们的场地，他们说了算。我的场地，叫直播间。题目我都想好了。」
 主角我：「什么题目。」
 基米妮：「设备调试。四个字。」

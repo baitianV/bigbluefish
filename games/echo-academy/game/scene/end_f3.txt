@@ -4,7 +4,7 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:未寄出的信.mp3 -volume=45 -enter=2000;
 那本书的最后一页，始终是空白的。
 她后来又写了几章，写写停停，最后在扉页加了一行小字：

@@ -1,4 +1,4 @@
-changeFigure:peiti_proud.png -id=peiti -left;
+changeFigure:peiti_proud.webp -id=peiti -left;
 「……好。」
 答应得太干脆，她挑了一下眉。
 「哦？手脚利索，态度也利索。」

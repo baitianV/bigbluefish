@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:纸页月光.mp3 -volume=45 -enter=2000;
-changeFigure:feibu_quiet.png -id=feibu -center;
+changeFigure:feibu_quiet.webp -id=feibu -center;
 挂灯工程散场之后，我在床上翻来覆去，横竖睡不着。
 最后还是爬了起来。兜里那张手绘的「故事票根」，被我捏出了折痕。
 『第四章，主角还没登场。开演时间：文化祭当晚。』

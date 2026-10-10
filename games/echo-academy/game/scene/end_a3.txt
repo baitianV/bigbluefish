@@ -1,8 +1,8 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeFigure:shenxun_think.png -id=shenxun -right;
-changeBg:bg_教室.png -next -duration=1000 -exitDuration=1000;
+changeFigure:shenxun_think.webp -id=shenxun -right;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
 bgm:未寄出的信.mp3 -volume=45 -enter=2000;
 夏天到了尽头。有句话，停在了长考里。
 她低着头，很久没有说话。

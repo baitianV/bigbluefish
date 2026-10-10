@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_走廊.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_走廊.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
-changeFigure:peiti.png -id=peiti -left;
+changeFigure:peiti.webp -id=peiti -left;
 文化祭当天，傍晚。
 走廊两边的窗子，把夕阳切成一段一段的橘子色。
 广播每半小时播一次各区进度。B区一切正常，C区的音响在调，食品区的冰见了底。
@@ -72,7 +72,7 @@ changeFigure:peiti.png -id=peiti -left;
 说完，她翻过一页巡查单。
 姬佩缇：「下一区。」
 转过楼梯口，人少了。声控灯应声亮了半排。她停下。
-changeFigure:peiti_smirk.png -id=peiti;
+changeFigure:peiti_smirk.webp -id=peiti;
 姬佩缇：「回来。」
 小蓝云贴着墙根飘回来，在她头顶缩成一小团。
 一颗心虚的棉花糖。
@@ -102,7 +102,7 @@ changeFigure:peiti_smirk.png -id=peiti;
 笔尖在空格上方，停了半秒。
 然后，翻页了。
 她合上本子，把肩边的云捞回来，按回原位。
-changeFigure:peiti.png -id=peiti;
+changeFigure:peiti.webp -id=peiti;
 姬佩缇：「就你会讨好。」
 被按住的云膨胀了一圈。得意，藏都不藏。
 主角我：「明天它转正，你待岗。」

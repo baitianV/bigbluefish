@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_图书馆.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
 bgm:温柔.mp3 -volume=45 -enter=2000;
-changeFigure:shuoyin_smile.png -id=shuoyin -right;
+changeFigure:shuoyin_smile.webp -id=shuoyin -right;
 我借走的那本书里，夹着一张便签。
 手写的小字，写在第137页的角落：「这一段的雨，下得很安静。像有人在等伞。」
 我把它夹回原处还了回去。第二周，同一本书，第52页，多了一张新的：「上一位的读者，谢谢你把书签放回了原位。」

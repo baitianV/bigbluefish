@@ -1,14 +1,14 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
-changeBg:bg_走廊.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_走廊.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
 放学后，委员会教室。
 姬佩缇说要「实地教学」，带着我在旧校舍里穿行。
 会长亲自带路——是看重我，还是单纯缺个搬资料的？
 旧校舍的走廊比新楼暗一号。窗户上还贴着去年文化祭的褪色海报。
 转过楼梯口——
-changeFigure:peiti_event_files.png -id=peiti -left;
+changeFigure:peiti_event_files.webp -id=peiti -left;
 她怀里抱着的资料山，高过了下巴。
 一步。一步。又一步。
 楼梯的第一级台阶在她脚下，显得格外地高。

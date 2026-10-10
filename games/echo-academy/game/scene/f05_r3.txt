@@ -1,5 +1,5 @@
 「第一章，念给我听。」我说，「第一读者的权限，从试读开始。」
-changeFigure:shuoyin_joy.png -id=shuoyin;
+changeFigure:shuoyin_joy.webp -id=shuoyin;
 她清了清嗓子，把稿纸举起来，念得又慢又轻，像怕吵醒纸上的字。
 念完，全文五分钟。她小声问：「……可以吗。」
 「可以。」我说，「就是主角那把伞，还没出场。」

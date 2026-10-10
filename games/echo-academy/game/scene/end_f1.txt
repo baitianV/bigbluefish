@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_夏祭.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_夏祭.webp -next -duration=1000 -exitDuration=1000;
 bgm:心动.mp3 -volume=45 -enter=2000;
-changeFigure:shuoyin_tears.png -id=shuoyin -center;
+changeFigure:shuoyin_tears.webp -id=shuoyin -center;
 朗读台的灯还亮着。人群散了，她抱着书站在台阶上等我。
 她把书翻开，最后一页——那页空白——朝我举了一下，却没有递笔。
 递过来的，是一只缠着纸绳的细长木托。托里躺着一行铅字，几十枚小铅块排得整整齐齐，在灯下闪着旧旧的光。
@@ -15,7 +15,7 @@ changeFigure:shuoyin_tears.png -id=shuoyin -center;
 朔音：「写，我落笔重，不敢。捡——捡字，我快。」
 我凑近看。铅字全是反的。对着朗读台的灯认了半天，一个字也认不出来。
 朔音：「反的，才排得下去。」她的声音很小，「字还在托上，纸还是白的。不算动笔……不算违约。」
-changeFigure:shuoyin_shy.png -id=shuoyin;
+changeFigure:shuoyin_shy.webp -id=shuoyin;
 她从书包侧袋摸出一只小铁盒，旋开——油墨，还有一柄小小的胶辊。墨在辊上滚匀，再一遍一遍滚上那行铅字。动作熟得不像第一次做。
 朔音：「爸爸教的。墨要薄。」
 她把书摊平在台阶上，最后一页朝下，对准字托。我帮她按住书脊。

@@ -4,9 +4,9 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_广播站.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_广播站.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
-changeFigure:luoke_smirk.png -id=luoke -center;
+changeFigure:luoke_smirk.webp -id=luoke -center;
 从那天起，委员会成了天台广播的"固定素材库"。
 佩缇的预算案、深寻的将棋、克劳德女士的书展——每周三档，雷打不动。
 以及压轴常驻栏目：《素材君观察日记》。

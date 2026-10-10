@@ -1,4 +1,4 @@
-changeFigure:shenxun_tsun.png -id=shenxun -right;
+changeFigure:shenxun_tsun.webp -id=shenxun -right;
 「下得真好。」
 深寻：「……哼。」呆毛抖了一下，「当然。」
 收棋的动作快了半拍。

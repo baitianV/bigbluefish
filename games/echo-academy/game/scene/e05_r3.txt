@@ -1,5 +1,5 @@
 「处分撤销的条件还差二十个签名。」我说，「全校两千人，二十分之一都不肯给你？」
-changeFigure:luoke_flustered.png -id=luoke;
+changeFigure:luoke_flustered.webp -id=luoke;
 「不是不肯。」她低着头，「是我不敢发。麻烦。」
 我把签名册塞进她怀里：「那这次，麻烦你收下。」
 setVar:flag_e5_break=true -global;

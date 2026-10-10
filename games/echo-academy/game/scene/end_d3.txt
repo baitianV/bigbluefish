@@ -4,7 +4,7 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
-changeBg:bg_走廊.png -next -duration=1000 -exitDuration=1000;
+changeBg:bg_走廊.webp -next -duration=1000 -exitDuration=1000;
 bgm:未寄出的信.mp3 -volume=45 -enter=2000;
 走廊拐角的两个招新摊，收掉了一个。
 天文部的观星夜换了主持人。文学部的联动企划，停在了第七期。
