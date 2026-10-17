@@ -1,3 +1,9 @@
+快门，还没有响。她说，今晚这一页，要回去登记——档案学的规矩，出处栏不能空。
+changeFigure:none -id=zcode;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
+当晚的档案馆，夜灯亮着。三年份的档案箱之间，多了一台待机的相机——在我手里，快门键悬着。
+changeFigure:zcode.webp -id=zcode -center;
+小Z：「出处栏，我填好了：今夜，档案馆，灯下。还剩一栏空着——保管人栏。备注：这一栏不催。档案学里，等，不算催。」
 jumpLabel:gk_love -when=affection_k >= 8 && flag_k5_trust;
 jumpLabel:gk_friend -when=affection_k >= 6;
 changeScene:end_k3.txt;

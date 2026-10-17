@@ -6,7 +6,6 @@
 玫塔：「原来这句话，说给别人听的时候……是这样的。」
 主角我：「哪样。」
 玫塔：「心里，慢了半拍。就不晃了。」
-setVar:flag_g2_truth=true -global;
 setVar:affection_g=affection_g + 1 -global;
 （玫塔　好感 +1）
 changeScene:g02i_hay.txt;

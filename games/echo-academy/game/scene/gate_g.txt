@@ -1,3 +1,8 @@
+她没有选。两条都亮着的路，一条也没选。她领我走的，是岔路口没有的第三条——旧楼的安全梯。楼梯一层一层，她爬得和散步一个速度，慢得每一级台阶都数得清。
+changeBg:bg_天台_夕.webp -next -duration=1000 -exitDuration=1000;
+天台的黄昏，比坡道上晚半拍。文化祭的灯串还挂在这里——全校拆收拆到最后，剩下的就是这一串。最没人来的角落，拆得也最慢。灯串先一步亮了，把暮色照成暖的。
+changeFigure:meta_alert.webp -id=meta;
+玫塔：「最后核对。第七百三十九天。天气，晴。散步，全程。老白、麻糬、小满——点名，齐。误差，零。……今天这一页，还没写。不急。又不会跑。」
 jumpLabel:gg_love -when=affection_g >= 8 && flag_g2_truth;
 jumpLabel:gg_friend -when=affection_g >= 6;
 changeScene:end_g3.txt;

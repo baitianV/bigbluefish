@@ -9,4 +9,5 @@
 米斯特：「法国国旗，替过去挂。法棍旗，替现在挂。两不耽误。……失礼了，谢谢你的讲价。」
 setVar:affection_i=affection_i + 1 -global;
 （米斯特　好感 +1）
+setVar:flag_i3_echo=true -global;
 changeScene:i06_crown.txt;

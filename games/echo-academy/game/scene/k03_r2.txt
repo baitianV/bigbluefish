@@ -7,6 +7,7 @@
 主角我：「器材有名字吗。」
 小Z：「有。编号一号——」她顿住，耳朵红了一格，「更正。一号已有归属。本器材，编号二号。」
 她合上名录，走得飞快，银铃一路乱响。器材使用须知一条没写，依赖记录倒是记了三页。
+setVar:flag_k5_trust=true -global;
 setVar:affection_k=affection_k + 1 -global;
 （小Z　好感 +1）
 changeScene:k03i_print.txt;

@@ -44,4 +44,5 @@ changeFigure:zcode_delight.webp -id=zcode;
 小Z：「删不掉。也不敢给看。」
 烤红薯的甜味忽然就不甜了。我第一次看见她的尾巴垂下来，一动不动，像一条忘了怎么摇的旧毛毯。
 拐角的风把纸袋吹得哗啦响。我看着她，把想说的话在嘴里过了三遍。
+setVar:flag_k5_trust=false -global;
 choose:那把相机交给我扛。今天开始轮流收录:k03_r1.txt|相机放我肩膀上吧:k03_r2.txt|那今天起，互相收录对方的今天:k03_r3.txt;

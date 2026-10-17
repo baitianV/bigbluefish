@@ -8,6 +8,7 @@
 主角我：「这行小字，谁加的？」
 千问：「书里有。」
 她端起茶，挡住了半张脸。可那行小字的笔迹，和她登记簿上的一模一样。
+setVar:flag_j5_silence=true -global;
 setVar:affection_j=affection_j + 2 -global;
 （千问　好感 +2）
 changeScene:j03i_repair.txt;
