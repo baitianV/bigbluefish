@@ -1,0 +1,37 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_坡道.webp -next -duration=1000 -exitDuration=1000;
+bgm:晨读.mp3 -volume=45 -enter=2000;
+changeFigure:meta_event_wool.webp -id=meta -center;
+回程走的还是那条十五米的散步路线。玫塔在草料棚门口停下，从围裙口袋里摸出第二把梳毛刷，递给我。
+玫塔：「梳毛，第一课。顺着毛。慢慢来。」
+主角我：「为什么是我先来。」
+玫塔：「报告里写了『共同照料』。白纸黑字。……评审，要看实绩的。」
+理由充分，无法反驳。我接过刷子，在麻糬背上落了第一下——逆着毛。麻糬回头看了我一眼，那眼神，像在往记仇的小本子上添一笔。
+玫塔：「重来。顺着。对。……再慢一点。毛又不着急掉。」
+第二下。第三下。梳到第十下，手上找到感觉了——刷子一沉一浮，跟着麻糬的呼吸走。原来梳毛不是「梳」，是跟着对方的节奏，一起晃。
+玫塔在小木凳上坐下，给小满梳。梳到第二下，她哼起了那支调子。三个音。第四个音——拐错了拍。她自己停住，顿了顿，没有再哼下去。
+我假装没听见。有些调子，在没找回拍子之前，别人不能替它打拍子。
+梳下来的毛，她一团一团收好，装进小玻璃罐。罐子上贴着标签，写着日期和名字：『小满·四月十七』。
+主角我：「每一罐，都是一天的？」
+玫塔：「嗯。每一罐，是某只羊驼某个日子的第一捧毛。春天换毛。一天一罐。」
+棚里的木架上，这样的罐子排了一长排。夕照从门缝斜进来，一罐一罐都亮着，毛茸茸的。
+日志墙是硬的。这一排罐子，是日志墙的柔软版。
+主角我：「这个也写进报告吗。」
+玫塔：「……不写。评审看不懂。留给看得懂的人。」
+正说着，我的鼻子一痒。
+「阿嚏。」
+羊毛过敏。这毛病，挑得实在不是时候。
+玫塔：「站在上风口。」
+主角我：「……不用吃药吗？」
+玫塔：「风，比药快。」
+面无表情。但她已经伸手，把我拎到了上风处。拎完，顺手塞给我一颗薄荷糖。糖纸是白色的，和小满一个颜色。
+changeScene:g04_audit_day.txt;

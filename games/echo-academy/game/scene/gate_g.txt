@@ -1,0 +1,7 @@
+jumpLabel:gg_love -when=affection_g >= 8 && flag_g2_truth;
+jumpLabel:gg_friend -when=affection_g >= 6;
+changeScene:end_g3.txt;
+label:gg_love;
+changeScene:end_g1.txt;
+label:gg_friend;
+changeScene:end_g2.txt;

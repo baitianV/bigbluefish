@@ -1,0 +1,22 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_走廊.webp -next -duration=1000 -exitDuration=1000;
+bgm:未寄出的信.mp3 -volume=45 -enter=2000;
+评估通过的消息，是我在通报栏看到的。饲育屋续期，慢区照旧。听说坡道中段的长椅前排起了全学园最慢的队，「什么都不用做」的规则，被抄进了很多人的笔记本。
+只是那个学期末之后，我再没上过坡道。
+没有吵架，没有告别，什么都没发生。只是两张时间表，往两个方向各错开了半格——我要补考，要赶升学。快的人，最先被自己的日程表收走。坡道那么慢的地方，第一个从表上消失，好像也是应该的。
+学期末，路过通报栏，我看见饲育日志的影印页贴了一角。只贴了一页。最后一页。
+『今天也没有人来。羊驼说，不急。』
+一行字，一笔一画。慢得，像在等谁把它读完。
+我在栏前站了一会儿。想起坡道中段那块小木牌上，还留着一个号——『2号，长期』。名额还在。椅子还在等。它等的方式，就是一直不动。
+走廊尽头，黄昏一寸一寸暗下去，像一页被翻过去的日志。翻页的手，很慢。
+但我没有回头。
+end;

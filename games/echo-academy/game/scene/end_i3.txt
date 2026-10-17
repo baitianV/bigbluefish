@@ -1,0 +1,23 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_天台_夕.webp -next -duration=1000 -exitDuration=1000;
+bgm:未寄出的信.mp3 -volume=45 -enter=2000;
+交流周闭幕那天，家政部的展位提前收了。
+队伍散得很晚。最后一份限定品用棉布包着，摆在案台最显眼的位置。留到炉子凉掉。
+预约券上的日期，过了。过期不候——券面上白纸黑字。
+天台的黄昏很长。她一个人坐在水塔的影子里，把那份面包吃完了。凉凉的，硬硬的，是留过了头的那一种。
+部室的账本里，多了一行字。预约券的存根，端端正正夹在这一页：
+「本季坏账，一笔。」
+字尾没有翘起的小弧度。这一页的字，写得特别平。
+只是第二天的配给窗口，预约券还是印了。数量永远比来领的人，多一张。
+『凭券领取，过期不候。——才怪。会给你留到炉子凉掉。』
+落款空着。像一封没寄出去的信，在等一个不存在的收件人。
+end;

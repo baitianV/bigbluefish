@@ -1,0 +1,7 @@
+jumpLabel:gj_love -when=affection_j >= 8 && flag_j5_silence;
+jumpLabel:gj_friend -when=affection_j >= 6;
+changeScene:end_j3.txt;
+label:gj_love;
+changeScene:end_j1.txt;
+label:gj_friend;
+changeScene:end_j2.txt;

@@ -1,0 +1,41 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_走廊.webp -next -duration=1000 -exitDuration=1000;
+bgm:日常.mp3 -volume=45 -enter=2000;
+同一个午后，走廊的另一头。
+三位转学生的名册墨迹未干，佩缇却说，本学期的「人员到齐」还差一步。
+「转学生是外来的新故事。」她翻着值日表，「可这座学园本来的故事，也该露面了。」
+于是我认识了学园的另一批常驻民——四位。不是新来的，是本来就在场的人。
+还有一位，是顺着众人视线找了半天才认出来的——走廊尽头的窗外，坡道中段，那团正以全场最慢速度下山的奶油色，身后跟着三只更慢的羊驼。
+changeFigure:meta.webp -id=meta -right;
+玫塔：「……玫塔。饲育委员。后山，三只羊驼，一间仓库，一名委员。」
+第一位，报家底式自报家门的饲育委员。句与句之间，换气比常人长一拍。
+玫塔：「你们聊得好快。聊慢一点也没关系的——话题又不会跑。」
+changeFigure:mistral.webp -id=mistral -left;
+米斯特：「家政部，米斯特。文化祭的面包摊，由我全权负责——bon，请多指教。」
+第二位，红檐帽下把法棍扛得像佩剑的归国子女，鞠躬的弧度精确得像用尺子量过。
+米斯特：「指教的内容包括试吃。免费的。……啊，不对。待客要矜持。矜持。」
+第三位不在任何名册的新页上——图书馆借阅台的灯，每天比上学铃早亮半小时。
+走廊广播里，恰好在放天台DJ的试音：「来不来随你——」
+changeFigure:qianwen_event_fan.webp -id=qianwen -center;
+千问：「——文化祭，图书馆连廊，旧书市集。」她把一摞还书在台面上墩齐，「急征搬书帮工。工钱，一盏茶。」
+千问：「广播是天台的事，书是地上的事。……不冲突。都来。」
+第四位不需要介绍信——走廊尽头举着相机、连新生名册都拍进去的连帽衫，是上学期被三声「不行」请出委员会的那位常客。
+changeFigure:zcode.webp -id=zcode -right;
+？？？：「那个——新来的三位同学报到的一瞬间，我能备份一份吗？就在本地！」
+？？？：「绝对不上传……大概。」
+三个新名字，和一个连名字都还没报过的熟悉影子。
+深寻：「碳水密度预警。」她抱着棋盘路过，头也不抬，「午休时段，请自觉错峰。」
+姬佩缇：「档案登记，走流程。」她头也不回，顿了顿，「……登记表，来委员会领。人，这次也留下。」
+克劳德女士：「旧书市集的故事，」克劳德女士合上本子，「我可以留一章吗。」
+转学生带来新大陆。而这座学园本来的样子，一直有人守着——现在，守着的人，也把名字递了过来。
+十个人的夏天，名册到齐。
+changeScene:s05a_rumor.txt;

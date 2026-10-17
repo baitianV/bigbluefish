@@ -1,0 +1,35 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_教室夜.webp -next -duration=1000 -exitDuration=1000;
+bgm:雨夜.mp3 -volume=45 -enter=2000;
+changeFigure:mistral.webp -id=mistral -right;
+当晚，下雨。
+我抱着一摞借来的资料跑向部室，在廊下撞见了她——抱着一只纸袋，从雨里冲进来。
+伞面整个罩着纸袋。她自己，半边肩膀淋得透湿。
+袋口冒着热气。是刚出炉的失败品：塌了腰的可颂，裂了口的乡村包，还有一根弯成问号的小法棍。
+主角我：「伞给你！面包淋坏了怎么办。」
+米斯特：「面包没有淋坏。伞罩着它。」
+她把伞柄推回我手里，先把纸袋捧进部室，摆在案台正中央。然后才开始理自己：帽檐，肩，发尾。
+米斯特：「失败品也是面包。名册上的每一位，都值得体面。」
+她擦头发之前，先擦了帽子。红帽檐上的水珠，被白手套一粒一粒按干。
+米斯特：「帽子是家政部的脸面。脸面不能滴水。」
+擦完，仪式开始。她取来部室的旧相机，给每一件失败品拍照。拍照之前，先用竹夹把它们摆正。
+照片贴进一本厚厚的册子。册页抬头：败者名册。每一页：编号，阵亡日期，一行短评。
+「七号，可颂。层次十二，叹气太多。」「八号，乡村包。裂口诚实，内心已逃亡。」
+写到那根弯成问号的小法棍，她停了很久。
+最后写：「九号。问号。答案，下星期三公布。」
+主角我：「下星期三？」
+米斯特：「M 的星期三。从头来过的日子，要有一个名字，才记得住。……九号的答案，和故乡展一起揭晓。」
+她合上名册，把它立在案架上，像立一座小小的纪念碑。
+窗外的雨声很匀。炉子的余温还没散，部室里有一种潮湿的、面包味的安静。
+米斯特：「下一个星期三，重新来过。」
+这句不像说给我听，也不像说给她自己听。像是对着名册里的九位败者，立的约。
+changeScene:i04_map.txt;

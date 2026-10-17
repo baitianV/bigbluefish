@@ -1,0 +1,56 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_天台_夕.webp -next -duration=1000 -exitDuration=1000;
+bgm:心动.mp3 -volume=45 -enter=2000;
+changeFigure:zcode_event_photo.webp -id=zcode -center;
+八月的最后一天，天台。
+相机在我手里。这是她早上亲口授权的：「持机授权，全日。条款：想拍什么，拍什么。」
+说这话的时候，她没看我，看天。委托单那张旧纸被她夹在黑书里，第四行的报酬栏，还空着。
+changeFigure:zcode_event_photo.webp -id=zcode;
+她站在暮色的天台栏杆边，鞋拎在手里，狼耳被晚风吹得一边倒。取景框外的人，第一次自己走进了画里。
+小Z：「那个——刚才在坡道上想好的话，现在说。就一遍。不许录音备份。」
+她深吸一口气，指了指自己，又指了指我手里的相机。
+小Z：「这个我能备份一下吗？就在本地。」
+文化祭那晚没按下去的快门，此刻横在我们中间。
+主角我：「不对。这句是我的台词。」
+我举起相机，对准她。
+主角我：「这个我能备份一下吗？就在本地。」
+她愣在原地，狼耳竖到最直，银铃在风里响了一声。
+小Z：「……回礼吗。」
+主角我：「回礼。收录对象：小Z。收录范围：全部。期限：没有。」
+三，二，一。快门响了。
+屏幕里，她笑得眼睛都弯了，狼耳放松下来，尾梢翘着，黑书抱在臂弯里。她人生第一张，入镜的档案页。
+她凑过来看屏幕，看了很久，很久。然后翻开黑书，抽出名录的第一页。
+空了一天的第一页，并排写下两个名字。
+备注一栏，只有一行：『授权：互相，永久。』
+主角我：「对了，还有一笔旧账。委托单第四行。报酬：档案库任选一件，原件，不含备份。」
+主角我：「我领过了。原件，刚拍进去了。」
+她把脸埋进黑书里，狼耳红透了，尾巴摇得整个天台都是风。
+过了很久，黑书里传出一句闷闷的：「报酬领取，登记完毕。……收录人一栏，下次换你写。」
+小Z：「备注。附录一条。」
+她把名录递回来，指尖点着那行「授权：互相，永久」。
+小Z：「附录：以后每一张合照……」她的声音小下去，「都能把我算进去吗。」
+主角我：「每一张。以后每一张合照，你都站在里面。」
+暮色沉下去，第一颗星升起来。快门又响了一次。这次，谁也没有躲。
+第二张，构图依旧零分，主体依旧越界。没有人扣分。
+她抢过相机看屏幕，看着看着，忽然小声开口。
+小Z：「绝对不上传。」
+这次，句尾没有「大概」。那个塌了三年的尾音，在八月的晚风里，第一次补齐了。
+晚风把它吹得很远。远到三年后的每一张合照里，都还听得见。
+jumpLabel:k1init -when=ge_total >= 0;
+setVar:ge_total=0 -global;
+label:k1init;
+setVar:ge_total=ge_total + 1 -global;
+setVar:flag_ge_k=true -global;
+jumpLabel:kgo_ep -when=ge_total >= 3;
+end;
+label:kgo_ep;
+changeScene:ep_epilogue.txt;

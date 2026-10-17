@@ -1,0 +1,37 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
+bgm:晨读.mp3 -volume=45 -enter=2000;
+changeFigure:qianwen_event_seeoff.webp -id=qianwen -right;
+那一晚的两盏茶，最后都凉透了。我们谁都没有喝，谁也都没有说破。
+但有些东西不用说破，也会自己好起来。就像一场雪停了——没人宣布，地上就是干的。
+「书里有」回来了。先是偶尔一句，后来又变回那句收口的老规矩。
+折扇也开了。开扇点架，合扇叩掌，被一年级的娃娃问急了，还会半开遮面。
+夹页簿没有再拆。她把簿子收进修书室的柜子，锁好，钥匙串放进内袋。
+闭馆前的馆里，老面孔各自照旧。常来抄目录的那位同学占着靠窗的老位置，笔尖沙沙，记得比借阅簿还密。
+我推着还书车经过，想起她那句「倒着数」。我已经很久不数了——要找的东西，一直在借阅台后面。
+我的帮工，也转正了。借阅台上立起一块小小的木牌，她的字：「长期帮工·一名」。
+千问：「待遇：一盏茶，加一张凳子。任期——按规矩，续借。」
+主角我：「续借要办手续吗？」
+她从抽屉里取出借阅簿，翻到登记页，添了一行。我凑过去看。
+「长期帮工，续借一次。归还日期栏——」空着。整本簿子，只有这一行空着。
+changeFigure:qianwen_sly.webp -id=qianwen;
+千问：「归还日期，满了再填。反正这本簿子，我很耐用。」
+好吧。这是前辈式的、点到为止的挽留。我权当自己听懂了。
+那张空白的借阅卡，还在抽屉最里面。我知道它在，她知道我知道。我们很有默契地，让它继续空着。
+有些书不入藏，也不外借。就放在原来的位置——也挺好。
+changeFigure:qianwen_event_seeoff.webp -id=qianwen;
+闭馆铃响。她起身，替我拉开图书馆的门。夕阳从门外斜进来，把她的白帽照成一圈暖色。
+千问：「明天见，帮工同学。」
+门在我身后合上之前，我听见她在里面，把今天最后一句话，轻轻归了档。
+千问：「……明天见。」
+setVar:flag_ge_j=true -global;
+end;

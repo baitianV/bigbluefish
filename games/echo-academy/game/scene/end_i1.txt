@@ -1,0 +1,40 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
+bgm:标题.mp3 -volume=45 -enter=2000;
+changeFigure:mistral_event_crown.webp -id=mistral -center;
+翌日，清晨五点。天刚蒙蒙亮，部室的炉子，预热到了第三十分钟。
+案台上摆着两条围裙。我那条是新的——部规第三条，由她系。结打得对，两端等长。
+玻璃罐在案台正中，纱布掀开，面种的酸香混着麦香。一日的第一餐，由我们俩分着喂完。
+米斯特：「共炉守则，第一条：面团不看表，人也不看。第二条：出手的力道，商量着来。」
+揉面。折叠，按压，转体。她的手覆在我的手背上校正力道，白手套蹭着白手套。
+「层次是压出来的，不是叹出来的。」她说这句话的时候，语气里没有一丝叹气。
+炉门合上。等待的四十分钟里，我们分掉了昨晚剩的小法棍，把面包史从第一页讲到最新一页。
+炉铃响的时候，天已经亮透了。
+环状面包出炉。桂冠的形状，裂口均匀，断音清脆。外壳到位，内心——一秒蒸汽都没欠。
+她双手把它举起来，举成桂冠。晨光从窗口进来，落在她帽檐的金鸢尾纹上。
+米斯特：「故乡展，最终展品。展签——」
+她把提前写好的展签贴了上去。双份名字，并排。字尾翘着同样的、小小的弧度。
+米斯特：「共炉之礼，第一号，记录完毕。家政部从没记录过的仪式，从今天起，有先例了。」
+主角我：「先例的意思是——」
+米斯特：「有第二次。第三次。每天两餐喂养，每周一次共炉。写进部规，永久条款。」
+她把桂冠掰成两半，把大的那半递给我。向导的第一口，永远比她的大——她自己定的礼遇，自己记得。
+外壳脆响，内心滚烫。这一次，我们俩养的种，考出了满分。
+评分表贴在案台边，五个空格都填了满分。填表人一栏写着：常客二号。
+jumpLabel:i1init -when=ge_total >= 0;
+setVar:ge_total=0 -global;
+label:i1init;
+setVar:ge_total=ge_total + 1 -global;
+setVar:flag_ge_i=true -global;
+jumpLabel:igo_ep -when=ge_total >= 3;
+end;
+label:igo_ep;
+changeScene:ep_epilogue.txt;

@@ -1,0 +1,39 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
+bgm:日常.mp3 -volume=45 -enter=2000;
+changeFigure:qianwen.webp -id=qianwen -right;
+闭馆之后。借阅台的灯灭了一半，另一半留给一张拼出来的小桌。
+她拎着一把细长的水壶过来。杯子是新的，白瓷，杯底压着一圈蓝纹。
+千问：「坐。今天的工钱，正价。」
+主角我：「正价？那市集那天那盏算什么？」
+千问：「站着喝的，算预付。坐着喝的，才算数。」
+茶汤是浅金色的。热气上来，把她白帽的帽檐熏出一层柔光。
+她给自己也倒了一盏，在我对面坐下。馆里很静，静得听得见暮色落下来的声音。
+千问：「帮工这些天，馆里的常客，也该认一认。」
+她端起茶盏，朝旧书区的方向抬了抬。
+千问：「克劳德女士，写书的。借书成套地借，还回来的时候，书里多三种颜色的便签。」
+她又朝还书箱的方向抬了抬。
+千问：「朔音同学，读书的。每本书的第一个名字，都是她。」
+主角我：「那前辈呢？前辈是——」
+她喝茶的动作停了半拍。
+千问：「守门的。」
+两个字。说完，她自己补了一句。
+千问：「书进来，人出去，故事各归各家。守门的，不跟进去。」
+说得像一段职务说明。我总觉得哪里不对，又说不上来。
+我这盏见底的时候，她提壶给我续上。续完，杯子放回原处——桌沿。
+还是不递到手里。桌面就这么大，她偏偏把杯子放在我伸手才够得到的位置。
+主角我：「前辈，直接递给我就行。」
+提壶的手在半空停了一下。然后，合扇从桌角拿起来，在掌心轻轻叩了一记。
+千问：「递到手里的，是人情。放在桌沿的——」
+第三句没有来。流苏晃了晃，她起身收杯子去了。
+那天我才知道，前辈的留白不是没说完。是有些话说完了，就会变成债。
+changeScene:j03_overdue.txt;

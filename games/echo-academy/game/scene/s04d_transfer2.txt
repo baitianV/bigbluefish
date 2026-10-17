@@ -4,6 +4,10 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
 changeBg:bg_走廊.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
 changeFigure:kimini.webp -id=kimini -left;
@@ -25,4 +29,4 @@ changeFigure:kimini_soft.webp -id=kimini;
 姬佩缇：「委员会的摊位，欢迎三位。」佩缇颔首，「以及——别惹事。」
 克劳德女士：「三位的新故事，」克劳德女士合上书，「我可以留一页吗。」
 校园的故事，从六个人开始，才刚刚铺开。
-changeScene:s05a_rumor.txt;
+changeScene:s04e_transfer3.txt;

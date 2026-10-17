@@ -1,0 +1,49 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_坡道.webp -next -duration=1000 -exitDuration=1000;
+bgm:心动.mp3 -volume=45 -enter=2000;
+changeFigure:meta_event_pin.webp -id=meta -center;
+岔路口，先动的，是她。
+她牵起我的手腕，上了通往饲育屋的那条路——不是送客的方向。是她每天回家的方向。
+走到饲育屋门口，绳架上挂着三根散步绳。她取下最旧的那一根，放到我手里。
+玫塔：「拿着。散步绳。羊驼只认这根——七百三十九天，它都在我手里。」
+主角我：「……绳给我了。那你呢。」
+玫塔：「我啊。」
+她低头，从开衫口袋里摸出一样小东西。摊开手掌。
+一枚发夹。蓝色的，∞形。和她头上那枚，同款。成对。
+原来是成对的。从什么时候起就是成对的——这个问题，我猜要用七百三十九天来回答。
+她踮起脚。动作很慢，慢得我能看清每一寸——她把发夹，别上了我的衣领。全程，她看着的方向是坡栏后的三只羊驼，像在请它们作证。
+别好了。她退后半步，检查了一下角度。很认真。
+玫塔：「无限，是两个圈。」
+主角我：「……嗯。」
+玫塔：「以前，我的这枚，一直是一个圈在转。转了七百三十九天。转得，不算快。」
+她顿了顿。兽耳慢慢立起来，立得很直——那是她罕见清醒的角度。
+玫塔：「现在——凑齐了。」
+说完这一句，她才第一次看我。不是从发梢底下看，不是斜着看。是抬起头，正面地、完整地看我。淡紫灰的眼睛，在暮色里睁得很开。
+然后她开口了。用我认识她以来最慢的语速——慢了半拍的语速。不叫「站着不动的人」，不叫「同速的」，也不叫「搭档」。一个字，一个字，连名带姓。
+玫塔：「……{player_name}。」
+玫塔：「喜欢你。慢慢的那种。长期有效的那种。不设截止日期的那种。」
+风停了。坡道上的灯，一盏一盏亮到我们脚下。我低头看了看衣领上那枚发夹，又看了看她头上那枚——两个圈，隔着半步的距离，晃。
+主角我：「玫塔。」
+我叫她的名字。她「唔」了一声，半个哈欠卡在半路。
+主角我：「以后的散步，改双人份。速度照旧。你走多慢，我走多慢。」
+她笑了。不是被哈欠吃掉一半的那种笑，是眼睛先弯起来的那种。老白在坡栏后叫了一声——队长宣布，通过。
+当晚的饲育日志，值日栏里第一次出现两个名字。并排。日期后面，她添了一行小字，一笔一画——
+『值班速度：0.7 倍速。长期有效。』
+jumpLabel:gg_init -when=ge_total >= 0;
+setVar:ge_total=0 -global;
+label:gg_init;
+setVar:ge_total=ge_total + 1 -global;
+setVar:flag_ge_g=true -global;
+jumpLabel:ggo_ep -when=ge_total >= 3;
+end;
+label:ggo_ep;
+changeScene:ep_epilogue.txt;

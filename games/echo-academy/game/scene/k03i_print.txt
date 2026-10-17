@@ -1,0 +1,33 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_印刷所.webp -next -duration=1000 -exitDuration=1000;
+bgm:纸页月光.mp3 -volume=45 -enter=2000;
+changeFigure:zcode.webp -id=zcode -right;
+月末交印日，印刷所。油墨味和裁纸声里，店主看见她就笑了。
+印刷所店主：「来啦。每年文化祭后一个人来印一册的那位——今天带帮手了？」
+小Z：「常客条款，续订。本月《学园民间档案册》，印一册。」
+三年了。店主不用问规格，直接从抽屉里摸出她惯用的纸。熟客到这个地步，其实已经不太像客人了。
+店主去排版的工夫，她把封面纸铺在柜台上。两份封面。
+一份照旧：刊名，期号，编目号。另一份的右下角，多出一行空线。
+合著者栏。空的。
+印刷所店主：「加人手了？这一栏，填谁？」
+她的银铃轻轻响了一声。手指在那行空线上放了一会儿，又收回来。
+小Z：「备用的。」
+店主没再问，把两份封面一起送进了机器。裁刀落下，纸边齐得像一条线。
+等机器的间隙，她给我看上个月的成册——三年，一册不缺。每册的合著者栏，都是空的。
+主角我：「三年都空着？」
+小Z：「三年的「备用的」。备注栏的字体，都换过三种了。」
+她说这话的时候，正在给新册压边。压边刀推过去，带空线的那一份，她单独用一张油纸包了起来。
+小Z：「防潮。备注：空线不怕等，怕潮。」
+店主把裁下来的纸边扫进纸篓，随口说：「下个月见。」她答：「下个月见。」——这句对话，三年没变过。
+回去的路上，她抱着刚印好的新册，抱得比黑书还紧。空线朝里，贴着她的手臂。
+我没有问那行空线在等谁。有些栏目，得等填的人自己敢填。
+changeScene:k04_pages.txt;

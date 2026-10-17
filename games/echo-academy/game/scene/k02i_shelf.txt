@@ -1,0 +1,34 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
+bgm:晨读.mp3 -volume=45 -enter=2000;
+changeFigure:zcode.webp -id=zcode -right;
+导览结束，她没有送客。归档时间，到了。
+今天的「新页」摊在桌面上：限定菜单的售罄牌，涂鸦墙的特写，还有一张我笑得毫无防备的入镜照。
+她按年份入箱，按编号入簿，动作轻得像在给什么东西盖被子。
+我帮着压纸角。整间档案馆安静得能听见浆糊干掉的速度。
+书架后面，银铃之前，先响的是纸。一摞稿纸从架缝里递了出来。
+changeFigure:zcode_delight.webp -id=zcode;
+changeFigure:feibu_event_letter.webp -id=feibu -left;
+克劳德女士：「退稿信，三十七封。说书人的全部收藏——换你的拓印，付这个当稿酬。两清。」
+小Z：「成交。」
+两个收集者，一句话成交。谁也没讨价，谁也没客气。
+克劳德女士：「孤本换孤本。」
+小Z：「补一句备注。三十七封退稿信的收藏价值：全份。缺一封，都不叫全份。」
+克劳德女士：「……一封都不会少的。」她把稿纸抱紧了些，「全份，很贵的。」
+我帮她们搬箱子，瞥见交易清单的抬头。钢笔字，写得郑重：未寄出陈列室。
+主角我：「未寄出陈列室？」
+克劳德女士：「收无处可去的信的地方。」她把稿纸码齐，「退稿信算。寄不出去的话，也算。」
+小Z把那三十七封退稿信抱进怀里，抱得和黑书一样紧。
+小Z：「归入新类。类名：别人替我保管的、寄不出去的东西。备注：建馆以来第一件外馆藏品。」
+克劳德女士抱着拓印走了。馆里剩一盏灯，她把今天最后一张新页压平——那张我笑得毫无防备的照片，被她贴进了一号页的背面。
+小Z：「一号页，双面。档案学允许。」
+changeScene:k03_walk.txt;

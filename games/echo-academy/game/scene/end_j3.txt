@@ -1,0 +1,26 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_坡道.webp -next -duration=1000 -exitDuration=1000;
+bgm:纸页月光.mp3 -volume=45 -enter=2000;
+第二年，旧书市集照常开。图书馆连廊比去年还热闹，听说帮工都排上了班。
+我是在坡道底下听说的。放学路过。刚好，路过。
+坡道往上，能看见借阅台的窗。灯亮着——比上学铃早半小时的那种亮法。一年三百多天，没变过。
+摊位后面换了个新帮工，笨手笨脚，把高矮排错了。她没说破，只是蹲下来，把两本书调换了位置。
+台面上立着一个小竹罐，插满茶票，标签上写：「帮工茶票，凭条自取」。落款统一印着——图书委员·千问。
+只有罐底压着一张旧的。工钱那栏是手写的：「一盏茶」。落款处空着。一直空着。
+后来听新生学舌，说有个人好奇想去抽那张，被她按住了罐口。
+新生：「前辈就说了四个字——『已有其主』。然后就不再理人了，超酷的。」
+我站在坡道底下，没有上去。口袋里那张旧纸条还在：「急征搬书帮工一名。工钱：一盏茶。」
+帮工的工钱，我到现在没有领完。账在她那里挂着。一直挂着。
+图书馆的门每天照旧早开半小时。有人守着所有故事进门——只是那个故事里，桌沿这边最安静的位置，从此空着。
+我把纸条折好，放回口袋。转身下坡的时候，风把连廊上的旧书页掀得哗啦一响。
+像谁翻开了那一页，又轻轻合上了。
+end;

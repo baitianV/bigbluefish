@@ -1,0 +1,33 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_天台_夕.webp -next -duration=1000 -exitDuration=1000;
+bgm:温柔.mp3 -volume=45 -enter=2000;
+changeFigure:zcode_serious.webp -id=zcode -center;
+标注完待授权页的那个黄昏，她把我叫上了天台。
+夕烧把水泥地染成暖色。风很小，小得配不上她脸上的表情。
+她从黑书夹层里，取出一份折得整整齐齐的清单。纸边磨圆了，折痕深得像用过很多年。
+小Z：「绝不上传清单。全馆机密等级最高的一份。今天，给你看。」
+清单一页一个名字。深寻的输棋三十七秒。佩缇的糖罐见底。克劳德的退稿信。洛珂的走音半句。朔音哭湿的书页。
+每一页的备注栏，都只有同样一句话：不上传。不外借。不展示。
+她的表情，是我没见过的。没有笑，没有慌，学者一样平静——平静得像在宣读一份判给自己的判决书。
+小Z：「这些不是战利品。是大家不小心给我的信任。我守着，就谁也不敢给——连你。」
+风把清单的页角掀起来，她按住了。按了很久。
+小Z：「但今天的质询，让我想明白一件事。匿名帖敢写那个字，是因为他们只知道收藏的存在，不知道规则的存在。」
+小Z：「规则需要第二个保管人。单点备份，是档案学大忌。」
+她把清单的纸质备份折好，塞进我手里。动作很快，快得不留拒绝的余地。
+小Z：「放你那。你最……备份最勤快。」
+说到一半卡住的那个词，我们都听见了。她转身去看夕阳，狼耳的绒毛被染成金色。
+小Z：「问题。如果有一天，这份清单和我的名声，只能保一个——你保哪个？」
+我还没答，她自己摆了摆手。
+小Z：「问题撤回。备注：问出口的时候，就已经是答案了。」
+夕阳沉下去一半。她抱着黑书站在天台边上，影子被拉得很长，长得像提前铺好了明天的路。
+我低头看手里那份清单。折痕很深。有些折痕，是抱在怀里太多年才会有的。
+changeScene:k05_leak.txt;

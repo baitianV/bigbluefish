@@ -1,0 +1,7 @@
+jumpLabel:gi_love -when=affection_i >= 8 && flag_i3_echo;
+jumpLabel:gi_friend -when=affection_i >= 6;
+changeScene:end_i3.txt;
+label:gi_love;
+changeScene:end_i1.txt;
+label:gi_friend;
+changeScene:end_i2.txt;

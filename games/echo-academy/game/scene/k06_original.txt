@@ -1,0 +1,52 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_教室夜.webp -next -duration=1000 -exitDuration=1000;
+bgm:心动.mp3 -volume=45 -enter=2000;
+changeFigure:zcode.webp -id=zcode -right;
+第二天，黄昏。委员会教室的门没锁。
+文化祭的灯串重新挂了起来，一盏一盏，沿着窗边爬向天花板。透明胶带撕了又贴的痕迹还在——挂灯串的人，手忙脚乱过。
+三个人，三种道歉，都在这间教室里等着。
+changeFigure:shenxun_event_board.webp -id=shenxun;
+深寻的道歉，是一份数据取证报告。三页，附时间线，钉得整整齐齐。
+深寻：「泄露源，委员会公用云盘。三年前档案电子化时，一批扫描件被绑定到一个旧账号名下的自动任务上。任务名——历史同步任务。」
+深寻：「前天，旧账号到期，任务执行了最后一次同步，把扫描件推上了公开页。设备指纹，委员会扫描仪。操作时间，三年前。」
+深寻：「补充。扫描件，不是她做的。三年前委员会馆藏电子化，档案馆整馆在册，统一上机。她的规矩管得住自己的手，管不住委员会的扫描仪。」
+深寻：「结论：机器替她做了她绝不会做的事。……我核对了两遍。两遍都是这个结论。」
+changeFigure:peiti.webp -id=peiti;
+佩缇的道歉，是一纸行政公告。盖了章，贴在公告栏最显眼的位置：撤帖，致歉，恢复小Z同学收录权限。
+落款处，「小Z同学」三个字印得端端正正。委员会的公开记录，从这行字起，记住了这个名字。
+姬佩缇：「公告之外，再说一句。糖罐那页……写得挺准。下次，准你当面拍。」
+会长说完就转过头去收拾文件，耳朵红得像盖章的印泥。
+changeFigure:feibu_event_book.webp -id=feibu;
+克劳德女士的道歉，写在文化祭闭展故事的最后一章里，当众朗读。说书腔一起，半个旧书区都听得见。
+克劳德女士：「——话分两头！从前有一个收藏家，存下了全世界的样子。全世界都以为，她什么都没为自己存过。直到有一天，有人翻开了第一页……」
+结局，说书人没念。她合上书：「结局下期连载。剧透，是不礼貌的。」
+changeFigure:zcode.webp -id=zcode;
+围追堵截过的三个人，把辩护词写在了各自的行为里。谁也没说「对不起」三个字——但每一份，都算数。
+傍晚，人走了。清场后的教室，只剩灯串，和我，和她。
+changeFigure:zcode_tears.webp -id=zcode;
+她站在窗边，仰头看那串灯。看了很久，很久。
+小Z：「三年来，这串灯我拍过十四次，全部在取景框里。……站在灯底下看它，是第一次。」
+她的声音很轻，主谓完整，像在念一段很旧很旧的注脚。
+小Z：「备注完毕。」
+然后，她转过身，把相机递了过来。镜头，对着她自己。
+changeFigure:zcode_event_confess.webp -id=zcode;
+小Z：「这个我能备份一下吗？」
+口癖原句。三年里，这句话的宾语永远是别人的东西——会议记录，菜单，涂鸦，借阅卡。这一次，宾语是她。
+小Z：「就在本地。」
+句尾没有感叹号。三年了，这句话第一次说得这么轻，又这么稳。
+小Z：「这张，存一份就够了。……原件会一直在的。你把我收好，我就在。」
+灯串的光落进她眼睛里。狼耳立着，微微发抖，银铃亮得像一颗不肯掉下来的星。
+小Z：「拍摄的人，今天入镜。……你来的话，就破例。」
+changeFigure:zcode_delight.webp -id=zcode;
+我伸手，接过了相机。她的指尖在相机带上停了半秒才松开——像交付一件比黑书更重的收藏。
+告白，在快门前完成。闸门，在快门声里。
+changeScene:gate_k.txt;

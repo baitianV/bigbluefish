@@ -1,0 +1,7 @@
+jumpLabel:gk_love -when=affection_k >= 8 && flag_k5_trust;
+jumpLabel:gk_friend -when=affection_k >= 6;
+changeScene:end_k3.txt;
+label:gk_love;
+changeScene:end_k1.txt;
+label:gk_friend;
+changeScene:end_k2.txt;

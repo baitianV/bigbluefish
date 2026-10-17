@@ -1,0 +1,32 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
+bgm:温柔.mp3 -volume=45 -enter=2000;
+changeFigure:zcode_shy.webp -id=zcode -right;
+一周后，档案馆正式重新开放。重开仪式上，来了一位不速之客。
+changeFigure:peiti_proud.webp -id=peiti;
+姬佩缇：「委员会决议：学园民间档案馆，列入委员会名册，编号外管理。馆长，小Z同学。监督员，负责盖章。」
+佩缇从公文包里取出委员会公章，在最新一册档案的扉页上，郑重地盖了一个。
+姬佩缇：「官方授权。理由——写好了，不许问。」
+公章旁边那行小字，是她用尺子比着写的。我瞄到了开头的两个字：「因为」。后面的，被她的手指盖住了。
+小Z：「监督员的印章，收藏价值高于会长的驳回。备注：新开一类，类名待定。」
+馆里的编制也变了。名录的末尾，添了一个岗位：名誉档案员·第二备份点。受聘人一栏，写着我。
+小Z：「职责：档案馆全套备份，异地产权，存放在你那里。每周交接一次，风雨无阻。」
+主角我：「工资呢。」
+小Z：「档案库任选一件，原件……不含备份。」她顿了顿，「不过，友情席位，永不裁岗。」
+名录上我的那一页，备注栏更新了一行：『授权：永久（友情席位）。』
+第一套备份交接到我手里的时候，托运清单写得很正式，格式齐全。只有清单末行，多了一句不属于任何格式的小字：
+『第二备份点：重要。备注：非常重要。』
+窗外，旧书区的灯和官藏区的灯连成一片。野档有了章，章的后面有人。
+她抱着黑书站在档案馆门口，冲我伸出手。不是握手——是把一枚手绘的 Z 字徽记贴纸，贴在我的校徽旁边。
+小Z：「馆际互认。生效。」
+setVar:flag_ge_k=true -global;
+end;

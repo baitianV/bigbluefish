@@ -1,0 +1,25 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_图书馆.webp -next -duration=1000 -exitDuration=1000;
+bgm:未寄出的信.mp3 -volume=45 -enter=2000;
+那晚之后，我没有再去旧书区。
+帖子沉下去了，辟谣来了又走。风向转得比谁都快，快得像什么都没发生过。
+档案馆照常营业。我从借阅台前路过的时候，能看见书架缝里那盏灯还亮着，编目的沙沙声还响着。
+只是硬壳簿里，我的那一页停更了。最后一页的日期，停在文化祭当天。
+后来我在新一册《学园民间档案册》里看见，文化祭当天的一张照片被单独付印，边角烫了银，用的全馆最好的纸。
+照片被装进一个信封，信封送往一个地方——未寄出陈列室。
+收件人一栏，空白。
+克劳德女士没有问收件人是谁。陈列室的规矩：寄不出去的信，不问收件人。
+有一次深夜路过，我听见银铃极轻地响了一声，又停了。像有人从书架缝里看了一眼，又缩了回去。
+我们都没有再往前走一步。档案学里，这大概有一个术语，我没有去查。
+我只记得她说过——档案员不删页。只是停更。
+旧书区的灯每晚都亮。只是从那晚起，灯下的登记簿翻过新的一页，页首一行字：本周新增委托，零。
+end;

@@ -1,0 +1,29 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_坡道.webp -next -duration=1000 -exitDuration=1000;
+bgm:温柔.mp3 -volume=45 -enter=2000;
+changeFigure:meta_giggle.webp -id=meta -center;
+岔路口，她想了很久。久到老白在坡栏后打了一个哈欠，又打了一个。
+最后，她从开衫口袋里摸出一样小东西——举到一半，又放了回去。蓝色的∞在口袋沿上晃了一下，缩回暮色里。
+玫塔：「……还没到时候。」
+她改从另一个口袋里掏出一样东西，塞进我手心。
+一枚白色绒球挂饰。毛茸茸的，带着体温。她自己书包上还挂着另一枚，一模一样。
+玫塔：「饲育屋，常驻。值日表，写好了。你的名字，每周三和周六。」
+主角我：「值日表的『理由』那一栏，你写了什么。」
+她把小本子往身后藏了藏。
+玫塔：「理由……写好了。不许问。」
+主角我：「那，什么时候能问。」
+玫塔：「等我哪天，走路比现在快一点的时候。」
+我们在岔路口分开。她上坡，我下坡。走出几步她回头，挥手的速度也很慢——慢得像在说，不急着挥手，反正明天还见。
+口袋里的绒球蹭着手心。有些名字写在值日表上，有些理由，留在没写的那一栏。
+都挺好。现在这样，已经是一条路的两半了。剩下的半步，不急。她说过的——话题又不会跑。人，大概也是。
+setVar:flag_ge_g=true -global;
+end;

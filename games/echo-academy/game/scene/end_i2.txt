@@ -1,0 +1,25 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_走廊.webp -next -duration=1000 -exitDuration=1000;
+bgm:日常.mp3 -volume=45 -enter=2000;
+changeFigure:mistral.webp -id=mistral -right;
+学园面包地图，定稿。复印三份，一份贴在部室门口，镶了玻璃框。
+标题下方多了一行小字：特聘翻译（深寻语）——某位转学生，持证上岗。
+配给窗口的队伍，比文化祭的时候还长。常客一号的份额，出炉后优先装袋。部规第七条，试行中。
+案台最深处，那只玻璃罐照旧立在老位置。纱布换成了新的。罐口的缎带也重新系过了。平结，两端等长。
+米斯特：「闭幕那晚的发言，部内重新裁定过了。分种，维持原判——面种认了人，不换手。其余条目，移入慢发酵栏。不销案，不改名。熟成要多久，面团说了算。」
+米斯特：「朋友一起养，应该——不违部规。第七条的编外条款，今日生效。」
+她说这话的时候没看我，正给地图补最后一个批注。批注是商店街的新店：层次二十六，可与榜首一战。
+米斯特：「下次巡店，向导照旧。报酬照旧——第一口，永远比我的大。」
+我说好。她点点头，帽檐一歪，转身在地图的角落添了一笔。
+是「朋友」两个字。写得工整，字尾翘着小弧度。旁边照例，画了一只歪歪扭扭的猫爪印。
+setVar:flag_ge_i=true -global;
+end;

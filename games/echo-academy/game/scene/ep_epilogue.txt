@@ -38,7 +38,7 @@ changeFigure:feibu.webp -id=feibu -center;
 「这张我存三份。本地、本地、还是本地。」
 照片里，鲸尾翘着，小蓝云飘着，羽毛笔举着。
 夏天，被存下来了。
-;════ 后日谈·六人版分岔：D/E/F 线 GE 到达者（flag_ge_d/e/f 由各线 end_*1/end_*2 置位；进入本场景由恋GE计数 ge_total>=3 决定）════
+;════ 后日谈·十人版分岔：D/E/F/G/I/J/K 线 GE 到达者（flag_ge_* 由各线 end_*1/end_*2 置位；进入本场景由恋GE计数 ge_total>=3 决定；十人合影 ep_fin6 需七线 flag_ge 全 true）════
 jumpLabel:ep_d_after -when=!flag_ge_d;
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
@@ -92,7 +92,69 @@ changeFigure:shuoyin_smile.webp -id=shuoyin -center;
 这一次，她没有把书抱紧。
 书是摊开的。像以后一直都会是那样。
 label:ep_f_after;
-jumpLabel:ep_fin6 -when=flag_ge_d && flag_ge_e && flag_ge_f;
+jumpLabel:ep_g_after -when=!flag_ge_g;
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:meta.webp -id=meta -center;
+最后慢吞吞到场的，是牵着老白的玫塔。一步，一步，像把整个夏天走成了散步。
+「大家等急了吧。……不急的话，就好。」
+老白在防波堤下叫了一声。她想了想，补充道：「麻糬和小满在山上。今天是老白的班。」
+合照的时候，她站得比谁都慢半拍——快门落下，她的笑刚好赶到。
+「……不赖。」她说，「这张，话题又不会跑。」
+label:ep_g_after;
+jumpLabel:ep_i_after -when=!flag_ge_i;
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:mistral.webp -id=mistral -center;
+米斯特拎着一只大得离谱的提篮到场，白手套一丝不苟——篮子里，是给全员的面包。
+「合影加餐，全员份。这正是。」她把篮子举过头顶，「文化祭的面包摊，合格。」
+「黄油十割的那一炉，本来是非卖品。」
+「……才怪。从今天起是限定品。你们每个人，都是常客。」
+「——bon。这个称号，不退不换。」
+label:ep_i_after;
+jumpLabel:ep_j_after -when=!flag_ge_j;
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:qianwen.webp -id=qianwen -center;
+千问带着折扇来，身后跟着半个图书馆——新学期的荐书单，她顺手也带来了。
+「海边的合影，馆藏还没有。」扇尖在空气里轻轻一点，「今天，补上。」
+「按规矩，编目要写来源。」她合扇在掌心叩了一记，「来源……就写『夏天』。」
+「剩下的，」她望向海面，「书里有。」
+label:ep_j_after;
+jumpLabel:ep_k_after -when=!flag_ge_k;
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:zcode.webp -id=zcode -center;
+最后跑进画面的，是那个熟悉的连帽衫身影。这一次，她把手机塞回了洛珂手里。
+「这张不备份！原图给一个人！」
+银铃响成一串。她站到了画面正中央——取景框里第一次，有了她自己。
+「备注一句。」她小声说，「档案学基础，修订版：拍摄的人，也可以入镜。」
+「……大概。」
+label:ep_k_after;
+;十人合影旗舰收尾：七线 flag_ge 全 true 才可达——旧线玩家不见陌生人，新四线全通不被稀释（五人团意见 11/15）
+jumpLabel:ep_fin6 -when=flag_ge_d && flag_ge_e && flag_ge_f && flag_ge_g && flag_ge_i && flag_ge_j && flag_ge_k;
 （字幕）
 这个夏天，谢谢你来过回声学园。
 下一个夏天，也请多指教。
@@ -104,19 +166,28 @@ changeFigure:none -id=feibu;
 changeFigure:none -id=kimini;
 changeFigure:none -id=luoke;
 changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
 changeFigure:kimini.webp -id=kimini -left;
 changeFigure:luoke.webp -id=luoke -center;
 changeFigure:shuoyin.webp -id=shuoyin -right;
+changeFigure:meta.webp -id=meta -left;
+changeFigure:mistral.webp -id=mistral -center;
+changeFigure:qianwen.webp -id=qianwen -right;
+changeFigure:zcode.webp -id=zcode -center;
 「人齐了！」连帽衫的她举着手机一路倒退，找角度找得差点踩进海里。
-「第二张！这次塞六个人！」
-「六个人怎么塞进一张照片啊。」「挤一挤。物理问题，好解决。」
+「第二张！这次塞十个人！」
+「十个人怎么塞进一张照片啊。」「挤一挤。物理问题，好解决。」
 「会长请站中间——预算内最中间！」
 「都别吵。」防波堤那边传来深寻的声音，「第二决胜局开始。谁闭眼谁输。」
 三、二、一——
 咔嚓。
 第二张照片里，鲸尾翘着，小蓝云飘着，羽毛笔举着。
 星星亮着，虎牙露着，借阅卡上的章，一枚挨着一枚。
-夏天，被存了两份。一份给九月，一份给下个夏天。
+发夹晃着，法棍立着，折扇合着，Z 字徽记别在帽檐上。
+十个人的夏天，被存了下来。全员入镜，一份不少。
 （字幕）
 这个夏天，谢谢你来过回声学园。
 人齐了。下一个夏天，也请多指教。

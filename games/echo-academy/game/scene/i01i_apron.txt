@@ -1,0 +1,27 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_教室.webp -next -duration=1000 -exitDuration=1000;
+bgm:日常.mp3 -volume=45 -enter=2000;
+changeFigure:mistral.webp -id=mistral -right;
+次日早上，我在课桌里发现一张纸条。折成了面包的形状。
+『家政部·临时帮工，招募一名。条件：会洗手。时间：今日午间。报酬：管饱。——米斯特』
+于是午间，家政部室。小黑板擦得干干净净，上面用粉笔写了五条部规，字尾一律翘着小弧度。
+她站在黑板旁，像宣布条约一样清了清嗓子。
+米斯特：「家政部部规，临时帮工适用版。第一条：进部室先洗手。贵气也不例外。」
+我举起还在滴水的手，表示服从。她检阅般看了一遍，点头，从衣帽钩上取下一条叠得方方正正的围裙。
+米斯特：「第二条，已经作废过三次，略。第三条：围裙由本部长系。系带打平结，两端等长。」
+她绕到我身后。系带穿过指间的声音很轻。打结的手势标准得像仪仗兵叠旗，一下，两下，收紧。
+米斯特：「结打得对，面包才站得直。人也是。」
+我低头看那个结。端正，对称，两端果然等长。
+米斯特：「第五条：道歉之前，先理系带。理好了再开口——这是把心放回原位的工序。」
+说完她给自己也理了理系带。明明，她什么都没做错。
+部室的门被推开，配给窗口开张的木牌翻了过来。午间的战场，开饭。
+changeScene:i02_feeding.txt;

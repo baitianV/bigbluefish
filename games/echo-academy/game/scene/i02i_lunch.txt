@@ -1,0 +1,26 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_走廊.webp -next -duration=1000 -exitDuration=1000;
+bgm:日常.mp3 -volume=45 -enter=2000;
+changeFigure:mistral.webp -id=mistral -right;
+配给收摊的时候，午休只剩十五分钟。
+走廊的窗台上，她摊开一张大幅草稿。铅笔手绘，标题写着：学园面包地图·第一版。
+校舍平面图画得极工整，每一家「好面包」的位置都标着编号，编号旁是小小的批注。
+「站前商店街·可颂：层次二十四，常变。需复查。」「校内小卖部·菠萝包：诚实，但懒惰。」
+米斯特：「请验收。地图师自荐，翻译兼任向导。本周末，巡店。」
+主角我：「向导的报酬呢。」
+米斯特：「向导的第一口，永远比我的大。这是地图师的最高礼遇。」
+地图的角落，画着三只小小的空杯，旁边标着一行批注：常客一号·首战三样本，清空。勋章。
+米斯特：「地图完成后，复印三份。一份贴部室，一份存档。还有一份——给常客一号，热量的疆域图。」
+她卷起地图的动作，像收起一面军旗。
+预备铃响了。她把地图夹好，忽然回头。
+米斯特：「周末，十点，站前。迟到的向导，罚听面包史全集——共十二讲，含考核。」
+changeScene:i03_echo.txt;

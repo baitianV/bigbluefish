@@ -1,0 +1,48 @@
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeBg:bg_教室夜.webp -next -duration=1000 -exitDuration=1000;
+bgm:低气压.mp3 -volume=45 -enter=2000;
+changeFigure:zcode.webp -id=zcode -right;
+当晚，十点零七分，校内向版的服务器记录里多出一个新帖。
+标题一字不差——『偷数据的Z的收藏』。帖子里，是「绝不上传清单」的全文。
+深寻的输棋三十七秒。佩缇的糖罐见底。克劳德的退稿信。洛珂的走音半句。朔音哭湿的书页。
+一页一个名字，一页一根针。三年来她没敢给任何人看的东西，一夜之间，摆在了全校的桌上。
+委员会教室的灯，在十一点重新亮起。紧急集合。
+changeFigure:peiti_tired.webp -id=peiti;
+姬佩缇：「解释。清单为什么在外面。」
+changeFigure:zcode.webp -id=zcode;
+小Z：「我不知道。纸质备份只有一份，昨晚起不在馆内。原件在我手里，从未离身。」
+「从未离身」四个字，在安静的教室里，显得那么单薄。
+帖子的楼层还在涨。有人对号入座，有人催更，有人在问「三十七秒」的截图什么时候放出来。
+她张了张嘴，想说「不是我」。这四个字她练了三年，一次都没用过——因为她从来没需要过辩解。
+changeFigure:shenxun_think.webp -id=shenxun;
+深寻：「发帖设备的指纹，我查过了。和她本人所有设备，都不重合。上传源不在本地。」
+深寻：「但校内的口径不看指纹。帖子里写着她的名字。」
+无法自证。四个字压下来，比任何质询都重。
+姬佩缇：「糖罐的事，我连深寻都没说过。」她把手机扣在桌上，「现在，全校都知道了。」
+姬佩缇：「收录权限，即日起停止。档案相关物品，交委员会封存。」
+佩缇说这话的时候，没有看她。糖罐见底那一页，此刻正躺在全校的手机屏幕上。
+克劳德女士：「我的退稿信……」她的声音很轻，「三十七封。第十七封上，有我不想让任何人看见的话。」
+没有人吵。正因为没有人吵，教室才冷得像一口井。
+主角我：「清单里有我的页。授权人是我。我可以说清楚——」
+话没说完。人群里有人小声接了一句：「授权人？就他一个？那不正好，防人之口。」
+我的辩护，一个人撑不住。声音掉进人堆里，连个回声都没有。
+changeFigure:zcode_event_broken.webp -id=zcode;
+然后，在某个没有征兆的瞬间，她抱头蹲了下去。
+音量减半。抱头蹲下。小声找补——这次连找补都没有了，只有肩膀在抖。
+同一个姿势，第四次。第一次有人送她出门，上一次没有人笑。
+这次，没有人送她出门。人群自己散了。椅子腿的脚步声一层一层薄下去，房间自己空了。
+changeFigure:zcode_event_broken.webp -id=zcode;
+灯管嗡嗡地响。她蹲在教室最里面的角落，狼耳全倒，尾巴炸开的绒毛贴着地板。黑书倒在一步之外，Z字徽记朝下。
+没有人再拿扫地机器人开玩笑。上一次她被送出门的时候，好歹还有人笑。
+我站在门口。门开着，夜风穿堂而过。走廊里，还有人没走远，议论声像退潮时留在沙滩上的水洼。
+setVar:flag_k5_trust=false -global;
+choose:追出去。当众把责任引到我身上:k05_r1.txt|深夜，带着那份纸质备份去找她:k05_r2.txt|先跟着人流走:k05_r3.txt;
