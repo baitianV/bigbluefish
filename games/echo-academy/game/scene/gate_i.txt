@@ -2,7 +2,7 @@
 她掀开纱布，给面种喂今天的第二餐。面粉落进去，静了三秒，罐里浮起一串细小的泡——像很远的地方，有什么应了一声。
 米斯特：「听。每天两喂，它每天都会应。不是我在养它——是它替这座炉子，把「明天」原样传回来。」
 changeFigure:mistral_soft.webp -id=mistral;
-米斯特：「黄昏走廊里，我说过一句不像我的话。它现在每晚都回来一趟，跟着炉温一起。……搭档，你的那一份，收到了吗。」
+米斯特：「黄昏走廊里，我说过一句不像我的话。它现在每晚都回来一趟，跟着炉温一起。……搭档，它也会去你那边一趟吗。」
 jumpLabel:gi_love -when=affection_i >= 8 && flag_i3_echo;
 jumpLabel:gi_friend -when=affection_i >= 6;
 changeScene:end_i3.txt;

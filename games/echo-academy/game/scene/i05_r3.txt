@@ -8,6 +8,6 @@
 米斯特：「而你一句——穿围裙就够了。判词收录。交流周当天，本展全员，围裙制。」
 她从衣帽钩上取下那条备用围裙，看了看，又挂了回去。
 米斯特：「你的那条，部规第三条，还是要我系。……失礼了，规矩不能坏。」
-setVar:affection_i=affection_i + 2 -global;
-（米斯特　好感 +2）
+setVar:affection_i=affection_i + 1 -global;
+（米斯特　好感 +1）
 changeScene:i06_crown.txt;

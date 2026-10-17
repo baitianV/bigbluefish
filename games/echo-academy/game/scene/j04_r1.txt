@@ -13,6 +13,6 @@
 收拾东西的时候，我瞥见她把那张盘点单对折，压进了登记簿最底下。折起之前，备注栏的最底下，多了一行小字——墨色比正文新，字比正文小。
 主角我：「备注栏，写的什么？」
 千问：「……有些条目，不列盘点。」
-setVar:affection_j=affection_j + 2 -global;
-（千问　好感 +2）
+setVar:affection_j=affection_j + 1 -global;
+（千问　好感 +1）
 changeScene:j05_silence.txt;

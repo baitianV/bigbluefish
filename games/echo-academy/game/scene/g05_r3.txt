@@ -9,6 +9,6 @@
 那只歪∞。画完，她盯着看了一会儿，又抬眼看了看自己发夹上那枚真的，然后把字条压好，什么也没说。
 回程的走道，她的哼声轻轻地响了。还是那支调子。三个音，第四个音——这一次，她哼过去了。
 有些调子，是自己一个音一个音，慢慢捡回来的。
-setVar:affection_g=affection_g + 1 -global;
-（玫塔　好感 +1）
+setVar:affection_g=affection_g + 2 -global;
+（玫塔　好感 +2）
 changeScene:g05i_bench.txt;

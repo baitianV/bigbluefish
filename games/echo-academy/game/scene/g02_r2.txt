@@ -9,7 +9,6 @@
 她眨了眨眼。半睁的眼睛睁大了一点——只有一点。但在她脸上，已经算大动作了。
 玫塔：「……嗯。一起写。慢的那种。」
 尾音回来了。虽然还短着，但，回来了。
-setVar:flag_g2_truth=true -global;
 setVar:affection_g=affection_g + 2 -global;
 （玫塔　好感 +2）
 changeScene:g02i_hay.txt;

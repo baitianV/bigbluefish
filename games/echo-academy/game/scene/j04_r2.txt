@@ -7,6 +7,6 @@
 千问：「盘点单上的说法，是备用卡。馆里规矩，人手一张。」
 后面这两句补得又稳又齐。可我们两个都知道，先出口的是哪一句。
 那天收工，桌沿的茶照旧。只是她收杯子的时候，把那只白瓷杯单独洗了两遍。
-setVar:affection_j=affection_j + 1 -global;
-（千问　好感 +1）
+setVar:affection_j=affection_j + 2 -global;
+（千问　好感 +2）
 changeScene:j05_silence.txt;
