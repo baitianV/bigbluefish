@@ -1,6 +1,7 @@
 changeFigure:none -id=shenxun;
 changeFigure:none -id=peiti;
 changeFigure:none -id=feibu;
+changeFigure:none -id=doubao;
 changeBg:bg_教室夜.webp -next -duration=1000 -exitDuration=1000;
 bgm:日常.mp3 -volume=45 -enter=2000;
 changeFigure:peiti.webp -id=peiti -left;
@@ -59,6 +60,7 @@ unlockCg:cg_lanterns.jpg -name=灯亮起来了;
 报酬：档案库任选一件。原件，不含备份。
 备注：本委托常年一人成行。今年想试试两个人的版本。……大概。』
 落款没有名字，只画着一枚手绘的 Z 字徽记。
-灯下。十份邀约在掌心里排开。
+——『我将用最直白、最不绕弯子的方式来开头：文化祭夜，食堂窗口，特餐一份，我请。理由？没有理由，就是想让你吃。——豆包（食堂窗口担当，昨日入职）』
+灯下。十一份邀约在掌心里排开。
 夏天，只剩一个晚上了。
-choose:棋摊·深寻:a00i_ticket.txt|总指挥·姬佩缇:b01_committee.txt|书展·克劳德女士:c00i_blank.txt|招新摊·基米妮:d01_kimini_meet.txt|天台广播·洛珂:e01_radio.txt|连载终点·朔音:f01_queue.txt|长椅·玫塔:g01_slope_meet.txt|面包摊预约·米斯特:i01_bread_debut.txt|旧书市集·千问:j01_fleamarket.txt|收录委托·小Z:k01_backup.txt;
+choose:棋摊·深寻:a00i_ticket.txt|总指挥·姬佩缇:b01_committee.txt|书展·克劳德女士:c00i_blank.txt|招新摊·基米妮:d01_kimini_meet.txt|天台广播·洛珂:e01_radio.txt|连载终点·朔音:f01_queue.txt|长椅·玫塔:g01_slope_meet.txt|面包摊预约·米斯特:i01_bread_debut.txt|旧书市集·千问:j01_fleamarket.txt|收录委托·小Z:k01_backup.txt|食堂窗口·豆包:h01_canteen.txt;

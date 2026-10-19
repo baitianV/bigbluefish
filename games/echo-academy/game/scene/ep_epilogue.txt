@@ -153,6 +153,22 @@ changeFigure:zcode.webp -id=zcode -center;
 「备注一句。」她小声说，「档案学基础，修订版：拍摄的人，也可以入镜。」
 「……大概。」
 label:ep_k_after;
+;════ 豆包彩蛋后日谈一句（flag_h_egg 由 h02_laugh 置位；彩蛋位零好感零 gate 零结局写点，收束=一起捧腹大笑）════
+jumpLabel:ep_h_egg_after -when=!flag_h_egg;
+changeFigure:none -id=shenxun;
+changeFigure:none -id=peiti;
+changeFigure:none -id=feibu;
+changeFigure:none -id=kimini;
+changeFigure:none -id=luoke;
+changeFigure:none -id=shuoyin;
+changeFigure:none -id=meta;
+changeFigure:none -id=mistral;
+changeFigure:none -id=qianwen;
+changeFigure:none -id=zcode;
+changeFigure:doubao_laugh.webp -id=doubao -center;
+豆包：「我将用最直白的方式插播一句：新学期，食堂窗口照常营业！特餐不变——笑到捧腹，管饱！」
+changeFigure:none -id=doubao;
+label:ep_h_egg_after;
 ;十人合影旗舰收尾：七线 flag_ge 全 true 才可达——旧线玩家不见陌生人，新四线全通不被稀释（五人团意见 11/15）
 jumpLabel:ep_fin6 -when=flag_ge_d && flag_ge_e && flag_ge_f && flag_ge_g && flag_ge_i && flag_ge_j && flag_ge_k;
 （字幕）
